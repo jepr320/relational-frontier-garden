@@ -9,7 +9,7 @@ related: [social-acceleration, alienation, critical-theory, charles-taylor]
 
 # Hartmut Rosa
 
-Hartmut Rosa (b. 1965) is a German sociologist and social theorist who has done something rare in contemporary academia: he has developed a normative vision that is both empirically grounded and genuinely inspiring. His concept of resonance — the vibrant, responsive, transformative relation between self and world that modernity systematically destroys — has become one of the most generative frameworks in contemporary social theory. He teaches at the University of Jena, where he holds a chair in general and theoretical sociology, and his work sits at the intersection of critical theory (he was a student of Axel Honneth), phenomenology, and the sociology of time.
+Hartmut Rosa (b. 1965) is a German sociologist and social theorist who has done something rare in contemporary academia: he has developed a normative vision that is both empirically grounded and genuinely inspiring. His concept of [[concepts/resonance|resonance]] — the vibrant, responsive, transformative relation between self and world that modernity systematically destroys — has become one of the most generative frameworks in contemporary social theory. He teaches at the University of Jena, where he holds a chair in general and theoretical sociology, and his work sits at the intersection of critical theory (he was a student of Axel Honneth), [[traditions/phenomenology|phenomenology]], and the sociology of time.
 
 ## Core Ideas
 

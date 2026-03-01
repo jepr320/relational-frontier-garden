@@ -9,7 +9,7 @@ related: [encounter, dialogue, presence]
 
 # I-Thou
 
-Martin Buber's distinction between I-Thou and I-It relations is one of the most important philosophical contributions of the twentieth century — and also one of the most immediately livable. It names something we already know from experience: the difference between a conversation in which we are truly met, and one in which we are being processed. The difference between being seen and being categorized. Between encounter and transaction. I and Thou, published in 1923, is a short and strange book — more prose poem than philosophical treatise — and it repays repeated reading.
+[[people/martin-buber|Martin Buber]]'s distinction between I-Thou and I-It relations is one of the most important philosophical contributions of the twentieth century — and also one of the most immediately livable. It names something we already know from experience: the difference between a conversation in which we are truly met, and one in which we are being processed. The difference between being seen and being categorized. Between encounter and transaction. I and Thou, published in 1923, is a short and strange book — more prose poem than philosophical treatise — and it repays repeated reading.
 
 ## Core Ideas
 
