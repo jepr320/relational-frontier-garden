@@ -42,4 +42,8 @@ Vervaeke's engagement with [[traditions/neoplatonism|Neoplatonism]] is deep and 
 
 ## Quotes
 
-<!-- TODO: Quotes need verification from primary sources before adding. Do not include unverified or paraphrased quotes. -->
+> "Self-transcendence is an essential need for human beings. It performs core functions for our cognition." — *Awakening from the Meaning Crisis*, Ch. 1
+
+> "We cannot deal with the Meaning Crisis by pursuing pseudo-religious ideologies or political advocacy. If traditional religious worldviews are no longer viable, secular ideologies are dangerous, and the scientific enterprise cannot provide the connection to sacredness and a spiritual life, we face a cultural aporia." — *Awakening from the Meaning Crisis*, Ch. 29
+
+> "Your participatory knowing is the seat of this transformation. It is your cognitive functioning and your sense of connectedness to what is real, the skills, sensibilities, and sensitivities of your significance landscaping that transform your existential mode and worldview." — *Awakening from the Meaning Crisis*, Ch. 14
