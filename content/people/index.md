@@ -4,6 +4,19 @@ title: People
 
 # People
 
-Thinkers, writers, poets, philosophers, and practitioners whose work forms the intellectual web of the Relational Frontier.
+The thinkers, writers, and practitioners whose work shapes the Relational Frontier's intellectual project.
 
-*Each person node includes a brief orientation, their key ideas, essential works, and connections to related nodes.*
+## Philosophers & Theorists
+
+- [[martin-buber|Martin Buber]] — The philosopher of genuine encounter and relational ontology
+- [[hartmut-rosa|Hartmut Rosa]] — The sociologist of resonance and alienation
+- [[john-vervaeke|John Vervaeke]] — The cognitive scientist mapping the meaning crisis
+- [[henry-corbin|Henry Corbin]] — The philosopher who recovered the imaginal world
+
+## Psychologists & Analysts
+
+- [[donald-winnicott|Donald Winnicott]] — The psychoanalyst of holding, play, and the true self
+
+## Poets & Artists
+
+- [[rainer-maria-rilke|Rainer Maria Rilke]] — The poet of longing, angels, and genuine attention
