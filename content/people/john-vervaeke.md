@@ -23,7 +23,7 @@ His response to the meaning crisis is not pessimistic. Vervaeke insists on a "me
 
 Vervaeke's framework has particular resonance for practitioners working in relational and somatic traditions — [[practices/circling|Circling]], depth dialogue, embodied encounter — who find in his concept of participatory knowing a philosophical account of what their practices are actually doing. The "religion that is not a religion" he calls for is, in many ways, already being built in these spaces, often without the theoretical scaffolding his work provides.
 
-Vervaeke is also notable for his engagement with [[traditions/neoplatonism|Neoplatonism]] — particularly through [[people/james-filler|James Filler]]'s work on Neoplatonism and relation as ontological ground — and with figures like Zak Stein (on education and metatherapy) and Brendan Graham Dempsey (on the developmental arc of human consciousness). These conversations mark a growing intellectual community working on the same set of problems from adjacent angles.
+Vervaeke's engagement with [[traditions/neoplatonism|Neoplatonism]] is deep and multivectored — running through his genealogy of the meaning crisis, his reading of Plotinus and the Neoplatonic tradition, and his conversations with figures like Zak Stein (on education and metatherapy) and Brendan Graham Dempsey (on the developmental arc of human consciousness). These conversations mark a growing intellectual community working on the same set of problems from adjacent angles.
 
 ## Key Works
 
@@ -42,10 +42,4 @@ Vervaeke is also notable for his engagement with [[traditions/neoplatonism|Neopl
 
 ## Quotes
 
-> "The meaning crisis is not the loss of answers. It is the loss of the capacity to find answers transformative." — John Vervaeke
-
-> "Gnosis is not knowledge about the divine. It is transformation through contact with what is most real." — John Vervaeke
-
-> "We need practices that can reliably produce genuine self-transcendence — not because we need to escape the self, but because we need to become more fully ourselves." — John Vervaeke, paraphrased
-
-> "The examined life is not primarily about finding the right beliefs. It is about being transformed by the examination." — John Vervaeke
+<!-- TODO: Quotes need verification from primary sources before adding. Do not include unverified or paraphrased quotes. -->
