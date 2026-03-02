@@ -57,6 +57,11 @@ These six concepts form the conceptual spine of the garden. Begin anywhere.
 >
 > [[concepts/index|→ Browse Concepts]]
 
+> [!example] Works
+> The foundational books, lecture series, and major essays that shape the garden — from *Being and Time* to *Awakening from the Meaning Crisis*.
+>
+> [[works/index|→ Browse Works]]
+
 > [!example] Practices
 > The lived, embodied, and relational practices that translate philosophy into direct experience — Circling, contemplative practice, philosophical dialogue, and more.
 >
