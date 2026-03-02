@@ -17,11 +17,13 @@ interface FolderContentOptions {
   showFolderCount: boolean
   showSubfolders: boolean
   sort?: SortFn
+  showPageListing: boolean  // NEW: option to hide the auto-generated list
 }
 
 const defaultOptions: FolderContentOptions = {
   showFolderCount: true,
   showSubfolders: true,
+  showPageListing: false,  // Changed to false - hide auto-generated list by default
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
@@ -105,7 +107,8 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     return (
       <div class="popover-hint">
         <article class={classes}>{content}</article>
-        <div class="page-listing">
+        {options.showPageListing && (
+          <div class="page-listing">
           {options.showFolderCount && (
             <p>
               {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
@@ -116,7 +119,8 @@ export default ((opts?: Partial<FolderContentOptions>) => {
           <div>
             <PageList {...listProps} />
           </div>
-        </div>
+          </div>
+        )}
       </div>
     )
   }
