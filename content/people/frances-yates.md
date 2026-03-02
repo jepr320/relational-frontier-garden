@@ -33,11 +33,11 @@ For those working with [[concepts/active-imagination|active imagination]] and im
 
 ## Connections
 
-- [[Works/the-art-of-memory|The Art of Memory]] — Yates's foundational work.
-- [[Concepts/imaginal|The Imaginal]] — Memory practices work through the imaginal faculty.
-- [[Concepts/active-imagination|Active Imagination]] — Historical precedent for Jungian and contemporary practices.
-- [[Traditions/neoplatonism|Neoplatonism]] — Renaissance memory arts drew on Neoplatonic cosmology.
-- [[People/henry-corbin|Henry Corbin]] — The imaginal realm is what memory practices access.
+- [[works/the-art-of-memory|The Art of Memory]] — Yates's foundational work.
+- [[concepts/imaginal|The Imaginal]] — Memory practices work through the imaginal faculty.
+- [[concepts/active-imagination|Active Imagination]] — Historical precedent for Jungian and contemporary practices.
+- [[traditions/neoplatonism|Neoplatonism]] — Renaissance memory arts drew on Neoplatonic cosmology.
+- [[people/henry-corbin|Henry Corbin]] — The imaginal realm is what memory practices access.
 
 ## Quotes
 

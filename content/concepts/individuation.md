@@ -30,12 +30,12 @@ Individuation has a mystical dimension. Jung sees it as parallel to the contempl
 
 ## Connections
 
-- [[People/carl-jung|Carl Jung]] — Developed the concept throughout his work.
-- [[Works/memories-dreams-reflections|Memories, Dreams, Reflections]] — Jung's account of his own individuation.
-- [[Concepts/the-self|The Self]] — The goal and center of individuation.
-- [[Concepts/active-imagination|Active Imagination]] — Key practice for individuation.
-- [[Traditions/mysticism|Mysticism]] — Individuation parallels mystical transformation.
-- [[Traditions/neoplatonism|Neoplatonism]] — Jung drew on Neoplatonic symbols for individuation.
+- [[people/carl-jung|Carl Jung]] — Developed the concept throughout his work.
+- [[works/memories-dreams-reflections|Memories, Dreams, Reflections]] — Jung's account of his own individuation.
+- [[concepts/the-self|The Self]] — The goal and center of individuation.
+- [[concepts/active-imagination|Active Imagination]] — Key practice for individuation.
+- [[traditions/mysticism|Mysticism]] — Individuation parallels mystical transformation.
+- [[traditions/neoplatonism|Neoplatonism]] — Jung drew on Neoplatonic symbols for individuation.
 
 ## Quotes
 

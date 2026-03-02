@@ -34,12 +34,12 @@ For those interested in the [[concepts/imaginal|imaginal]] tradition, [[concepts
 
 ## Connections
 
-- [[Traditions/mysticism|Mysticism]] — Eliade's work centers on mystical and sacred experience.
-- [[Concepts/the-daimonic|The Daimonic]] — Related to Eliade's treatment of sacred power and numinous presence.
-- [[People/carl-jung|Carl Jung]] — Both worked on myth, archetype, and the sacred.
-- [[People/james-hillman|James Hillman]] — Drew on Eliade for archetypal psychology.
-- [[Concepts/imaginal|The Imaginal]] — Eliade's sacred space and time map onto the imaginal realm.
-- [[Concepts/meaning-crisis|Meaning Crisis]] — Eliade's diagnosis of desacralization prefigures the meaning crisis.
+- [[traditions/mysticism|Mysticism]] — Eliade's work centers on mystical and sacred experience.
+- [[concepts/the-daimonic|The Daimonic]] — Related to Eliade's treatment of sacred power and numinous presence.
+- [[people/carl-jung|Carl Jung]] — Both worked on myth, archetype, and the sacred.
+- [[people/james-hillman|James Hillman]] — Drew on Eliade for archetypal psychology.
+- [[concepts/imaginal|The Imaginal]] — Eliade's sacred space and time map onto the imaginal realm.
+- [[concepts/meaning-crisis|Meaning Crisis]] — Eliade's diagnosis of desacralization prefigures the meaning crisis.
 
 ## Quotes
 

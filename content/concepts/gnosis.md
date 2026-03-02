@@ -18,7 +18,7 @@ In Neoplatonism (Plotinus, Proclus, Iamblichus), gnosis is the soul's ascent tow
 
 ## Vervaeke and Participatory Knowing
 
-[[People/john-vervaeke|John Vervaeke]] revives the concept of gnosis in his framework of the four orders of knowing. Gnosis, in Vervaeke's terms, is [[concepts/participatory-knowing|participatory knowing]] — the kind of knowing that involves genuine transformation of the self. It is what the contemplative traditions aimed at: not knowledge *about* reality but knowledge *of* reality through lived participation.
+[[people/john-vervaeke|John Vervaeke]] revives the concept of gnosis in his framework of the four orders of knowing. Gnosis, in Vervaeke's terms, is [[concepts/participatory-knowing|participatory knowing]] — the kind of knowing that involves genuine transformation of the self. It is what the contemplative traditions aimed at: not knowledge *about* reality but knowledge *of* reality through lived participation.
 
 The modern [[concepts/meaning-crisis|meaning crisis]], for Vervaeke, is in large part a crisis of gnosis. Modernity has systematically devalued and lost access to participatory, transformative knowing, privileging propositional knowledge instead. The result is a culture that knows *about* many things but rarely *knows* anything in the deeper sense.
 
@@ -28,13 +28,13 @@ Gnosis is also connected to [[people/henry-corbin|Henry Corbin's]] concept of th
 
 ## Connections
 
-- [[Concepts/participatory-knowing|Participatory Knowing]] — Vervaeke's modern term for gnosis.
-- [[People/john-vervaeke|John Vervaeke]] — Uses gnosis to describe the deepest form of knowing.
-- [[Concepts/imaginal|The Imaginal]] — Gnosis occurs in the imaginal realm (Corbin).
-- [[People/henry-corbin|Henry Corbin]] — Connected gnosis to the mundus imaginalis.
-- [[Traditions/neoplatonism|Neoplatonism]] — Gnosis is central to Neoplatonic practice.
-- [[Traditions/mysticism|Mysticism]] — Gnosis is the goal of many mystical traditions.
-- [[Concepts/meaning-crisis|Meaning Crisis]] — The loss of gnosis is a core feature of modernity's crisis.
+- [[concepts/participatory-knowing|Participatory Knowing]] — Vervaeke's modern term for gnosis.
+- [[people/john-vervaeke|John Vervaeke]] — Uses gnosis to describe the deepest form of knowing.
+- [[concepts/imaginal|The Imaginal]] — Gnosis occurs in the imaginal realm (Corbin).
+- [[people/henry-corbin|Henry Corbin]] — Connected gnosis to the mundus imaginalis.
+- [[traditions/neoplatonism|Neoplatonism]] — Gnosis is central to Neoplatonic practice.
+- [[traditions/mysticism|Mysticism]] — Gnosis is the goal of many mystical traditions.
+- [[concepts/meaning-crisis|Meaning Crisis]] — The loss of gnosis is a core feature of modernity's crisis.
 
 ## Quotes
 

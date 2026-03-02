@@ -31,7 +31,7 @@ For practitioners of relational and imaginal work, Hillman offers permission to 
 ## Key Concepts
 
 - **Soul** — Not a thing but a perspective; the imaginal, symbolic, depth dimension of experience.
-- **[[Concepts/imaginal|The Imaginal]]** — Hillman adapts Corbin's concept for psychology; the realm where images are real.
+- **[[concepts/imaginal|The Imaginal]]** — Hillman adapts Corbin's concept for psychology; the realm where images are real.
 - **Archetypal psychology** — Psychology that honors the soul's archetypal structures and imaginal life.
 - **Polytheism of the psyche** — The soul as multiplicity, not unity; many gods, not one self.
 - **Image as reality** — Images are not symptoms or symbols but primary modes of soul's expression.
@@ -39,13 +39,13 @@ For practitioners of relational and imaginal work, Hillman offers permission to 
 
 ## Connections
 
-- [[People/james-hillman|James Hillman]] — Author.
-- [[People/henry-corbin|Henry Corbin]] — Source for the imaginal; Hillman adapts Corbin for psychology.
-- [[People/carl-jung|Carl Jung]] — Hillman both extends and critiques Jung's archetypal theory.
-- [[Concepts/imaginal|The Imaginal]] — Central concept; Hillman makes it psychological.
-- [[Concepts/active-imagination|Active Imagination]] — Jungian practice Hillman reinterprets imaginally.
-- [[Concepts/the-daimonic|The Daimonic]] — Related concept; the soul's creative-destructive multiplicity.
-- [[Traditions/neoplatonism|Neoplatonism]] — Philosophical background for Hillman's vision.
+- [[people/james-hillman|James Hillman]] — Author.
+- [[people/henry-corbin|Henry Corbin]] — Source for the imaginal; Hillman adapts Corbin for psychology.
+- [[people/carl-jung|Carl Jung]] — Hillman both extends and critiques Jung's archetypal theory.
+- [[concepts/imaginal|The Imaginal]] — Central concept; Hillman makes it psychological.
+- [[concepts/active-imagination|Active Imagination]] — Jungian practice Hillman reinterprets imaginally.
+- [[concepts/the-daimonic|The Daimonic]] — Related concept; the soul's creative-destructive multiplicity.
+- [[traditions/neoplatonism|Neoplatonism]] — Philosophical background for Hillman's vision.
 
 ## Quotes
 

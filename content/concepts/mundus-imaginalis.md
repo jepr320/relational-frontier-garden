@@ -24,14 +24,14 @@ This precision matters because the mundus imaginalis is not simply another name 
 
 ## Connections
 
-- [[People/henry-corbin|Henry Corbin]] — Coined the term and developed the concept.
-- [[People/tom-cheetham|Tom Cheetham]] — Primary English-language interpreter of Corbin.
-- [[Works/all-the-world-an-icon|All the World an Icon]] — Cheetham's exposition of the mundus imaginalis.
-- [[Concepts/imaginal|The Imaginal]] — Broader term; mundus imaginalis is the precise formulation.
-- [[Concepts/tawil|Ta'wīl]] — The hermeneutic practice that reveals the imaginal.
-- [[Concepts/active-imagination|Active Imagination]] — The practice (himma) that accesses the mundus imaginalis.
-- [[Traditions/neoplatonism|Neoplatonism]] — Philosophical framework for the imaginal.
-- [[Traditions/mysticism|Mysticism]] — Islamic mysticism is Corbin's primary source.
+- [[people/henry-corbin|Henry Corbin]] — Coined the term and developed the concept.
+- [[people/tom-cheetham|Tom Cheetham]] — Primary English-language interpreter of Corbin.
+- [[works/all-the-world-an-icon|All the World an Icon]] — Cheetham's exposition of the mundus imaginalis.
+- [[concepts/imaginal|The Imaginal]] — Broader term; mundus imaginalis is the precise formulation.
+- [[concepts/tawil|Ta'wīl]] — The hermeneutic practice that reveals the imaginal.
+- [[concepts/active-imagination|Active Imagination]] — The practice (himma) that accesses the mundus imaginalis.
+- [[traditions/neoplatonism|Neoplatonism]] — Philosophical framework for the imaginal.
+- [[traditions/mysticism|Mysticism]] — Islamic mysticism is Corbin's primary source.
 
 ## Quotes
 

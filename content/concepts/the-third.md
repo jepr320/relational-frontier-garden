@@ -12,13 +12,13 @@ The Third is a concept in relational psychoanalysis referring to the intersubjec
 
 ## Ogden's Formulation
 
-[[People/thomas-ogden|Thomas Ogden]] developed the concept most explicitly, describing the analytic third as "a creation of analyst and analysand, but it assumes an autonomous existence, and exerts a powerful structuring influence on the nature of the analytic relationship." The Third is neither the analyst's perspective nor the patient's but something that arises between them — a shared, co-created space of meaning and experience.
+[[people/thomas-ogden|Thomas Ogden]] developed the concept most explicitly, describing the analytic third as "a creation of analyst and analysand, but it assumes an autonomous existence, and exerts a powerful structuring influence on the nature of the analytic relationship." The Third is neither the analyst's perspective nor the patient's but something that arises between them — a shared, co-created space of meaning and experience.
 
 This is not merely metaphor. Ogden argues that the Third has genuine ontological status: it is where the analytic work actually happens. Both analyst and patient are shaped by it, drawn into it, and responsive to it. The Third is the relational ground on which transformation occurs.
 
 ## Benjamin's Intersubjective Third
 
-[[People/jessica-benjamin|Jessica Benjamin]] explores the Third in terms of mutual recognition and intersubjectivity. For Benjamin, the Third is what allows two subjectivities to meet without collapsing into fusion or domination. It is the "third term" that mediates between self and other, preserving both connection and difference.
+[[people/jessica-benjamin|Jessica Benjamin]] explores the Third in terms of mutual recognition and intersubjectivity. For Benjamin, the Third is what allows two subjectivities to meet without collapsing into fusion or domination. It is the "third term" that mediates between self and other, preserving both connection and difference.
 
 The Third, in this sense, is the condition of genuine relationality: it is what makes it possible for two people to be both together and separate, both affecting and affected by each other.
 
@@ -28,12 +28,12 @@ The Third is related to [[people/donald-winnicott|Winnicott's]] concept of [[con
 
 ## Connections
 
-- [[People/thomas-ogden|Thomas Ogden]] — Primary developer of the concept.
-- [[People/jessica-benjamin|Jessica Benjamin]] — Developed the intersubjective Third.
-- [[Works/what-alive-means|What Alive Means]] — Ogden's exploration of the Third and aliveness.
-- [[Concepts/intersubjectivity|Intersubjectivity]] — The Third is an intersubjective creation.
-- [[Concepts/transitional-space|Transitional Space]] — Related Winnicottian concept.
-- [[Concepts/relational-ground|Relational Ground]] — The Third is a manifestation of relational ground.
+- [[people/thomas-ogden|Thomas Ogden]] — Primary developer of the concept.
+- [[people/jessica-benjamin|Jessica Benjamin]] — Developed the intersubjective Third.
+- [[works/what-alive-means|What Alive Means]] — Ogden's exploration of the Third and aliveness.
+- [[concepts/intersubjectivity|Intersubjectivity]] — The Third is an intersubjective creation.
+- [[concepts/transitional-space|Transitional Space]] — Related Winnicottian concept.
+- [[concepts/relational-ground|Relational Ground]] — The Third is a manifestation of relational ground.
 
 ## Quotes
 

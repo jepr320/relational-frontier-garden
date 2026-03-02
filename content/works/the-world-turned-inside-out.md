@@ -27,21 +27,21 @@ For practitioners of [[concepts/active-imagination|active imagination]], contemp
 ## Key Themes
 
 - **The [[concepts/mundus-imaginalis|mundus imaginalis]]** — The intermediate world; the realm of subtle forms and imaginal perception.
-- **[[Concepts/tawil|Ta'wīl]]** — Symbolic exegesis; turning the outer inside out to reveal the inner.
+- **[[concepts/tawil|Ta'wīl]]** — Symbolic exegesis; turning the outer inside out to reveal the inner.
 - **Corbin's sources**: Avicenna, Suhrawardī, Ibn 'Arabī, the Ishrāqī tradition.
 - **Refusal of modern reductionism** — The imaginal as resistance to literalism and subjectivism.
 - **The reality of the imaginal** — Not psychology but ontology; a genuine dimension of being.
 
 ## Connections
 
-- [[People/tom-cheetham|Tom Cheetham]] — Author.
-- [[People/henry-corbin|Henry Corbin]] — Primary subject.
-- [[Concepts/imaginal|The Imaginal]] — Central concept.
-- [[Concepts/mundus-imaginalis|Mundus Imaginalis]] — The imaginal world.
-- [[Concepts/tawil|Ta'wīl]] — Symbolic exegesis; imaginal hermeneutics.
-- [[Concepts/active-imagination|Active Imagination]] — The practice that accesses the imaginal.
-- [[Traditions/mysticism|Mysticism]] — Corbin's sources are Islamic mystical traditions.
-- [[Traditions/neoplatonism|Neoplatonism]] — Philosophical framework for the imaginal.
+- [[people/tom-cheetham|Tom Cheetham]] — Author.
+- [[people/henry-corbin|Henry Corbin]] — Primary subject.
+- [[concepts/imaginal|The Imaginal]] — Central concept.
+- [[concepts/mundus-imaginalis|Mundus Imaginalis]] — The imaginal world.
+- [[concepts/tawil|Ta'wīl]] — Symbolic exegesis; imaginal hermeneutics.
+- [[concepts/active-imagination|Active Imagination]] — The practice that accesses the imaginal.
+- [[traditions/mysticism|Mysticism]] — Corbin's sources are Islamic mystical traditions.
+- [[traditions/neoplatonism|Neoplatonism]] — Philosophical framework for the imaginal.
 
 ## Quotes
 

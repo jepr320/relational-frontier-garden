@@ -29,19 +29,19 @@ For practitioners, Bollas offers a language for the aesthetic dimension of encou
 ## Key Concepts
 
 - **Transformational object** — The mother as process; the template for seeking transformation through objects and experiences.
-- **[[Concepts/the-unthought-known|The unthought known]]** — Experience that has been lived but never symbolized; prereflective knowledge.
+- **[[concepts/the-unthought-known|The unthought known]]** — Experience that has been lived but never symbolized; prereflective knowledge.
 - **Normotic illness** — The evacuation of subjectivity; abnormally normal.
 - **Idiom of being** — The unique aesthetic signature of a person's way of existing.
 - **Aesthetic of being** — The particular style of mothering transmitted to the infant; shapes the self's core.
 
 ## Connections
 
-- [[People/christopher-bollas|Christopher Bollas]] — Author.
-- [[People/donald-winnicott|Donald Winnicott]] — Bollas extends Winnicott's work on the true self and transitional phenomena.
-- [[Concepts/the-unthought-known|The Unthought Known]] — Central concept introduced in this work.
-- [[Concepts/true-self-false-self|True Self / False Self]] — Bollas develops Winnicott's concept.
-- [[Concepts/transitional-space|Transitional Space]] — Background for Bollas's transformational object theory.
-- [[Concepts/resonance|Resonance]] — Rosa's concept parallels the transformational object.
+- [[people/christopher-bollas|Christopher Bollas]] — Author.
+- [[people/donald-winnicott|Donald Winnicott]] — Bollas extends Winnicott's work on the true self and transitional phenomena.
+- [[concepts/the-unthought-known|The Unthought Known]] — Central concept introduced in this work.
+- [[concepts/true-self-false-self|True Self / False Self]] — Bollas develops Winnicott's concept.
+- [[concepts/transitional-space|Transitional Space]] — Background for Bollas's transformational object theory.
+- [[concepts/resonance|Resonance]] — Rosa's concept parallels the transformational object.
 
 ## Quotes
 

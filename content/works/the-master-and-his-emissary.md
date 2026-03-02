@@ -40,12 +40,12 @@ For practitioners working in relational and somatic fields, McGilchrist offers a
 
 ## Connections
 
-- [[People/iain-mcgilchrist|Iain McGilchrist]] — Author.
-- [[Concepts/alienation|Alienation]] — The cultural consequence of hemispheric imbalance.
-- [[Concepts/meaning-crisis|Meaning Crisis]] — McGilchrist's diagnosis converges with Vervaeke's genealogy.
-- [[Concepts/resonance|Resonance]] — Rosa's concept of resonance maps onto the right hemisphere's mode of relation.
-- [[People/hartmut-rosa|Hartmut Rosa]] — Parallel sociological analysis of alienation and resonance.
-- [[People/john-vervaeke|John Vervaeke]] — Parallel cognitive-science analysis of the meaning crisis.
+- [[people/iain-mcgilchrist|Iain McGilchrist]] — Author.
+- [[concepts/alienation|Alienation]] — The cultural consequence of hemispheric imbalance.
+- [[concepts/meaning-crisis|Meaning Crisis]] — McGilchrist's diagnosis converges with Vervaeke's genealogy.
+- [[concepts/resonance|Resonance]] — Rosa's concept of resonance maps onto the right hemisphere's mode of relation.
+- [[people/hartmut-rosa|Hartmut Rosa]] — Parallel sociological analysis of alienation and resonance.
+- [[people/john-vervaeke|John Vervaeke]] — Parallel cognitive-science analysis of the meaning crisis.
 
 ## Quotes
 

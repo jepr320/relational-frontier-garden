@@ -24,7 +24,7 @@ Vervaeke also introduces the **[[concepts/four-ps|four orders of knowing]]** (th
 - **Propositional knowing** (knowing-that) — Facts and information.
 - **Procedural knowing** (knowing-how) — Skills and techniques.
 - **Perspectival knowing** (knowing what it is like) — Phenomenological understanding.
-- **[[Concepts/participatory-knowing|Participatory knowing]]** — Transformative engagement with reality; genuine contact that changes the knower.
+- **[[concepts/participatory-knowing|Participatory knowing]]** — Transformative engagement with reality; genuine contact that changes the knower.
 
 The dominance of propositional knowing in modernity and the corresponding atrophy of participatory knowing is a central driver of the meaning crisis. What the Gnostics called *gnosis*, what Plato described as the philosopher's ascent toward the Good, what Zen points at with *satori* — these are forms of participatory knowing, and modernity has largely lost access to them.
 
@@ -38,23 +38,23 @@ Vervaeke's response is not pessimistic. He calls for a "religion that is not a r
 
 ## Key Concepts
 
-- **[[Concepts/meaning-crisis|Meaning Crisis]]** — The pervasive loss of contact with what is genuinely meaningful.
-- **[[Concepts/relevance-realization|Relevance Realization]]** — The cognitive process of determining salience and significance.
-- **[[Concepts/four-ps|The Four Ps]] / Four Orders of Knowing** — Propositional, procedural, perspectival, participatory.
-- **[[Concepts/participatory-knowing|Participatory Knowing]]** — Transformative engagement; the deepest form of knowing.
+- **[[concepts/meaning-crisis|Meaning Crisis]]** — The pervasive loss of contact with what is genuinely meaningful.
+- **[[concepts/relevance-realization|Relevance Realization]]** — The cognitive process of determining salience and significance.
+- **[[concepts/four-ps|The Four Ps]] / Four Orders of Knowing** — Propositional, procedural, perspectival, participatory.
+- **[[concepts/participatory-knowing|Participatory Knowing]]** — Transformative engagement; the deepest form of knowing.
 - **Gnosis** — Participatory knowing in the Gnostic and Neoplatonic traditions.
 - **Religion that is not a religion** — Transformative practices for secular people.
 
 ## Connections
 
-- [[People/john-vervaeke|John Vervaeke]] — Author and presenter.
-- [[Concepts/meaning-crisis|Meaning Crisis]] — Central concept and theme.
-- [[Concepts/relevance-realization|Relevance Realization]] — Key theoretical contribution.
-- [[Concepts/four-ps|Four Ps]] — Framework for understanding types of knowing.
-- [[Concepts/participatory-knowing|Participatory Knowing]] — The mode of knowing modernity has lost.
-- [[People/hartmut-rosa|Hartmut Rosa]] — Parallel sociological analysis.
-- [[People/iain-mcgilchrist|Iain McGilchrist]] — Parallel neuroscientific analysis.
-- [[Traditions/neoplatonism|Neoplatonism]] — Central to Vervaeke's genealogy and recovery project.
+- [[people/john-vervaeke|John Vervaeke]] — Author and presenter.
+- [[concepts/meaning-crisis|Meaning Crisis]] — Central concept and theme.
+- [[concepts/relevance-realization|Relevance Realization]] — Key theoretical contribution.
+- [[concepts/four-ps|Four Ps]] — Framework for understanding types of knowing.
+- [[concepts/participatory-knowing|Participatory Knowing]] — The mode of knowing modernity has lost.
+- [[people/hartmut-rosa|Hartmut Rosa]] — Parallel sociological analysis.
+- [[people/iain-mcgilchrist|Iain McGilchrist]] — Parallel neuroscientific analysis.
+- [[traditions/neoplatonism|Neoplatonism]] — Central to Vervaeke's genealogy and recovery project.
 
 ## Quotes
 

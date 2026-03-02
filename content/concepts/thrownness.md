@@ -38,12 +38,12 @@ For relational and somatic practitioners, thrownness provides a framework for un
 
 ## Connections
 
-- [[People/martin-heidegger|Martin Heidegger]] — Developed the concept in *Being and Time*.
-- [[Works/being-and-time|Being and Time]] — The foundational text.
-- [[Concepts/dasein|Dasein]] — Thrownness is a dimension of Dasein's structure.
-- [[Concepts/care|Care]] — Thrownness is one of the three dimensions of care.
-- [[Concepts/being-in-the-world|Being-in-the-world]] — Thrownness is how Dasein is always already in the world.
-- [[Traditions/existentialism|Existentialism]] — Thrownness is central to existential thought.
+- [[people/martin-heidegger|Martin Heidegger]] — Developed the concept in *Being and Time*.
+- [[works/being-and-time|Being and Time]] — The foundational text.
+- [[concepts/dasein|Dasein]] — Thrownness is a dimension of Dasein's structure.
+- [[concepts/care|Care]] — Thrownness is one of the three dimensions of care.
+- [[concepts/being-in-the-world|Being-in-the-world]] — Thrownness is how Dasein is always already in the world.
+- [[traditions/existentialism|Existentialism]] — Thrownness is central to existential thought.
 
 ## Quotes
 

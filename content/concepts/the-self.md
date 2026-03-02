@@ -35,11 +35,11 @@ The Self is both the goal and the guide of [[concepts/individuation|individuatio
 
 ## Connections
 
-- [[People/carl-jung|Carl Jung]] — Developed the concept throughout his work.
-- [[Works/memories-dreams-reflections|Memories, Dreams, Reflections]] — Jung's account of his relationship with the Self.
-- [[Concepts/individuation|Individuation]] — The process of aligning with the Self.
-- [[Concepts/active-imagination|Active Imagination]] — Practice for encountering the Self.
-- [[Traditions/mysticism|Mysticism]] — The Self is Jung's psychological language for mystical experience.
+- [[people/carl-jung|Carl Jung]] — Developed the concept throughout his work.
+- [[works/memories-dreams-reflections|Memories, Dreams, Reflections]] — Jung's account of his relationship with the Self.
+- [[concepts/individuation|Individuation]] — The process of aligning with the Self.
+- [[concepts/active-imagination|Active Imagination]] — Practice for encountering the Self.
+- [[traditions/mysticism|Mysticism]] — The Self is Jung's psychological language for mystical experience.
 
 ## Quotes
 

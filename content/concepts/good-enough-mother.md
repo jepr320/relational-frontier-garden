@@ -34,10 +34,10 @@ In relational and somatic practice, the good-enough mother is a model for presen
 
 ## Connections
 
-- [[People/donald-winnicott|Donald Winnicott]] — Developed the concept.
-- [[Concepts/holding-environment|Holding Environment]] — What the good-enough mother provides.
-- [[Concepts/true-self-false-self|True Self / False Self]] — Good-enough mothering allows the true self to emerge.
-- [[Works/playing-and-reality|Playing and Reality]] — Winnicott's exploration of these themes.
+- [[people/donald-winnicott|Donald Winnicott]] — Developed the concept.
+- [[concepts/holding-environment|Holding Environment]] — What the good-enough mother provides.
+- [[concepts/true-self-false-self|True Self / False Self]] — Good-enough mothering allows the true self to emerge.
+- [[works/playing-and-reality|Playing and Reality]] — Winnicott's exploration of these themes.
 
 ## Quotes
 

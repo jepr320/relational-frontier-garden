@@ -22,10 +22,10 @@ Theophany is what makes the imaginal world sacred. It is not simply a realm of i
 
 ## Connections
 
-- [[People/henry-corbin|Henry Corbin]] — Central to his interpretation of Islamic mysticism.
-- [[Concepts/mundus-imaginalis|Mundus Imaginalis]] — The realm where theophany occurs.
-- [[Concepts/imaginal-body|Imaginal Body]] — The body through which theophany is perceived.
-- [[Traditions/mysticism|Mysticism]] — Theophany is central to mystical experience.
+- [[people/henry-corbin|Henry Corbin]] — Central to his interpretation of Islamic mysticism.
+- [[concepts/mundus-imaginalis|Mundus Imaginalis]] — The realm where theophany occurs.
+- [[concepts/imaginal-body|Imaginal Body]] — The body through which theophany is perceived.
+- [[traditions/mysticism|Mysticism]] — Theophany is central to mystical experience.
 
 ## Quotes
 

@@ -28,22 +28,22 @@ Culture, for Winnicott, is the adult version of transitional space. It is where 
 
 ## Key Concepts
 
-- **[[Concepts/transitional-objects|Transitional Objects]]** — Objects (blankets, toys) that are neither purely subjective nor objective; the infant's first "not-me" possession.
-- **[[Concepts/transitional-space|Transitional Space]] / Potential Space** — The intermediate area of experience; the domain of play, culture, creativity.
-- **[[Concepts/true-self-false-self|True Self and False Self]]** — The true self emerges in the space of spontaneity and creativity; the false self is defensive compliance.
-- **[[Concepts/holding-environment|Holding Environment]]** — The reliable, responsive presence that makes transitional space possible.
+- **[[concepts/transitional-objects|Transitional Objects]]** — Objects (blankets, toys) that are neither purely subjective nor objective; the infant's first "not-me" possession.
+- **[[concepts/transitional-space|Transitional Space]] / Potential Space** — The intermediate area of experience; the domain of play, culture, creativity.
+- **[[concepts/true-self-false-self|True Self and False Self]]** — The true self emerges in the space of spontaneity and creativity; the false self is defensive compliance.
+- **[[concepts/holding-environment|Holding Environment]]** — The reliable, responsive presence that makes transitional space possible.
 - **Play** — Not trivial activity but the fundamental mode of creative living.
 - **Creative living vs. reactive living** — The capacity to engage life creatively rather than merely adapting.
 
 ## Connections
 
-- [[People/donald-winnicott|Donald Winnicott]] — Author.
-- [[Concepts/transitional-objects|Transitional Objects]] — Central concept.
-- [[Concepts/transitional-space|Transitional Space]] — Core idea.
-- [[Concepts/true-self-false-self|True Self / False Self]] — Key framework.
-- [[Concepts/holding-environment|Holding Environment]] — Essential condition for development.
-- [[People/christopher-bollas|Christopher Bollas]] — Extends Winnicott's work on transitional phenomena.
-- [[People/thomas-ogden|Thomas Ogden]] — Develops Winnicott's ideas on the intermediate space.
+- [[people/donald-winnicott|Donald Winnicott]] — Author.
+- [[concepts/transitional-objects|Transitional Objects]] — Central concept.
+- [[concepts/transitional-space|Transitional Space]] — Core idea.
+- [[concepts/true-self-false-self|True Self / False Self]] — Key framework.
+- [[concepts/holding-environment|Holding Environment]] — Essential condition for development.
+- [[people/christopher-bollas|Christopher Bollas]] — Extends Winnicott's work on transitional phenomena.
+- [[people/thomas-ogden|Thomas Ogden]] — Develops Winnicott's ideas on the intermediate space.
 
 ## Quotes
 

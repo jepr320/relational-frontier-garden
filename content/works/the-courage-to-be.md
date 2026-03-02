@@ -42,11 +42,11 @@ For relational practitioners, Tillich offers a language for the existential dime
 
 ## Connections
 
-- [[People/paul-tillich|Paul Tillich]] — Author.
-- [[People/rollo-may|Rollo May]] — Extended Tillich's work into existential psychology; analyzed [[concepts/the-daimonic|the daimonic]] in relation to courage.
-- [[Concepts/meaning-crisis|Meaning Crisis]] — Tillich's analysis of modern meaninglessness prefigures this concept.
-- [[Concepts/alienation|Alienation]] — The experience of emptiness and meaninglessness is a form of alienation.
-- [[Traditions/existentialism|Existentialism]] — Tillich is a major existential theologian.
+- [[people/paul-tillich|Paul Tillich]] — Author.
+- [[people/rollo-may|Rollo May]] — Extended Tillich's work into existential psychology; analyzed [[concepts/the-daimonic|the daimonic]] in relation to courage.
+- [[concepts/meaning-crisis|Meaning Crisis]] — Tillich's analysis of modern meaninglessness prefigures this concept.
+- [[concepts/alienation|Alienation]] — The experience of emptiness and meaninglessness is a form of alienation.
+- [[traditions/existentialism|Existentialism]] — Tillich is a major existential theologian.
 
 ## Quotes
 

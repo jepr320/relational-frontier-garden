@@ -20,18 +20,18 @@ Enactments are not failures of technique but essential moments of therapeutic (o
 
 ## Ogden and the Analytic Third
 
-[[People/thomas-ogden|Thomas Ogden]] connects enactment to the concept of [[concepts/the-third|the Third]]. Enactments are shaped by the intersubjective field — the Third that emerges between analyst and patient. Both are drawn into the enactment by forces larger than either individual subjectivity. The work is to notice the enactment, step back from it slightly (without disavowing it), and allow it to become conscious and transformable.
+[[people/thomas-ogden|Thomas Ogden]] connects enactment to the concept of [[concepts/the-third|the Third]]. Enactments are shaped by the intersubjective field — the Third that emerges between analyst and patient. Both are drawn into the enactment by forces larger than either individual subjectivity. The work is to notice the enactment, step back from it slightly (without disavowing it), and allow it to become conscious and transformable.
 
 ## Benjamin and Mutual Recognition
 
-[[People/jessica-benjamin|Jessica Benjamin]] explores how enactments often involve failures of mutual recognition — moments when one or both participants collapse into domination or submission, fusion or withdrawal. The relational work is to survive these ruptures and restore recognition.
+[[people/jessica-benjamin|Jessica Benjamin]] explores how enactments often involve failures of mutual recognition — moments when one or both participants collapse into domination or submission, fusion or withdrawal. The relational work is to survive these ruptures and restore recognition.
 
 ## Connections
 
-- [[Concepts/the-third|The Third]] — Enactments are shaped by the intersubjective field.
-- [[Concepts/intersubjectivity|Intersubjectivity]] — Enactments reveal the relational unconscious.
-- [[People/thomas-ogden|Thomas Ogden]] — Key theorist of enactment and the Third.
-- [[People/jessica-benjamin|Jessica Benjamin]] — Enactment and mutual recognition.
+- [[concepts/the-third|The Third]] — Enactments are shaped by the intersubjective field.
+- [[concepts/intersubjectivity|Intersubjectivity]] — Enactments reveal the relational unconscious.
+- [[people/thomas-ogden|Thomas Ogden]] — Key theorist of enactment and the Third.
+- [[people/jessica-benjamin|Jessica Benjamin]] — Enactment and mutual recognition.
 
 ## Quotes
 

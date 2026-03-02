@@ -36,13 +36,13 @@ For practices like [[practices/circling|Circling]], dialogical work, or any rela
 
 ## Connections
 
-- [[People/martin-buber|Martin Buber]] — Developed the concept in *I and Thou* and later writings.
-- [[Works/i-and-thou|I and Thou]] — The foundational text.
-- [[Concepts/i-thou|I-Thou]] — Confirmation is essential to the I-Thou relation.
-- [[Concepts/the-between|The Between]] — Confirmation happens in the relational space.
-- [[Concepts/mutual-recognition|Mutual Recognition]] — Jessica Benjamin's parallel concept.
-- [[Concepts/good-enough-mother|Good-Enough Mother]] — Winnicott's concept of developmental confirmation.
-- [[Traditions/existentialism|Existentialism]] — Buber's dialogical existentialism.
+- [[people/martin-buber|Martin Buber]] — Developed the concept in *I and Thou* and later writings.
+- [[works/i-and-thou|I and Thou]] — The foundational text.
+- [[concepts/i-thou|I-Thou]] — Confirmation is essential to the I-Thou relation.
+- [[concepts/the-between|The Between]] — Confirmation happens in the relational space.
+- [[concepts/mutual-recognition|Mutual Recognition]] — Jessica Benjamin's parallel concept.
+- [[concepts/good-enough-mother|Good-Enough Mother]] — Winnicott's concept of developmental confirmation.
+- [[traditions/existentialism|Existentialism]] — Buber's dialogical existentialism.
 
 ## Quotes
 

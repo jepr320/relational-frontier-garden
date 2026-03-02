@@ -28,12 +28,12 @@ Bollas connects the unthought known to [[people/donald-winnicott|Winnicott's]] c
 
 ## Connections
 
-- [[People/christopher-bollas|Christopher Bollas]] — Developed the concept in *The Shadow of the Object*.
-- [[Works/the-shadow-of-the-object|The Shadow of the Object]] — The foundational text.
-- [[Concepts/true-self-false-self|True Self / False Self]] — The true self is what remains unthought.
-- [[Concepts/transitional-space|Transitional Space]] — The space where the unthought can become experience.
-- [[People/donald-winnicott|Donald Winnicott]] — Bollas extends Winnicott's work.
-- [[People/thomas-ogden|Thomas Ogden]] — Parallel work on unlived experience.
+- [[people/christopher-bollas|Christopher Bollas]] — Developed the concept in *The Shadow of the Object*.
+- [[works/the-shadow-of-the-object|The Shadow of the Object]] — The foundational text.
+- [[concepts/true-self-false-self|True Self / False Self]] — The true self is what remains unthought.
+- [[concepts/transitional-space|Transitional Space]] — The space where the unthought can become experience.
+- [[people/donald-winnicott|Donald Winnicott]] — Bollas extends Winnicott's work.
+- [[people/thomas-ogden|Thomas Ogden]] — Parallel work on unlived experience.
 
 ## Quotes
 

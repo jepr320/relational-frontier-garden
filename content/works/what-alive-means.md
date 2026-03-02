@@ -30,20 +30,20 @@ Ogden is a central figure in contemporary relational psychoanalysis. His work re
 
 ## Key Concepts
 
-- **[[Concepts/the-third|The Third]]** — The intersubjective space created between two people; autonomous and structuring.
+- **[[concepts/the-third|The Third]]** — The intersubjective space created between two people; autonomous and structuring.
 - **Aliveness** — The quality of genuine, creative, present experience; opposed to deadness and falseness.
-- **[[Concepts/transitional-space|Transitional Space]]** — Extended from Winnicott; the domain where creativity and genuine being emerge.
+- **[[concepts/transitional-space|Transitional Space]]** — Extended from Winnicott; the domain where creativity and genuine being emerge.
 - **Reverie** — The analyst's (or person's) capacity to be receptive, open, dreaming-while-awake.
 - **Aesthetic dimension** — The textures, tones, and qualities of experience that carry meaning beyond concepts.
 
 ## Connections
 
-- [[People/thomas-ogden|Thomas Ogden]] — Author.
-- [[Concepts/the-third|The Third]] — Central concept developed by Ogden.
-- [[People/donald-winnicott|Donald Winnicott]] — Ogden extends Winnicott's work on transitional space and true self.
-- [[Concepts/transitional-space|Transitional Space]] — Background and extension.
-- [[Concepts/intersubjectivity|Intersubjectivity]] — The Third is an intersubjective creation.
-- [[People/christopher-bollas|Christopher Bollas]] — Parallel work on unlived experience and transformation.
+- [[people/thomas-ogden|Thomas Ogden]] — Author.
+- [[concepts/the-third|The Third]] — Central concept developed by Ogden.
+- [[people/donald-winnicott|Donald Winnicott]] — Ogden extends Winnicott's work on transitional space and true self.
+- [[concepts/transitional-space|Transitional Space]] — Background and extension.
+- [[concepts/intersubjectivity|Intersubjectivity]] — The Third is an intersubjective creation.
+- [[people/christopher-bollas|Christopher Bollas]] — Parallel work on unlived experience and transformation.
 
 ## Quotes
 

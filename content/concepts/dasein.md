@@ -20,8 +20,8 @@ Heidegger's project in [[works/being-and-time|*Being and Time*]] is to reopen th
 
 Dasein is not a static thing but a dynamic structure. Heidegger analyzes this structure through existential categories (as opposed to the categories of objects):
 
-- **[[Concepts/care|Care]] (*Sorge*)** — The fundamental structure of Dasein; to exist is to care, to be concerned with one's own being.
-- **[[Concepts/thrownness|Thrownness]] (*Geworfenheit*)** — Dasein is delivered into a world and a situation not of its choosing.
+- **[[concepts/care|Care]] (*Sorge*)** — The fundamental structure of Dasein; to exist is to care, to be concerned with one's own being.
+- **[[concepts/thrownness|Thrownness]] (*Geworfenheit*)** — Dasein is delivered into a world and a situation not of its choosing.
 - **Projection (*Entwurf*)** — Dasein is always ahead of itself, oriented toward possibilities.
 - **Fallenness (*Verfallen*)** — Dasein is absorbed in the everyday world and the "they" (*das Man*).
 - **Being-toward-death** — Dasein's being is finite; awareness of death is the condition of authenticity.
@@ -34,13 +34,13 @@ Dasein is not solitary. Its very structure includes *being-with* (*Mitsein*) —
 
 ## Connections
 
-- [[People/martin-heidegger|Martin Heidegger]] — Developed the concept in *Being and Time*.
-- [[Works/being-and-time|Being and Time]] — The foundational text.
-- [[Concepts/being-in-the-world|Being-in-the-world]] — The fundamental structure of Dasein.
-- [[Concepts/care|Care]] — The unified structure of Dasein's being.
-- [[Concepts/thrownness|Thrownness]] — One dimension of Dasein's structure.
-- [[Traditions/existentialism|Existentialism]] — Heidegger's analysis grounds existential thought.
-- [[Traditions/phenomenology|Phenomenology]] — Heidegger's method is phenomenological.
+- [[people/martin-heidegger|Martin Heidegger]] — Developed the concept in *Being and Time*.
+- [[works/being-and-time|Being and Time]] — The foundational text.
+- [[concepts/being-in-the-world|Being-in-the-world]] — The fundamental structure of Dasein.
+- [[concepts/care|Care]] — The unified structure of Dasein's being.
+- [[concepts/thrownness|Thrownness]] — One dimension of Dasein's structure.
+- [[traditions/existentialism|Existentialism]] — Heidegger's analysis grounds existential thought.
+- [[traditions/phenomenology|Phenomenology]] — Heidegger's method is phenomenological.
 
 ## Quotes
 

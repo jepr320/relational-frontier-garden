@@ -24,7 +24,7 @@ This has profound implications for practices of encounter (like [[practices/circ
 
 ## The Between and Confirmation
 
-[[Concepts/confirmation|Confirmation]] happens in the Between. To confirm another person is not to approve of them or agree with them but to affirm their becoming, their reality, their otherness — and this affirmation is a relational event, not a unilateral act. Confirmation is what the Between makes possible.
+[[concepts/confirmation|Confirmation]] happens in the Between. To confirm another person is not to approve of them or agree with them but to affirm their becoming, their reality, their otherness — and this affirmation is a relational event, not a unilateral act. Confirmation is what the Between makes possible.
 
 ## Connections to The Third
 
@@ -32,13 +32,13 @@ Buber's concept of the Between anticipates and resonates with relational psychoa
 
 ## Connections
 
-- [[People/martin-buber|Martin Buber]] — Developed the concept in *I and Thou*.
-- [[Works/i-and-thou|I and Thou]] — The foundational text.
-- [[Concepts/i-thou|I-Thou]] — The Between is where I-Thou happens.
-- [[Concepts/confirmation|Confirmation]] — Happens in the Between.
-- [[Concepts/relational-ground|Relational Ground]] — The Between is a manifestation of relational ground.
-- [[Concepts/the-third|The Third]] — Parallel concept in relational psychoanalysis.
-- [[Traditions/existentialism|Existentialism]] — Buber's dialogical existentialism.
+- [[people/martin-buber|Martin Buber]] — Developed the concept in *I and Thou*.
+- [[works/i-and-thou|I and Thou]] — The foundational text.
+- [[concepts/i-thou|I-Thou]] — The Between is where I-Thou happens.
+- [[concepts/confirmation|Confirmation]] — Happens in the Between.
+- [[concepts/relational-ground|Relational Ground]] — The Between is a manifestation of relational ground.
+- [[concepts/the-third|The Third]] — Parallel concept in relational psychoanalysis.
+- [[traditions/existentialism|Existentialism]] — Buber's dialogical existentialism.
 
 ## Quotes
 

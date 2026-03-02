@@ -33,12 +33,12 @@ For practitioners working in relational and somatic fields, McGilchrist offers a
 
 ## Connections
 
-- [[Works/the-master-and-his-emissary|The Master and His Emissary]] — McGilchrist's foundational work.
-- [[Concepts/alienation|Alienation]] — The cultural consequence of hemispheric imbalance.
-- [[Concepts/meaning-crisis|Meaning Crisis]] — McGilchrist's diagnosis converges with Vervaeke's.
-- [[Concepts/resonance|Resonance]] — The right hemisphere's mode of relation maps onto Rosa's concept.
-- [[People/hartmut-rosa|Hartmut Rosa]] — Parallel sociological analysis.
-- [[People/john-vervaeke|John Vervaeke]] — Parallel cognitive-science analysis.
+- [[works/the-master-and-his-emissary|The Master and His Emissary]] — McGilchrist's foundational work.
+- [[concepts/alienation|Alienation]] — The cultural consequence of hemispheric imbalance.
+- [[concepts/meaning-crisis|Meaning Crisis]] — McGilchrist's diagnosis converges with Vervaeke's.
+- [[concepts/resonance|Resonance]] — The right hemisphere's mode of relation maps onto Rosa's concept.
+- [[people/hartmut-rosa|Hartmut Rosa]] — Parallel sociological analysis.
+- [[people/john-vervaeke|John Vervaeke]] — Parallel cognitive-science analysis.
 
 ## Quotes
 

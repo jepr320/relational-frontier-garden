@@ -18,7 +18,7 @@ Cheetham begins with [[people/henry-corbin|Corbin's]] central claim: there is a 
 
 Corbin's philosophy is grounded in Islamic mysticism, particularly the Ishrāqī ("Illuminationist") philosophy of Suhrawardī and the visionary recitals of Ibn 'Arabī and Avicenna. For these thinkers, the imaginal realm is populated by angelic presences, subtle bodies, and archetypal forms. To encounter the imaginal is not to fantasize but to perceive — and this perception transforms the perceiver.
 
-Cheetham emphasizes Corbin's warning against reducing the imaginal to psychology. [[People/james-hillman|James Hillman]] adapted Corbin's concept for archetypal psychology, but Hillman "interiorized" what Corbin insisted must remain ontological. For Corbin, the imaginal world is not a projection of the psyche but a real domain that the psyche can learn to perceive. Cheetham writes: "If there is a single first step on the road to the cosmos that Corbin invites us to enter, it may be the simple, passionate refusal to accept the understanding of ourselves and the world that dominates modern secular consciousness."
+Cheetham emphasizes Corbin's warning against reducing the imaginal to psychology. [[people/james-hillman|James Hillman]] adapted Corbin's concept for archetypal psychology, but Hillman "interiorized" what Corbin insisted must remain ontological. For Corbin, the imaginal world is not a projection of the psyche but a real domain that the psyche can learn to perceive. Cheetham writes: "If there is a single first step on the road to the cosmos that Corbin invites us to enter, it may be the simple, passionate refusal to accept the understanding of ourselves and the world that dominates modern secular consciousness."
 
 The book also explores the *angelic function of beings* — the idea that every being has a subtle, imaginal dimension that is its truth and beauty. To perceive the world imaginally is to see beings as icons — transparent to the divine, not opaque objects.
 
@@ -39,14 +39,14 @@ For practitioners of [[concepts/active-imagination|active imagination]], contemp
 
 ## Connections
 
-- [[People/tom-cheetham|Tom Cheetham]] — Author.
-- [[People/henry-corbin|Henry Corbin]] — Primary subject.
-- [[Concepts/imaginal|The Imaginal]] — Central concept.
-- [[Concepts/mundus-imaginalis|Mundus Imaginalis]] — The imaginal world.
-- [[Concepts/active-imagination|Active Imagination]] — The practice that accesses the imaginal.
-- [[People/james-hillman|James Hillman]] — Adapted Corbin for archetypal psychology.
-- [[Traditions/neoplatonism|Neoplatonism]] — Philosophical framework for the imaginal.
-- [[Traditions/mysticism|Mysticism]] — Corbin's sources are Islamic mystical traditions.
+- [[people/tom-cheetham|Tom Cheetham]] — Author.
+- [[people/henry-corbin|Henry Corbin]] — Primary subject.
+- [[concepts/imaginal|The Imaginal]] — Central concept.
+- [[concepts/mundus-imaginalis|Mundus Imaginalis]] — The imaginal world.
+- [[concepts/active-imagination|Active Imagination]] — The practice that accesses the imaginal.
+- [[people/james-hillman|James Hillman]] — Adapted Corbin for archetypal psychology.
+- [[traditions/neoplatonism|Neoplatonism]] — Philosophical framework for the imaginal.
+- [[traditions/mysticism|Mysticism]] — Corbin's sources are Islamic mystical traditions.
 
 ## Quotes
 

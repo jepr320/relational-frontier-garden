@@ -40,21 +40,21 @@ For relational practitioners, Rosa offers a sociological account of what their w
 
 ## Key Concepts
 
-- **[[Concepts/resonance|Resonance]]** — Responsive, transformative relationship between self and world.
+- **[[concepts/resonance|Resonance]]** — Responsive, transformative relationship between self and world.
 - **Four dimensions**: Affection, self-efficacy, response, transformation.
-- **[[Concepts/alienation|Alienation]]** — Mute, unresponsive relation to the world; the opposite of resonance.
+- **[[concepts/alienation|Alienation]]** — Mute, unresponsive relation to the world; the opposite of resonance.
 - **Acceleration** — The increasing pace of modern life that undermines resonance.
 - **Axes and spheres of resonance** — The domains and directions where resonance can occur.
 - **Resonance cannot be instrumentalized** — It is a relational event, not a technique or commodity.
 
 ## Connections
 
-- [[People/hartmut-rosa|Hartmut Rosa]] — Author.
-- [[Concepts/resonance|Resonance]] — Central concept introduced and developed in this work.
-- [[Concepts/alienation|Alienation]] — The condition resonance opposes.
-- [[Concepts/meaning-crisis|Meaning Crisis]] — Rosa's diagnosis converges with Vervaeke's framework.
-- [[People/john-vervaeke|John Vervaeke]] — Parallel analysis from cognitive science.
-- [[People/iain-mcgilchrist|Iain McGilchrist]] — Parallel analysis from neuroscience and cultural history.
+- [[people/hartmut-rosa|Hartmut Rosa]] — Author.
+- [[concepts/resonance|Resonance]] — Central concept introduced and developed in this work.
+- [[concepts/alienation|Alienation]] — The condition resonance opposes.
+- [[concepts/meaning-crisis|Meaning Crisis]] — Rosa's diagnosis converges with Vervaeke's framework.
+- [[people/john-vervaeke|John Vervaeke]] — Parallel analysis from cognitive science.
+- [[people/iain-mcgilchrist|Iain McGilchrist]] — Parallel analysis from neuroscience and cultural history.
 
 ## Quotes
 

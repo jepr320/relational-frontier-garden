@@ -35,13 +35,13 @@ For practitioners of relational and somatic work, Bollas offers a language for t
 
 ## Connections
 
-- [[Works/the-shadow-of-the-object|The Shadow of the Object]] — Bollas's foundational work.
-- [[Concepts/the-unthought-known|The Unthought Known]] — Central concept.
-- [[People/donald-winnicott|Donald Winnicott]] — Bollas extends Winnicott's work on transitional phenomena and the true self.
-- [[People/thomas-ogden|Thomas Ogden]] — Parallel work on unlived experience and the ontological dimension.
-- [[Concepts/transitional-space|Transitional Space]] — Background for Bollas's transformational object theory.
-- [[Concepts/true-self-false-self|True Self / False Self]] — Bollas develops Winnicott's framework.
-- [[Concepts/resonance|Resonance]] — Rosa's concept parallels the transformational object.
+- [[works/the-shadow-of-the-object|The Shadow of the Object]] — Bollas's foundational work.
+- [[concepts/the-unthought-known|The Unthought Known]] — Central concept.
+- [[people/donald-winnicott|Donald Winnicott]] — Bollas extends Winnicott's work on transitional phenomena and the true self.
+- [[people/thomas-ogden|Thomas Ogden]] — Parallel work on unlived experience and the ontological dimension.
+- [[concepts/transitional-space|Transitional Space]] — Background for Bollas's transformational object theory.
+- [[concepts/true-self-false-self|True Self / False Self]] — Bollas develops Winnicott's framework.
+- [[concepts/resonance|Resonance]] — Rosa's concept parallels the transformational object.
 
 ## Quotes
 

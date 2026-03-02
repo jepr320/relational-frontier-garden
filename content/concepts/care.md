@@ -14,7 +14,7 @@ Care (*Sorge*) is Martin Heidegger's term for the fundamental structure of [[con
 
 Heidegger analyzes care as having three interrelated dimensions, corresponding to temporality:
 
-1. **[[Concepts/thrownness|Thrownness]] (*Geworfenheit*)** — The "already" dimension. Dasein is always already delivered into a world, a situation, a historical moment not of its choosing. This is the dimension of the past, the given, the factical.
+1. **[[concepts/thrownness|Thrownness]] (*Geworfenheit*)** — The "already" dimension. Dasein is always already delivered into a world, a situation, a historical moment not of its choosing. This is the dimension of the past, the given, the factical.
 
 2. **Projection (*Entwurf*)** — The "not yet" dimension. Dasein is always ahead of itself, oriented toward possibilities, projecting into the future. To exist is to be always already engaged in possibilities, choosing (or failing to choose) how to be.
 
@@ -34,12 +34,12 @@ For relational and somatic practitioners, Heidegger's concept of care provides a
 
 ## Connections
 
-- [[People/martin-heidegger|Martin Heidegger]] — Developed the concept in *Being and Time*.
-- [[Works/being-and-time|Being and Time]] — The foundational text.
-- [[Concepts/dasein|Dasein]] — Care is the structure of Dasein's being.
-- [[Concepts/being-in-the-world|Being-in-the-world]] — Care is how Dasein is in the world.
-- [[Concepts/thrownness|Thrownness]] — One dimension of care.
-- [[Traditions/existentialism|Existentialism]] — Care is central to existential thought.
+- [[people/martin-heidegger|Martin Heidegger]] — Developed the concept in *Being and Time*.
+- [[works/being-and-time|Being and Time]] — The foundational text.
+- [[concepts/dasein|Dasein]] — Care is the structure of Dasein's being.
+- [[concepts/being-in-the-world|Being-in-the-world]] — Care is how Dasein is in the world.
+- [[concepts/thrownness|Thrownness]] — One dimension of care.
+- [[traditions/existentialism|Existentialism]] — Care is central to existential thought.
 
 ## Quotes
 

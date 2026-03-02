@@ -30,9 +30,9 @@ For practitioners of relational and imaginal work, Jung's account of active imag
 
 ## Key Concepts
 
-- **[[Concepts/individuation|Individuation]]** — The process of becoming whole; integrating conscious and unconscious.
-- **[[Concepts/the-self|The Self]]** — The archetype of wholeness; the deeper center beyond the ego.
-- **[[Concepts/active-imagination|Active Imagination]]** — Deliberate engagement with figures and images from the unconscious.
+- **[[concepts/individuation|Individuation]]** — The process of becoming whole; integrating conscious and unconscious.
+- **[[concepts/the-self|The Self]]** — The archetype of wholeness; the deeper center beyond the ego.
+- **[[concepts/active-imagination|Active Imagination]]** — Deliberate engagement with figures and images from the unconscious.
 - **Collective unconscious** — The shared, archetypal layer of the psyche.
 - **Archetypes** — Universal patterns and images structuring the psyche.
 - **Confrontation with the unconscious** — Jung's personal crisis and the method it revealed.
@@ -40,12 +40,12 @@ For practitioners of relational and imaginal work, Jung's account of active imag
 
 ## Connections
 
-- [[People/carl-jung|Carl Jung]] — Author and subject.
-- [[Concepts/individuation|Individuation]] — Central process described throughout.
-- [[Concepts/the-self|The Self]] — The goal and center of individuation.
-- [[Concepts/active-imagination|Active Imagination]] — Key practice Jung developed.
-- [[Traditions/neoplatonism|Neoplatonism]] — Jung drew on Neoplatonic symbolism for his psychology.
-- [[Traditions/mysticism|Mysticism]] — Jung's work bridges psychology and mystical experience.
+- [[people/carl-jung|Carl Jung]] — Author and subject.
+- [[concepts/individuation|Individuation]] — Central process described throughout.
+- [[concepts/the-self|The Self]] — The goal and center of individuation.
+- [[concepts/active-imagination|Active Imagination]] — Key practice Jung developed.
+- [[traditions/neoplatonism|Neoplatonism]] — Jung drew on Neoplatonic symbolism for his psychology.
+- [[traditions/mysticism|Mysticism]] — Jung's work bridges psychology and mystical experience.
 
 ## Quotes
 

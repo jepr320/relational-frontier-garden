@@ -18,11 +18,11 @@ The imaginal body can be cultivated and transformed through spiritual practice. 
 
 ## Connections
 
-- [[People/henry-corbin|Henry Corbin]] — Introduced the concept to Western readers.
-- [[Concepts/mundus-imaginalis|Mundus Imaginalis]] — The realm where the imaginal body exists.
-- [[Concepts/theophany|Theophany]] — The imaginal body is where divine manifestation occurs.
-- [[Traditions/mysticism|Mysticism]] — Central to Islamic mystical traditions.
-- [[Traditions/neoplatonism|Neoplatonism]] — Philosophical framework for subtle bodies.
+- [[people/henry-corbin|Henry Corbin]] — Introduced the concept to Western readers.
+- [[concepts/mundus-imaginalis|Mundus Imaginalis]] — The realm where the imaginal body exists.
+- [[concepts/theophany|Theophany]] — The imaginal body is where divine manifestation occurs.
+- [[traditions/mysticism|Mysticism]] — Central to Islamic mystical traditions.
+- [[traditions/neoplatonism|Neoplatonism]] — Philosophical framework for subtle bodies.
 
 ## Quotes
 

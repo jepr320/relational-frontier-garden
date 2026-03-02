@@ -37,11 +37,11 @@ For relational practitioners, Becker offers insight into the existential dimensi
 
 ## Connections
 
-- [[People/ernest-becker|Ernest Becker]] — Author.
-- [[People/rollo-may|Rollo May]] — Fellow existential psychologist; explored similar themes.
-- [[Concepts/the-daimonic|The Daimonic]] — May's concept of the creative-destructive force relates to Becker's analysis.
-- [[Concepts/meaning-crisis|Meaning Crisis]] — Becker's analysis of the collapse of traditional hero systems prefigures the meaning crisis.
-- [[Traditions/existentialism|Existentialism]] — Becker is a major existential thinker.
+- [[people/ernest-becker|Ernest Becker]] — Author.
+- [[people/rollo-may|Rollo May]] — Fellow existential psychologist; explored similar themes.
+- [[concepts/the-daimonic|The Daimonic]] — May's concept of the creative-destructive force relates to Becker's analysis.
+- [[concepts/meaning-crisis|Meaning Crisis]] — Becker's analysis of the collapse of traditional hero systems prefigures the meaning crisis.
+- [[traditions/existentialism|Existentialism]] — Becker is a major existential thinker.
 
 ## Quotes
 

@@ -33,10 +33,10 @@ Barfield influenced [[people/john-vervaeke|John Vervaeke's]] work on the [[conce
 
 ## Connections
 
-- [[Concepts/participatory-knowing|Participatory Knowing]] — Barfield's final participation is a form of this.
-- [[Concepts/meaning-crisis|Meaning Crisis]] — Barfield's account of the loss of participation prefigures the meaning crisis.
-- [[People/john-vervaeke|John Vervaeke]] — Drew on Barfield for his genealogy of the meaning crisis.
-- [[Concepts/alienation|Alienation]] — Barfield's diagnosis of modernity's alienation from nature and participation.
+- [[concepts/participatory-knowing|Participatory Knowing]] — Barfield's final participation is a form of this.
+- [[concepts/meaning-crisis|Meaning Crisis]] — Barfield's account of the loss of participation prefigures the meaning crisis.
+- [[people/john-vervaeke|John Vervaeke]] — Drew on Barfield for his genealogy of the meaning crisis.
+- [[concepts/alienation|Alienation]] — Barfield's diagnosis of modernity's alienation from nature and participation.
 
 ## Quotes
 

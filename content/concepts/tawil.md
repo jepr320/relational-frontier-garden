@@ -24,11 +24,11 @@ Ta'wīl is thus not merely a textual practice but a mode of being in the world. 
 
 ## Connections
 
-- [[People/henry-corbin|Henry Corbin]] — Introduced ta'wīl to Western readers.
-- [[Works/the-world-turned-inside-out|The World Turned Inside Out]] — Cheetham's exposition includes ta'wīl.
-- [[Concepts/mundus-imaginalis|Mundus Imaginalis]] — Ta'wīl is the practice that reveals the imaginal world.
-- [[Concepts/imaginal|The Imaginal]] — Ta'wīl is imaginal hermeneutics.
-- [[Traditions/mysticism|Mysticism]] — Islamic mysticism is the context for ta'wīl.
+- [[people/henry-corbin|Henry Corbin]] — Introduced ta'wīl to Western readers.
+- [[works/the-world-turned-inside-out|The World Turned Inside Out]] — Cheetham's exposition includes ta'wīl.
+- [[concepts/mundus-imaginalis|Mundus Imaginalis]] — Ta'wīl is the practice that reveals the imaginal world.
+- [[concepts/imaginal|The Imaginal]] — Ta'wīl is imaginal hermeneutics.
+- [[traditions/mysticism|Mysticism]] — Islamic mysticism is the context for ta'wīl.
 
 ## Quotes
 

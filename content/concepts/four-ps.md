@@ -18,7 +18,7 @@ The Four Ps (also called the four orders of knowing) is John Vervaeke's framewor
 
 3. **Perspectival knowing (knowing what it is like)** — Knowledge of phenomenological perspective, the qualitative dimension of experience. This is knowing what it's like to be in love, to see red, to feel joy or despair. It cannot be fully captured in propositions; it must be lived.
 
-4. **[[Concepts/participatory-knowing|Participatory knowing]]** — Knowledge through transformative engagement with reality. This is the deepest and most elusive form of knowing. It is not about having information or skills or even experiences but about being changed through genuine contact with what is real. Vervaeke connects this to what the Gnostics called *gnosis*, what Plato described as the philosopher's ascent toward the Good, and what contemplative traditions call enlightenment or awakening.
+4. **[[concepts/participatory-knowing|Participatory knowing]]** — Knowledge through transformative engagement with reality. This is the deepest and most elusive form of knowing. It is not about having information or skills or even experiences but about being changed through genuine contact with what is real. Vervaeke connects this to what the Gnostics called *gnosis*, what Plato described as the philosopher's ascent toward the Good, and what contemplative traditions call enlightenment or awakening.
 
 ## Participatory Knowing and the Meaning Crisis
 
@@ -28,12 +28,12 @@ Recovering meaning requires recovering practices and frameworks that cultivate p
 
 ## Connections
 
-- [[People/john-vervaeke|John Vervaeke]] — Developed the framework.
-- [[Works/awakening-from-the-meaning-crisis|Awakening from the Meaning Crisis]] — Where the Four Ps are central.
-- [[Concepts/participatory-knowing|Participatory Knowing]] — The fourth and deepest order.
-- [[Concepts/meaning-crisis|Meaning Crisis]] — The loss of participatory knowing is a core dimension.
-- [[Concepts/relevance-realization|Relevance Realization]] — Operates across all four orders of knowing.
-- [[Concepts/gnosis|Gnosis]] — Historical term for participatory knowing.
+- [[people/john-vervaeke|John Vervaeke]] — Developed the framework.
+- [[works/awakening-from-the-meaning-crisis|Awakening from the Meaning Crisis]] — Where the Four Ps are central.
+- [[concepts/participatory-knowing|Participatory Knowing]] — The fourth and deepest order.
+- [[concepts/meaning-crisis|Meaning Crisis]] — The loss of participatory knowing is a core dimension.
+- [[concepts/relevance-realization|Relevance Realization]] — Operates across all four orders of knowing.
+- [[concepts/gnosis|Gnosis]] — Historical term for participatory knowing.
 
 ## Quotes
 

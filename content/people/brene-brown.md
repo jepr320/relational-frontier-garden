@@ -34,9 +34,9 @@ For practitioners, Brown offers a popular vocabulary for the existential risks o
 
 ## Connections
 
-- [[Concepts/intersubjectivity|Intersubjectivity]] — Brown's work on connection and vulnerability aligns with intersubjective theory.
-- [[Concepts/mutual-recognition|Mutual Recognition]] — Vulnerability requires and creates mutual recognition.
-- [[Concepts/relational-ground|Relational Ground]] — Brown's framework is implicitly relational.
+- [[concepts/intersubjectivity|Intersubjectivity]] — Brown's work on connection and vulnerability aligns with intersubjective theory.
+- [[concepts/mutual-recognition|Mutual Recognition]] — Vulnerability requires and creates mutual recognition.
+- [[concepts/relational-ground|Relational Ground]] — Brown's framework is implicitly relational.
 
 ## Quotes
 

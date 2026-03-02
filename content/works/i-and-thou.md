@@ -30,23 +30,23 @@ For practitioners of relational and somatic work, *I and Thou* offers both valid
 
 ## Key Concepts
 
-- **[[Concepts/i-thou|I-Thou]]** — The relation of presence, mutuality, and encounter; meeting the other as whole.
+- **[[concepts/i-thou|I-Thou]]** — The relation of presence, mutuality, and encounter; meeting the other as whole.
 - **I-It** — The relation of experience, use, and objectification; necessary but limiting.
-- **[[Concepts/the-between|The Between]]** — The relational space where genuine meeting occurs; neither subjective nor objective.
-- **[[Concepts/confirmation|Confirmation]]** — Affirming the other in their becoming; essential to genuine relation.
+- **[[concepts/the-between|The Between]]** — The relational space where genuine meeting occurs; neither subjective nor objective.
+- **[[concepts/confirmation|Confirmation]]** — Affirming the other in their becoming; essential to genuine relation.
 - **The Eternal Thou** — God as the Thou who can never become an It; the ground of all genuine meeting.
 - **Presence** — Being wholly present to the encounter, not holding back or observing.
 - **Mutuality** — The reciprocal nature of genuine relation; both participants are transformed.
 
 ## Connections
 
-- [[People/martin-buber|Martin Buber]] — Author.
-- [[Concepts/i-thou|I-Thou]] — Central concept.
-- [[Concepts/the-between|The Between]] — The relational space.
-- [[Concepts/confirmation|Confirmation]] — Essential dimension of I-Thou relation.
-- [[Concepts/relational-ground|Relational Ground]] — Buber's philosophy is foundational to relational thought.
-- [[Traditions/existentialism|Existentialism]] — Buber is a key existential thinker, though his work is dialogical rather than individualistic.
-- [[Traditions/mysticism|Mysticism]] — Buber's Hasidic roots and theology of relation connect to mystical traditions.
+- [[people/martin-buber|Martin Buber]] — Author.
+- [[concepts/i-thou|I-Thou]] — Central concept.
+- [[concepts/the-between|The Between]] — The relational space.
+- [[concepts/confirmation|Confirmation]] — Essential dimension of I-Thou relation.
+- [[concepts/relational-ground|Relational Ground]] — Buber's philosophy is foundational to relational thought.
+- [[traditions/existentialism|Existentialism]] — Buber is a key existential thinker, though his work is dialogical rather than individualistic.
+- [[traditions/mysticism|Mysticism]] — Buber's Hasidic roots and theology of relation connect to mystical traditions.
 
 ## Quotes
 

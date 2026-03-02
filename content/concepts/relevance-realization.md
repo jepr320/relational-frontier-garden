@@ -24,11 +24,11 @@ Vervaeke argues that recovering meaning requires cultivating practices and frame
 
 ## Connections
 
-- [[People/john-vervaeke|John Vervaeke]] — Developed the concept in *Awakening from the Meaning Crisis*.
-- [[Works/awakening-from-the-meaning-crisis|Awakening from the Meaning Crisis]] — The lecture series where relevance realization is central.
-- [[Concepts/meaning-crisis|Meaning Crisis]] — The breakdown of relevance realization is a core dimension of the crisis.
-- [[Concepts/participatory-knowing|Participatory Knowing]] — The deepest form of knowing enhances relevance realization.
-- [[Concepts/four-ps|Four Ps]] — Relevance realization operates across all four orders of knowing.
+- [[people/john-vervaeke|John Vervaeke]] — Developed the concept in *Awakening from the Meaning Crisis*.
+- [[works/awakening-from-the-meaning-crisis|Awakening from the Meaning Crisis]] — The lecture series where relevance realization is central.
+- [[concepts/meaning-crisis|Meaning Crisis]] — The breakdown of relevance realization is a core dimension of the crisis.
+- [[concepts/participatory-knowing|Participatory Knowing]] — The deepest form of knowing enhances relevance realization.
+- [[concepts/four-ps|Four Ps]] — Relevance realization operates across all four orders of knowing.
 
 ## Quotes
 
