@@ -27,7 +27,7 @@ Rosa's relationship to religion and spirituality is illuminating. He was raised 
 
 ## Key Works
 
-- ***Resonance: A Sociology of Our Relationship to the World* (2016, English 2019)** — The central work. Long and dense, but the introduction and first three chapters are accessible and establish the framework fully.
+- ***[[works/resonance-a-sociology-of-our-relationship-to-the-world|Resonance: A Sociology of Our Relationship to the World]]* (2016, English 2019)** — The central work. Long and dense, but the introduction and first three chapters are accessible and establish the framework fully.
 - ***Social Acceleration: A New Theory of Modernity* (2005, English 2013)** — The diagnostic half of the project; essential companion to Resonance.
 - ***The Uncontrollability of the World* (2018, English 2020)** — Shorter and more accessible; a good entry point.
 - ***Alienation and Acceleration* (2010, English 2010)** — A briefer, more academic statement of the diagnosis.
