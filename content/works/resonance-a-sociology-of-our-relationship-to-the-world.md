@@ -1,5 +1,5 @@
 ---
-title: Resonance
+title: "Resonance: A Sociology of Our Relationship to the World"
 type: work
 author: hartmut-rosa
 year: 2016
@@ -8,7 +8,7 @@ concepts: [resonance, alienation, meaning-crisis]
 people: [hartmut-rosa]
 ---
 
-# Resonance
+# Resonance: A Sociology of Our Relationship to the World
 
 *Resonance: A Sociology of Our Relationship to the World* (German: *Resonanz*, 2016; English: 2019) is Hartmut Rosa's major theoretical work, proposing resonance as the fundamental category for understanding quality of life and human flourishing. Rosa argues that modernity's core problem is not scarcity or injustice alone but alienation — the inability to form responsive, transformative relationships with the world. Resonance is the opposite of alienation: a mode of relating characterized by responsiveness, self-efficacy, and transformation.
 
