@@ -33,5 +33,5 @@ The foundational texts — books, lecture series, and major essays — that shap
 ## Meaning Crisis & Contemporary Synthesis
 
 - [[awakening-from-the-meaning-crisis|Awakening from the Meaning Crisis]] — John Vervaeke's 50-episode lecture series on participatory knowing
-- [[resonance|Resonance]] — Hartmut Rosa's sociology of our relationship to the world
+- [[resonance-a-sociology-of-our-relationship-to-the-world|Resonance]] — Hartmut Rosa's sociology of our relationship to the world
 - [[the-master-and-his-emissary|The Master and His Emissary]] — Iain McGilchrist on hemispheric difference and the modern mind
