@@ -4,11 +4,20 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
-  afterBody: [],
+  header: [Component.CommunityBanner()],
+  afterBody: [
+    // Suggestion box — only renders on the /suggest page (slug check is internal)
+    // Replace "YOUR_FORM_ID" with your Formspree form ID after setup.
+    // See SUGGESTION_BOX.md for full setup instructions.
+    Component.SuggestionBox({
+      formspreeId: "YOUR_FORM_ID",
+    }),
+  ],
   footer: Component.Footer({
     links: {
-      
+      "Relational Frontier": "https://relationalfrontier.com",
+      "Suggest a Topic": "/suggest",
+      "GitHub": "https://github.com/jepr320/relational-frontier-garden",
     },
   }),
 }
