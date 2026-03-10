@@ -39,6 +39,8 @@ The true self/false self distinction has important implications for relational p
 
 [[concepts/transitional-space|Transitional Space]] — Play and creative engagement — the domain of transitional space — are the natural habitat of the true self.
 
+[[practices/internal-family-systems|Internal Family Systems]] — IFS offers a structural account of why the true self is obscured: protective parts (managers, firefighters) form precisely to prevent the exposure of wounded inner parts, producing a pattern structurally identical to Winnicott's false self. IFS's "Self" — characterized by curiosity, compassion, and calm — is the practical working name for what Winnicott called the true self in action.
+
 ## Quotes
 
 > "The true self comes from the aliveness of the body tissues and the working of body-functions, including the heart's action and the breathing." — Winnicott, *Ego Distortion in Terms of True and False Self*

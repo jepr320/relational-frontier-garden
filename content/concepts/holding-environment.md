@@ -37,6 +37,10 @@ The relationship to [[concepts/containment|Bion's containment]] concept is impor
 
 [[traditions/relational-psychoanalysis|Relational Psychoanalysis]] — Holding environment is one of the central concepts of the object relations and relational traditions.
 
+[[practices/t-groups|T-Groups]] — The T-group's unstructured container functions as a holding environment: uncomfortable enough to surface real patterns, reliable enough to survive them. The facilitator's refusal to lead creates the "potential space" within which authentic group process can emerge.
+
+[[practices/circling|Circling]] — A Circling session functions as a holding environment for the person being Circled: the group's sustained, non-judgmental attention creates a container in which the subject can take risks they would not ordinarily take.
+
 ## Quotes
 
 > "The good-enough mother... starts off with an almost complete adaptation to her infant's needs, and as time proceeds she adapts less and less completely, gradually, according to the infant's growing ability to deal with her failure." — Winnicott, *The Maturational Processes and the Facilitating Environment*

@@ -33,6 +33,10 @@ Jung was cautious about making metaphysical claims, but he acknowledged that the
 
 The Self is both the goal and the guide of [[concepts/individuation|individuation]]. The ego does not create the Self or achieve it through effort; rather, the Self draws the ego toward itself, creating circumstances (often difficult or painful) that force growth and integration. Individuation is the ego's gradual realization that it is not the center but a servant of the Self.
 
+## The Self in IFS
+
+Richard Schwartz's Internal Family Systems model offers a distinct but resonant account of the Self. In IFS, the Self is not an archetype but a quality of awareness characterized by the "8 Cs": curiosity, compassion, calm, confidence, courage, clarity, connectedness, and creativity. IFS's Self is not constructed through individuation but accessed through "unblending" — differentiating Self from the protective parts that obscure it. The two accounts converge in their basic claim: beneath the ego and its strategies, something coherent and essentially trustworthy is available. See [[practices/internal-family-systems|Internal Family Systems]].
+
 ## Connections
 
 - [[people/carl-jung|Carl Jung]] — Developed the concept throughout his work.
@@ -40,6 +44,7 @@ The Self is both the goal and the guide of [[concepts/individuation|individuatio
 - [[concepts/individuation|Individuation]] — The process of aligning with the Self.
 - [[concepts/active-imagination|Active Imagination]] — Practice for encountering the Self.
 - [[traditions/mysticism|Mysticism]] — The Self is Jung's psychological language for mystical experience.
+- [[practices/internal-family-systems|Internal Family Systems]] — A clinical model of Self distinct from parts, converging with the Jungian account in important ways.
 
 ## Quotes
 

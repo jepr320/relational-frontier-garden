@@ -37,6 +37,12 @@ This connects directly to [[people/emmanuel-levinas|Levinas]]'s account of the f
 
 [[traditions/relational-psychoanalysis|Relational Psychoanalysis]] — Mutual recognition is a foundational concept of the relational tradition's intersubjective turn.
 
+[[practices/circling|Circling]] — A Circling session is one of the most direct practical enactments of mutual recognition available outside clinical settings. The group's sustained, non-judgmental attention on the subject — oriented toward genuinely getting their world rather than evaluating or advising them — creates the conditions for the rare experience of being recognized as a full subject.
+
+[[practices/authentic-relating|Authentic Relating]] — AR practices as a whole aim to move relational exchange from I-It (instrumental, performative) toward I-Thou (mutual, present), which is the experiential ground of mutual recognition.
+
+[[practices/internal-family-systems|Internal Family Systems]] — IFS extends the mutual recognition framework into intrapersonal life: the Self's relationship to each part is structured as recognition — seeing the part's positive intent, meeting it with curiosity rather than force, allowing it to be genuinely other rather than simply controlled.
+
 ## Quotes
 
 > "The key insight of intersubjective theory is that the other must be recognized as another subject, not merely as an object or a reflection of the self." — Benjamin, *The Bonds of Love*

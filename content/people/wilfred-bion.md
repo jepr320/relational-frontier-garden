@@ -43,6 +43,8 @@ His work on groups is equally important and often underappreciated. Bion observe
 
 [[traditions/relational-psychoanalysis|Relational Psychoanalysis]] — Bion is one of the founding figures of the tradition, though his work ranges far beyond what is typically called relational.
 
+[[practices/t-groups|T-Groups]] — Bion's *Experiences in Groups* (1961) grew from his wartime work with leaderless groups and provides the psychoanalytic framework for understanding what T-groups reveal: the "basic assumptions" (dependency, fight-flight, pairing) that groups unconsciously adopt when they are not oriented toward their actual work. His Tavistock group relations conferences are the British counterpart to NTL's T-group tradition.
+
 ## Quotes
 
 > "The psycho-analyst should aim at achieving a state of mind so that at every session he feels he has not seen the patient before." — *Attention and Interpretation*

@@ -40,6 +40,9 @@ Finally: Buber's theology. For Buber, the eternal Thou — God — is encountere
 - [[concepts/intersubjectivity|Intersubjectivity]] — Buber's "between" anticipates the intersubjective theories of Benjamin, Ogden, and relational psychoanalysis.
 - [[traditions/phenomenology|Phenomenology]] — Buber's philosophy overlaps significantly with phenomenological method, though he came to it through Hasidic mysticism rather than Husserl.
 - [[people/donald-winnicott|Donald Winnicott]] — Winnicott's holding environment is the developmental prerequisite for I-Thou encounter; his transitional space is the precursor to Buber's between.
+- [[practices/circling|Circling]] — Circling is among the most direct practical enactments of the I-Thou stance: the group's attention to the subject as a living presence rather than an object of analysis is what Buber meant by encountering the Thou.
+- [[practices/authentic-relating|Authentic Relating]] — AR's five principles ("reveal your experience," "assume nothing," "welcome everything") are structured to facilitate the shift from I-It to I-Thou relating.
+- [[practices/dialectical-into-dialogos|Dialectical into Dialogos]] — The Dialogos paper names the I-Thou encounter as the experiential ground of genuine dialogos; dialectic becomes dialogos when it meets I-Thou openness.
 
 ## Quotes
 

@@ -26,12 +26,20 @@ Enactments are not failures of technique but essential moments of therapeutic (o
 
 [[people/jessica-benjamin|Jessica Benjamin]] explores how enactments often involve failures of mutual recognition — moments when one or both participants collapse into domination or submission, fusion or withdrawal. The relational work is to survive these ruptures and restore recognition.
 
+## Enactment and Relational Practice
+
+Practices like [[practices/t-groups|T-Groups]], [[practices/circling|Circling]], and [[practices/authentic-relating|Authentic Relating]] can be understood as deliberately constructed environments for surfacing and working with enactment. The T-group's authority vacuum removes social scaffolding precisely so that participants' habitual relational patterns emerge as live enactments. Circling's sustained attention on one person often reveals how they are co-creating the relational field — including what the group enacts in response to them.
+
+[[practices/internal-family-systems|Internal Family Systems]] offers an intrapersonal account of what drives enactment: protective parts enact their strategies in relationships, creating the interpersonal patterns that relational work identifies as enactments. IFS offers a way to work with enactments from the inside — by relating to the parts that are driving them.
+
 ## Connections
 
 - [[concepts/the-third|The Third]] — Enactments are shaped by the intersubjective field.
 - [[concepts/intersubjectivity|Intersubjectivity]] — Enactments reveal the relational unconscious.
 - [[people/thomas-ogden|Thomas Ogden]] — Key theorist of enactment and the Third.
 - [[people/jessica-benjamin|Jessica Benjamin]] — Enactment and mutual recognition.
+- [[practices/t-groups|T-Groups]] — Structured environments for surfacing enactment.
+- [[practices/internal-family-systems|Internal Family Systems]] — Parts work as a way to understand and transform enactment from the inside.
 
 ## Quotes
 

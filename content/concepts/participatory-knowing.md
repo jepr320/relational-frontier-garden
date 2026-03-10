@@ -18,6 +18,14 @@ concepts: [four-ps, gnosis, meaning-crisis]
 
 The [[concepts/meaning-crisis|meaning crisis]] is, in large part, the loss of access to participatory knowing. Modernity has retained propositional knowing (science) and procedural knowing (technology), but has largely severed the pathways to participatory transformation.
 
+## Practices That Enact Participatory Knowing
+
+Several relational practices are best understood as methods for accessing participatory knowing directly:
+
+- [[practices/circling|Circling]] — sustained intersubjective attention that generates *gnosis* of another person rather than information about them
+- [[practices/focusing|Focusing]] — Gendlin's felt-sense method as participatory knowing of one's own bodily situation
+- [[practices/dialectical-into-dialogos|Dialectical into Dialogos]] — structured philosophical dialogue designed to produce *metanoia*, a transformation in how the participants participate in reality
+
 ## See Also
 
 - [[concepts/four-ps|The Four Ps]] — The full framework
