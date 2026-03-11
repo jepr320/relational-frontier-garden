@@ -38,6 +38,12 @@ Rosa's relationship to religion and spirituality is illuminating. He was raised 
 - [[concepts/meaning-crisis|Meaning Crisis]] — Rosa's alienation and Vervaeke's meaning crisis are diagnoses of the same condition from different disciplinary perspectives.
 - [[concepts/i-thou|I-Thou]] — Rosa explicitly draws on Buber; the I-Thou relation is the paradigm case of resonance on the social axis.
 - [[people/john-vervaeke|John Vervaeke]] — Working the same territory from a cognitive-philosophical direction; the convergence of their diagnostics is significant.
+- [[people/ursula-le-guin|Ursula K. Le Guin]] — *The Dispossessed* is the most thorough literary analysis of the social conditions for resonance versus alienation; Le Guin's "ambiguous utopia" asks precisely the question Rosa asks: what would a society organized around genuine responsiveness look like, and what does it cost?
+- [[people/mark-rothko|Mark Rothko]] — The Rothko Chapel enacts Rosa's insight that resonance requires conditions that cannot be forced: slow time, undivided attention, the suspension of instrumental purpose; it is designed to create the conditions for resonance without guaranteeing outcomes.
+- [[people/caspar-david-friedrich|Caspar David Friedrich]] — Friedrich's figures before the infinite landscape are images of the conditions for resonance: solitude, stillness, sustained attention, the removal of instrumental purpose that Rosa identifies as prerequisites for genuine encounter with the world.
+- [[people/andrei-tarkovsky|Andrei Tarkovsky]] — Tarkovsky's long takes and radical deceleration of cinematic time enact precisely the conditions Rosa identifies as necessary for resonance: the suspension of instrumental purpose and the creation of genuine availability
+- [[people/wim-wenders|Wim Wenders]] — *Wings of Desire* dramatizes Rosa's central argument: embodiment as the condition for resonance; the angel who cannot be cold cannot be genuinely warmed
+- [[people/krzysztof-kieslowski|Krzysztof Kieślowski]] — *Blue* is a sustained examination of what happens when a person deliberately withdraws from resonance; the world's insistence on encounter is Rosa's central argument made visible
 
 ## Quotes
 

@@ -32,6 +32,16 @@ The practical and spiritual implications are significant. If resonance cannot be
 - **Hartmut Rosa, *The Uncontrollability of the World* (2018, English trans. 2020)** — A shorter, more accessible treatment of the core themes. Good entry point.
 - **Hartmut Rosa interviews on YouTube** — Several extended English-language interviews where Rosa explains the concepts accessibly and personally.
 
+## In Music
+
+Music offers some of the clearest and most accessible instances of resonance — moments when something in the sonic world genuinely speaks, and the listener finds themselves genuinely moved and changed.
+
+[[people/arvo-part|Arvo Pärt]]'s tintinnabuli works create the conditions for resonance through radical slowness and harmonic simplicity: the world of the music is sparse enough that the listener's attention has nowhere to hide and something can actually arrive. [[people/john-coltrane|John Coltrane]]'s *A Love Supreme* structures the resonant encounter as devotional act — acknowledgment, resolution, pursuit, and the responsive quality of the world that makes seeking non-delusional. [[people/bill-evans|Bill Evans]]'s trio recordings make audible the resonance between musicians in genuine dialogue: the music exists in the between, arising from mutual responsiveness rather than individual performance. [[people/pauline-oliveros|Pauline Oliveros]]'s Deep Listening practice is the methodical cultivation of resonant receptivity — learning to hear what the sonic environment is actually offering rather than substituting a preferred soundtrack.
+
+## In Poetry and Literature
+
+The structure Rosa theorizes recurs across poets who have written from within resonant encounter rather than about it as an abstraction. [[people/rumi|Rumi's]] *Masnavi* is perhaps the oldest and most sustained literary account of the resonance dynamic: the reed cut from its source, crying out, and capable of music precisely because of the separation. [[people/mary-oliver|Mary Oliver's]] work documents the nature axis in particular — the natural world as genuinely responsive to sustained, quality attention. [[people/wendell-berry|Wendell Berry]] demonstrates the material axis: the farm and the land as entities one can stand in genuine resonant relation with, given fidelity and time. [[people/david-whyte|David Whyte]] names the social and existential axes, arguing that reality has a "conversational nature" — that genuine encounter always involves being addressed, not merely stimulated.
+
 ## Connections
 
 - [[people/hartmut-rosa|Hartmut Rosa]] — The originator; his intellectual biography shapes the concept.

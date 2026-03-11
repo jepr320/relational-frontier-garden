@@ -30,6 +30,12 @@ This has profound implications for practices of encounter (like [[practices/circ
 
 Buber's concept of the Between anticipates and resonates with relational psychoanalysis's concept of [[concepts/the-third|the Third]] (Ogden, Benjamin). Both are pointing to the same ontological reality: genuine relationship creates a space that is autonomous, structuring, and irreducible to either participant.
 
+## In Music
+
+Two musical examples make the Between unusually concrete. [[people/bill-evans|Bill Evans]]'s trio recordings — particularly the recordings with Scott LaFaro and Paul Motian — are widely recognized as among the purest demonstrations of musical dialogue: the music exists only in the between created by three musicians genuinely listening and responding to each other. Neither Evans alone, nor LaFaro alone, nor Motian alone contains what the trio creates. The Between is where the music lives.
+
+[[people/garbarek-hilliard|Jan Garbarek with the Hilliard Ensemble]] materializes the Between across a different kind of difference: medieval sacred polyphony and contemporary saxophone improvisation creating something that belongs to neither tradition alone. The collaboration exists in the between of centuries.
+
 ## Connections
 
 - [[people/martin-buber|Martin Buber]] — Developed the concept in *I and Thou*.
@@ -39,6 +45,8 @@ Buber's concept of the Between anticipates and resonates with relational psychoa
 - [[concepts/relational-ground|Relational Ground]] — The Between is a manifestation of relational ground.
 - [[concepts/the-third|The Third]] — Parallel concept in relational psychoanalysis.
 - [[traditions/existentialism|Existentialism]] — Buber's dialogical existentialism.
+- [[people/bill-evans|Bill Evans]] — The trio recordings as sonic demonstration of the Between
+- [[people/garbarek-hilliard|Jan Garbarek / Hilliard Ensemble]] — Temporal dialogue that materializes the Between across centuries
 
 ## Quotes
 

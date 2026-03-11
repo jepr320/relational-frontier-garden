@@ -39,6 +39,12 @@ For practitioners working in relational and somatic fields, McGilchrist offers a
 - [[concepts/resonance|Resonance]] — The right hemisphere's mode of relation maps onto Rosa's concept.
 - [[people/hartmut-rosa|Hartmut Rosa]] — Parallel sociological analysis.
 - [[people/john-vervaeke|John Vervaeke]] — Parallel cognitive-science analysis.
+- [[people/gerard-manley-hopkins|Gerard Manley Hopkins]] — Hopkins's concept of inscape is one of the clearest literary precedents for McGilchrist's right-hemisphere apprehension of the particular; instress anticipates the resonance event McGilchrist describes neurologically.
+- [[people/simone-weil|Simone Weil]] — Weil's account of attention as "waiting, empty, and ready to be penetrated by the object" describes the right-hemisphere mode McGilchrist identifies as what modernity has systematically suppressed: receptive, open, non-grasping.
+- [[people/annie-dillard|Annie Dillard]] — Dillard's practice of attention to the natural world — the apprehension of the particular before any abstracting move — enacts what McGilchrist calls right-hemisphere attending; *Pilgrim at Tinker Creek* is a sustained literary demonstration of this mode.
+- [[people/agnes-martin|Agnes Martin]] — Martin's grids require and cultivate the right hemisphere's broad, receptive, non-grasping attention; the paintings are impossible to consume quickly and resist the left hemisphere's extractive agenda entirely.
+- [[people/james-turrell|James Turrell]] — Turrell's light environments enact McGilchrist's hemispheric distinction in practice: there is nothing to identify or extract; the only available mode is the broad receptive attending of the right hemisphere.
+- [[people/hiroshi-sugimoto|Hiroshi Sugimoto]] — Sugimoto's *Seascapes* — minimal, repeated, devoid of narrative — require the right hemisphere's mode of attending to the whole before the parts; they are incompatible with extractive attention.
 
 ## Quotes
 

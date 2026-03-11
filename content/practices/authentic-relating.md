@@ -57,7 +57,7 @@ These principles function less as rules and more as orientations: a direction to
 
 **[[practices/focusing|Focusing]]** attends intrapersonally to the felt sense; AR externalizes and makes relational what Focusing does privately. A practitioner skilled in both can track their felt sense of another person while simultaneously tracking their own — a kind of dual Focusing that is central to advanced AR facilitation.
 
-**Nonviolent Communication (NVC)** shares AR's emphasis on feelings and needs and honest expression. AR is less formulaic than NVC — it does not prescribe a specific linguistic structure. Many practitioners draw on NVC as a scaffold before moving into the more open territory of AR.
+**[[practices/nvc|Nonviolent Communication (NVC)]]** shares AR's emphasis on feelings and needs and honest expression. AR is less formulaic than NVC — it does not prescribe a specific linguistic structure. Many practitioners draw on NVC as a scaffold before moving into the more open territory of AR.
 
 **[[practices/dialectical-into-dialogos|Dialectical into Dialogos]]** — AR practices create conditions for the kind of honest, present exchange from which dialogos can emerge. AR is the relational soil; dialogos is what can grow when the soil is prepared and a conversation reaches sufficient depth.
 
@@ -72,4 +72,4 @@ These principles function less as rules and more as orientations: a direction to
 
 ---
 
-**See also:** [[concepts/i-thou|I-Thou]] · [[concepts/the-face-of-the-other|The Face of the Other]] · [[concepts/mutual-recognition|Mutual Recognition]] · [[concepts/resonance|Resonance]] · [[concepts/relational-ground|Relational Ground]] · [[people/martin-buber|Martin Buber]] · [[people/emmanuel-levinas|Emmanuel Levinas]] · [[people/hartmut-rosa|Hartmut Rosa]] · [[practices/circling|Circling]] · [[practices/t-groups|T-Groups]] · [[practices/focusing|Focusing]]
+**See also:** [[concepts/i-thou|I-Thou]] · [[concepts/the-face-of-the-other|The Face of the Other]] · [[concepts/mutual-recognition|Mutual Recognition]] · [[concepts/resonance|Resonance]] · [[concepts/relational-ground|Relational Ground]] · [[people/martin-buber|Martin Buber]] · [[people/emmanuel-levinas|Emmanuel Levinas]] · [[people/hartmut-rosa|Hartmut Rosa]] · [[practices/circling|Circling]] · [[practices/t-groups|T-Groups]] · [[practices/focusing|Focusing]] · [[practices/nvc|Nonviolent Communication]]

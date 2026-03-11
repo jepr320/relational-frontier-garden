@@ -81,4 +81,4 @@ Practitioners of [[practices/circling|Circling]] often note that the Circling st
 
 ---
 
-**See also:** [[concepts/the-self|The Self]] · [[concepts/true-self-false-self|True Self / False Self]] · [[concepts/mutual-recognition|Mutual Recognition]] · [[concepts/imaginal|The Imaginal]] · [[concepts/enactment|Enactment]] · [[people/carl-jung|Carl Jung]] · [[people/james-hillman|James Hillman]] · [[people/donald-winnicott|Donald Winnicott]] · [[people/jessica-benjamin|Jessica Benjamin]] · [[practices/focusing|Focusing]] · [[practices/circling|Circling]]
+**See also:** [[concepts/the-self|The Self]] · [[concepts/true-self-false-self|True Self / False Self]] · [[concepts/mutual-recognition|Mutual Recognition]] · [[concepts/imaginal|The Imaginal]] · [[concepts/enactment|Enactment]] · [[people/carl-jung|Carl Jung]] · [[people/james-hillman|James Hillman]] · [[people/donald-winnicott|Donald Winnicott]] · [[people/jessica-benjamin|Jessica Benjamin]] · [[practices/focusing|Focusing]] · [[practices/circling|Circling]] · [[practices/somatic-experiencing|Somatic Experiencing]] · [[practices/centering-prayer|Centering Prayer]]

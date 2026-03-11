@@ -25,6 +25,8 @@ Several relational practices are best understood as methods for accessing partic
 - [[practices/circling|Circling]] — sustained intersubjective attention that generates *gnosis* of another person rather than information about them
 - [[practices/focusing|Focusing]] — Gendlin's felt-sense method as participatory knowing of one's own bodily situation
 - [[practices/dialectical-into-dialogos|Dialectical into Dialogos]] — structured philosophical dialogue designed to produce *metanoia*, a transformation in how the participants participate in reality
+- [[people/keith-jarrett|Keith Jarrett]]'s solo improvisations — the Köln Concert as extended demonstration of participatory knowing in music: knowledge enacted in real time, never possessed in advance
+- [[people/pauline-oliveros|Pauline Oliveros]]'s Deep Listening — the practice explicitly designed to transform one's quality of engagement with sound rather than produce information about it
 
 ## See Also
 

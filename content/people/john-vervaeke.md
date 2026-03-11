@@ -39,6 +39,10 @@ Vervaeke's engagement with [[traditions/neoplatonism|Neoplatonism]] is deep and 
 - [[concepts/imaginal|The Imaginal]] — Vervaeke engages with Corbin's imaginal tradition as part of the broader recovery of participatory knowing.
 - [[traditions/phenomenology|Phenomenology]] — Vervaeke draws on phenomenological concepts, particularly perspectival knowing and being-in-the-world.
 - [[people/hartmut-rosa|Hartmut Rosa]] — Working the same territory from a sociological direction; their convergence is illuminating.
+- [[people/ursula-le-guin|Ursula K. Le Guin]] — Le Guin's science fiction stages the problem of transformative encounter with radical otherness that Vervaeke describes at the level of cognition; *The Left Hand of Darkness* in particular is about the restructuring of relevance realization required for genuine meeting across categorical difference.
+- [[people/annie-dillard|Annie Dillard]] — Dillard's practice of radical attention in *Pilgrim at Tinker Creek* is one of the most sustained literary enactments of what Vervaeke means by participatory knowing: the encounter with the natural world that transforms not just what one knows but who one is.
+- [[people/james-turrell|James Turrell]] — Turrell's light installations produce a direct modification of relevance realization: the ordinary saliences of visual experience are suspended, and the act of perception itself becomes the subject; the encounter forces a restructuring of what seems significant.
+- [[people/hiroshi-sugimoto|Hiroshi Sugimoto]] — Sugimoto's *Theaters* perform a suspension of habitual relevance structures — the narrative, the character, the moving image — that makes the architectural container of cinema suddenly visible; an involuntary relevance realization exercise.
 
 ## Quotes
 

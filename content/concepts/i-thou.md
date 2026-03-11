@@ -43,6 +43,13 @@ Finally: Buber's theology. For Buber, the eternal Thou — God — is encountere
 - [[practices/circling|Circling]] — Circling is among the most direct practical enactments of the I-Thou stance: the group's attention to the subject as a living presence rather than an object of analysis is what Buber meant by encountering the Thou.
 - [[practices/authentic-relating|Authentic Relating]] — AR's five principles ("reveal your experience," "assume nothing," "welcome everything") are structured to facilitate the shift from I-It to I-Thou relating.
 - [[practices/dialectical-into-dialogos|Dialectical into Dialogos]] — The Dialogos paper names the I-Thou encounter as the experiential ground of genuine dialogos; dialectic becomes dialogos when it meets I-Thou openness.
+- [[people/rumi|Rumi]] — Rumi's poetry is a sustained literary exploration of the I-Thou dynamic, with the Beloved functioning as the Eternal Thou that Buber identifies as accessible through every genuine encounter. The reed's music is the sound of I-Thou relation: possible only through separation, made real only in response.
+- [[people/paul-celan|Paul Celan]] — Celan's poetry tests the I-Thou at its limit: what it means to address and reach toward the other when the other has been annihilated. The persistence of genuine address in his work is an argument about the ineradicability of the I-Thou demand.
+- [[people/simone-weil|Simone Weil]] — Weil's "creative attention" — the suspension of projection so the other can genuinely be present — is one of the most precise philosophical descriptions of what Buber means by I-Thou: the willingness to let the other address rather than being screened through one's own categories.
+- [[people/shusaku-endo|Shusaku Endo]] — *Silence* is the most sustained literary investigation of what happens when the I-Thou address is directed toward God and no response comes; the "eclipse of God" in Buber's phrase dramatized as a novel.
+- [[people/mark-rothko|Mark Rothko]] — The Rothko Chapel is designed to create the conditions for I-Thou encounter with a painted surface; the Seagram Murals incident is a direct parable of what I-It conditions make impossible.
+- [[people/rembrandt|Rembrandt van Rijn]] — Rembrandt's late portraits are among the most powerful instances in Western art of a painted surface that meets the viewer; the directness of the gaze produces the quality of encounter Buber describes.
+- [[people/james-turrell|James Turrell]] — Turrell's light environments extend the I-Thou structure to non-representational experience: light itself becomes the Thou that addresses the viewer in the absence of any depicted face or object.
 
 ## Quotes
 

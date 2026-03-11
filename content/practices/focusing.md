@@ -53,7 +53,7 @@ Gendlin's late masterwork, *A Process Model* (2017, published posthumously), off
 
 **[[practices/internal-family-systems|Internal Family Systems]]** shares the fundamental move of turning inward with curiosity to establish a relationship with what is found there. IFS adds a structural model (parts, Self) that Focusing deliberately avoids — Gendlin preferred to let the body's own organization emerge rather than imposing a framework. Many practitioners integrate both.
 
-**Somatic Experiencing**, developed by Peter Levine, draws explicitly on the felt sense concept. Levine has acknowledged this debt, and Gendlin endorsed Levine's approach to trauma. SE adds a specific understanding of nervous system regulation that Focusing does not emphasize.
+**[[practices/somatic-experiencing|Somatic Experiencing]]**, developed by Peter Levine, draws explicitly on the felt sense concept. Levine has acknowledged this debt, and Gendlin endorsed Levine's approach to trauma. SE adds a specific understanding of nervous system regulation that Focusing does not emphasize.
 
 **Meditation traditions** — particularly Vipassana and Zazen — cultivate the same quality of non-judgmental attention to present-moment experience. Focusing adds the specific move of actively engaging and questioning what arises, rather than simply observing it. Some meditation teachers have explored the overlap; the two traditions complement each other.
 
@@ -73,4 +73,4 @@ Gendlin extended Focusing into philosophical and intellectual work with his meth
 
 ---
 
-**See also:** [[concepts/participatory-knowing|Participatory Knowing]] · [[concepts/resonance|Resonance]] · [[concepts/enactment|Enactment]] · [[people/maurice-merleau-ponty|Maurice Merleau-Ponty]] · [[people/john-vervaeke|John Vervaeke]] · [[practices/circling|Circling]] · [[practices/internal-family-systems|Internal Family Systems]] · [[practices/authentic-relating|Authentic Relating]] · [[practices/contemplative|Contemplative Practice]]
+**See also:** [[concepts/participatory-knowing|Participatory Knowing]] · [[concepts/resonance|Resonance]] · [[concepts/enactment|Enactment]] · [[people/maurice-merleau-ponty|Maurice Merleau-Ponty]] · [[people/john-vervaeke|John Vervaeke]] · [[practices/circling|Circling]] · [[practices/internal-family-systems|Internal Family Systems]] · [[practices/authentic-relating|Authentic Relating]] · [[practices/contemplative|Contemplative Practice]] · [[practices/somatic-experiencing|Somatic Experiencing]] · [[practices/nvc|Nonviolent Communication]] · [[practices/feldenkrais|Feldenkrais Method]] · [[practices/authentic-movement|Authentic Movement]] · [[practices/contact-improvisation|Contact Improvisation]]

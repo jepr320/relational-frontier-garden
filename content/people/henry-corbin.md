@@ -37,6 +37,7 @@ His encounter with Heidegger left a permanent mark. Heidegger's question of Bein
 - [[traditions/imaginal-tradition|The Imaginal Tradition]] — The broader lineage of which Corbin's scholarship is the most rigorous modern expression.
 - [[concepts/meaning-crisis|Meaning Crisis]] — Corbin's loss of the imaginal and Vervaeke's meaning crisis are two names for the same condition.
 - [[traditions/existentialism|Existentialism]] — Corbin was a student of Heidegger and one of the first to engage with Heidegger's work; the imaginal can be read as a response to Heidegger's question of Being.
+- [[people/hildegard-von-bingen|Hildegard von Bingen]] — Hildegard's account of visionary reception — the *living light* that arrives unbidden from an intermediate realm — belongs to the same phenomenological territory as Corbin's imaginal; her *feather on the breath of God* is a Western, Christian instance of the imaginal perception Corbin recovered from the Islamic mystical tradition
 
 ## Quotes
 

@@ -37,7 +37,9 @@ The connection to [[concepts/transitional-space|transitional space]] is direct. 
 
 [[traditions/jungian-archetypal-psychology|Jungian and Archetypal Psychology]] — Active imagination is the central practical method of this tradition.
 
-## Quotes
+## Related Practices
+
+- **[[practices/authentic-movement|Authentic Movement]]** — Mary Starks Whitehouse translated active imagination from a visual/verbal practice into a somatic one: the body itself becomes the medium through which unconscious material surfaces as movement, gesture, and postural configurations.
 
 > "Active imagination... is a method of introspection for observing the stream of interior images. One concentrates one's attention on some impressive but unintelligible dream-image... and then allows this image to unfold or change as it will." — Jung, *Mysterium Coniunctionis*
 

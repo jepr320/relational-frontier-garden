@@ -51,7 +51,7 @@ The T-group's structure has a philosophical dimension beyond its psychological o
 
 **[[practices/focusing|Focusing]] and [[practices/internal-family-systems|IFS]]** operate at the intrapersonal level with the same basic move T-groups make at the interpersonal level: attending to what is actually happening in present experience rather than to concepts *about* experience.
 
-**Nonviolent Communication (NVC)** provides a structured framework that addresses the safety concerns that contributed to T-groups' decline — giving participants specific tools for expressing needs and making requests that T-groups left entirely unstructured.
+**[[practices/nvc|Nonviolent Communication (NVC)]]** provides a structured framework that addresses the safety concerns that contributed to T-groups' decline — giving participants specific tools for expressing needs and making requests that T-groups left entirely unstructured.
 
 ## Legacy
 
@@ -68,4 +68,4 @@ The T-group's core insight — that the most valuable learning about human relat
 
 ---
 
-**See also:** [[concepts/mutual-recognition|Mutual Recognition]] · [[concepts/enactment|Enactment]] · [[concepts/holding-environment|Holding Environment]] · [[concepts/relational-ground|Relational Ground]] · [[concepts/meaning-crisis|Meaning Crisis]] · [[people/wilfred-bion|Wilfred Bion]] · [[people/donald-winnicott|Donald Winnicott]] · [[people/martin-buber|Martin Buber]] · [[practices/circling|Circling]] · [[practices/authentic-relating|Authentic Relating]] · [[practices/dialectical-into-dialogos|Dialectical into Dialogos]]
+**See also:** [[concepts/mutual-recognition|Mutual Recognition]] · [[concepts/enactment|Enactment]] · [[concepts/holding-environment|Holding Environment]] · [[concepts/relational-ground|Relational Ground]] · [[concepts/meaning-crisis|Meaning Crisis]] · [[people/wilfred-bion|Wilfred Bion]] · [[people/donald-winnicott|Donald Winnicott]] · [[people/martin-buber|Martin Buber]] · [[practices/circling|Circling]] · [[practices/authentic-relating|Authentic Relating]] · [[practices/dialectical-into-dialogos|Dialectical into Dialogos]] · [[practices/nvc|Nonviolent Communication]]

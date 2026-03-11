@@ -29,6 +29,9 @@ Vervaeke argues that recovering meaning requires cultivating practices and frame
 - [[concepts/meaning-crisis|Meaning Crisis]] — The breakdown of relevance realization is a core dimension of the crisis.
 - [[concepts/participatory-knowing|Participatory Knowing]] — The deepest form of knowing enhances relevance realization.
 - [[concepts/four-ps|Four Ps]] — Relevance realization operates across all four orders of knowing.
+- [[people/mary-oliver|Mary Oliver]] — Oliver's poetry enacts relevance realization in practice: poems that demonstrate the restructuring of significance through genuine attention to the particular.
+- [[people/jane-hirshfield|Jane Hirshfield]] — Hirshfield's Zen-trained practice of non-projective attention is a literary enactment of relevance realization; her poems perform the restructuring of significance rather than arguing for it.
+- [[people/marilynne-robinson|Marilynne Robinson]] — *Gilead*'s John Ames demonstrates relevance realization in the register of a lived life: the ordinary that becomes numinous through the quality of attention brought to it.
 
 ## Quotes
 

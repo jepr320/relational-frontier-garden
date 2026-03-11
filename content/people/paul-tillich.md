@@ -45,6 +45,16 @@ Estrangement is Tillich's reinterpretation of the theological concept of sin —
 
 [[concepts/resonance|Resonance]] — The courage to be, for Tillich, is the condition that makes genuine encounter and resonance possible.
 
+[[people/shusaku-endo|Shusaku Endo]] — Endo's *Silence* is the most direct novelistic dramatization of Tillich's territory: a man maintaining his relationship to the ground of being in conditions of maximum divine absence; the courage to be enacted not as affirmation but as a specific form of surrender that remains, paradoxically, faithful.
+
+[[people/mark-rothko|Mark Rothko]] — Tillich's account of modern art as "not propaganda but revelation" — the artist who sees the anxiety of meaninglessness and has the courage to face and express it — describes exactly what Rothko was doing in the Seagram Murals and the Chapel works.
+
+[[people/john-coltrane|John Coltrane]] — *A Love Supreme* is the musical parallel to what Tillich calls the courage to create: the willingness to replace the old by the new for which there are no norms and criteria; in Coltrane's case, the courage to claim publicly that his music was devotional practice directed at God.
+
+[[people/hildegard-von-bingen|Hildegard von Bingen]] — Hildegard's concept of *viriditas* — the divine vitality that animates all living things — is a twelfth-century name for what Tillich called the power of Being itself; both describe the sacred not as a being but as the animating force encountered through creative and contemplative practice.
+
+[[people/caspar-david-friedrich|Caspar David Friedrich]] — Friedrich's figures before the void — the monk at the sea, the wanderer above the fog — are visual demonstrations of Tillich's courage to be: the affirmation of one's existence in full awareness of finitude and the indifference of what exceeds the human.
+
 ## Quotes
 
 > "The courage to be is the ethical act in which man affirms his own being in spite of those elements of his existence which conflict with his essential self-affirmation." — *The Courage to Be*

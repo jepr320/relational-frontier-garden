@@ -57,6 +57,7 @@ Mysticism is where psychology, philosophy, and spirituality converge — where t
 - [[people/mircea-eliade|Mircea Eliade]] — Historian of religion; phenomenology of the sacred.
 - [[people/carl-jung|Carl Jung]] — Mysticism as psychological reality; individuation as mystical path.
 - [[people/martin-buber|Martin Buber]] — Hasidic mysticism and dialogical philosophy.
+- [[people/rumi|Rumi]] — The Sufi mystical tradition's greatest poet; the *Masnavi* and *Diwan-i-Shams* as sustained literary accounts of the soul's longing for and encounter with the divine.
 - [[concepts/gnosis|Gnosis]] — Mystical knowing; participatory transformation.
 - [[concepts/mundus-imaginalis|Mundus Imaginalis]] — The realm where mystical vision occurs.
 - [[concepts/participatory-knowing|Participatory Knowing]] — Modern term for mystical epistemology.

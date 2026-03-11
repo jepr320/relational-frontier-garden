@@ -35,6 +35,8 @@ The convergence with [[people/martin-buber|Buber]]'s I-Thou encounter is importa
 
 [[traditions/phenomenology|Phenomenology]] — Levinas developed the concept through rigorous phenomenological analysis of the encounter with the other.
 
+[[people/paul-celan|Paul Celan]] — Celan's poetry enacts the same problem Levinas theorizes: what it means to address and be addressed by the other when that other has been annihilated. Both respond to the Holocaust through the same philosophical demand. Celan's "The Meridian" and Levinas's ethics of the face are among the most searching engagements with this question in the twentieth century.
+
 ## Quotes
 
 > "The face opens the primordial discourse whose first word is obligation." — Levinas, *Totality and Infinity*

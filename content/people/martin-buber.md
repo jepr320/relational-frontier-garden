@@ -40,6 +40,11 @@ In his final decades, Buber engaged in sustained philosophical dialogue with [[p
 - [[concepts/intersubjectivity|Intersubjectivity]] — Buber's between anticipates the intersubjective theories of Benjamin, Ogden, and relational psychoanalysis.
 - [[traditions/phenomenology|Phenomenology]] — Buber's philosophy is adjacent to but distinct from phenomenology; he came to similar conclusions through different routes.
 - [[people/donald-winnicott|Donald Winnicott]] — Winnicott's holding environment creates the developmental conditions for the I-Thou encounter Buber describes.
+- [[people/dostoevsky|Fyodor Dostoevsky]] — Mikhail Bakhtin's analysis of Dostoevsky's "polyphonic novel" is one of the clearest demonstrations of what the I-Thou distinction means in practice: every character allowed to be genuinely other, not a vehicle for the author's thesis.
+- [[people/simone-weil|Simone Weil]] — Weil's concept of "creative attention" arrives at the same place as Buber's I-Thou from a different direction: the suspension of one's own projections so that the other can genuinely be present.
+- [[people/mark-rothko|Mark Rothko]] — The Seagram Murals incident is a parable of the I-Thou / I-It distinction in practice: Rothko withdrew the work from a restaurant setting because it could only be encountered instrumentally, as decoration while eating; he sought conditions for genuine meeting.
+- [[people/rembrandt|Rembrandt van Rijn]] — Rembrandt's late portraits create the conditions for I-Thou encounter with a painted surface; the faces look back across the centuries with a directness that produces genuine meeting.
+- [[people/alberto-giacometti|Alberto Giacometti]] — Giacometti's sculpture *City Square* is a visual demonstration of I-It: figures sharing space without genuine meeting; his entire career is the search for the conditions of I-Thou in visual form.
 
 ## Quotes
 

@@ -41,6 +41,7 @@ The practical stakes of this claim are enormous. If we are fundamentally relatio
 - [[traditions/phenomenology|Phenomenology]] — Heidegger's being-with and Merleau-Ponty's intercorporeality are the phenomenological expressions of relational ground.
 - [[traditions/relational-psychoanalysis|Relational Psychoanalysis]] — The clinical tradition that has most systematically charted the relational constitution of selfhood.
 - [[people/martin-buber|Martin Buber]] — The philosopher who stated the ontological claim most directly and most beautifully.
+- [[people/wendell-berry|Wendell Berry]] — Berry's concept of membership — belonging to a place and community as a limb belongs to a body — is a literary and practical account of relational ground. His work demonstrates what it looks like to live inside relational ontology rather than merely theorize it.
 
 ## Quotes
 

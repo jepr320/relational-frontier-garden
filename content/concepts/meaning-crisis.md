@@ -32,6 +32,10 @@ The connection to the Relational Frontier is direct. The men Jake works with are
 - **John Vervaeke & Christopher Mastropietro, *Transcendent Naturalism* (forthcoming)** — The systematic philosophical statement of Vervaeke's position.
 - **Iain McGilchrist, *The Master and His Emissary* (2009)** — A complementary diagnosis of the same condition from the perspective of brain laterality. Vervaeke and McGilchrist are in sustained conversation.
 
+## In Music
+
+[[people/john-coltrane|John Coltrane]]'s *A Love Supreme* (1964) can be heard as a direct response to the meaning crisis: an insistence, in sound, that the world can be addressed and can address us in return; that seeking is not delusional; that devotion and transformation remain possible. The suite's four-part structure — acknowledgment, resolution, pursuit, psalm — is itself a form of participatory knowing. [[people/arvo-part|Arvo Pärt]]'s decade of creative withdrawal before arriving at his tintinnabuli style follows a parallel arc: the old forms are exhausted; a new relationship to sound must be found before creation can resume.
+
 ## Connections
 
 - [[people/john-vervaeke|John Vervaeke]] — The thinker; his intellectual project is the most developed contemporary account of the crisis and its potential resolution.
