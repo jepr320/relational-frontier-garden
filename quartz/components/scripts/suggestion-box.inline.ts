@@ -10,13 +10,6 @@ document.addEventListener("nav", () => {
   const container = document.querySelector<HTMLElement>(".suggestion-box")
   if (!container) return
 
-  const formspreeId = container.dataset.formspreeId
-  if (!formspreeId || formspreeId === "YOUR_FORM_ID") {
-    // Dev/unconfigured state — show a warning in the console, keep the form visible
-    console.warn("[SuggestionBox] Formspree ID not configured. Set formspreeId in quartz.layout.ts.")
-    return
-  }
-
   const form = document.getElementById("suggestion-form") as HTMLFormElement | null
   const successPanel = document.getElementById("sb-success") as HTMLElement | null
   const errorPanel = document.getElementById("sb-error") as HTMLElement | null
@@ -96,7 +89,7 @@ document.addEventListener("nav", () => {
     const data = new FormData(form)
 
     try {
-      const response = await fetch(`https://formspree.io/f/${formspreeId}`, {
+      const response = await fetch("https://relationalfrontier.com/api/garden-suggestion", {
         method: "POST",
         body: data,
         headers: { Accept: "application/json" },
