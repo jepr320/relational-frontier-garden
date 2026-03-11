@@ -63,4 +63,8 @@ This is the literary equivalent of [[people/paul-tillich|Tillich's]] concept of 
 
 ---
 
-**See also:** [[people/martin-buber|Martin Buber]] · [[people/john-vervaeke|John Vervaeke]] · [[people/paul-tillich|Paul Tillich]] · [[concepts/resonance|Resonance]] · [[people/wendell-berry|Wendell Berry]] · [[people/czeslaw-milosz|Czesław Miłosz]]
+- [[works/gilead|Gilead]] — Full node for the novel: the epistolary form as I-Thou, attention as theology, Jack Boughton and hard grace, and the Rosa/resonance connection.
+
+---
+
+**See also:** [[people/martin-buber|Martin Buber]] · [[people/john-vervaeke|John Vervaeke]] · [[people/paul-tillich|Paul Tillich]] · [[concepts/resonance|Resonance]] · [[people/wendell-berry|Wendell Berry]] · [[people/czeslaw-milosz|Czesław Miłosz]] · [[works/gilead|Gilead]]

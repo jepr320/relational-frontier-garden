@@ -99,6 +99,10 @@ Directors whose work enacts the philosophical concerns of this garden through mo
 | [[ingmar-bergman\|Ingmar Bergman]] | The silence of God; the human face as site of encounter; moral seriousness without resolution |
 | [[krzysztof-kieslowski\|Krzysztof Kieślowski]] | *Dekalog* as ethical cinema; the between in *Red*; resonance and its refusal in *Blue* |
 
+## Psychologists & Therapists
+
+- [[carl-rogers|Carl Rogers]] — The founder of person-centered therapy; the relationship itself as the healing agent
+
 ## Scholars & Interpreters
 
 - [[tom-cheetham|Tom Cheetham]] — The most devoted interpreter of Henry Corbin's imaginal world

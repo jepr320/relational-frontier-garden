@@ -57,4 +57,8 @@ Rodrigues in *Silence*, like Ivan Karamazov in [[people/dostoevsky|Dostoevsky's]
 
 ---
 
-**See also:** [[people/martin-buber|Martin Buber]] · [[concepts/meaning-crisis|Meaning Crisis]] · [[people/paul-tillich|Paul Tillich]] · [[people/dostoevsky|Fyodor Dostoevsky]] · [[people/christian-wiman|Christian Wiman]]
+- [[works/silence|Silence]] — Full node for the novel: the structure of divine silence, the fumi-e climax, Kichijiro, Ferreira, and the cultural encounter question.
+
+---
+
+**See also:** [[people/martin-buber|Martin Buber]] · [[concepts/meaning-crisis|Meaning Crisis]] · [[people/paul-tillich|Paul Tillich]] · [[people/dostoevsky|Fyodor Dostoevsky]] · [[people/christian-wiman|Christian Wiman]] · [[works/silence|Silence]]

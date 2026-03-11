@@ -30,6 +30,12 @@ The foundational texts — books, lecture series, and major essays — that shap
 - [[memories-dreams-reflections|Memories, Dreams, Reflections]] — Carl Jung's autobiography and spiritual journey
 - [[re-visioning-psychology|Re-Visioning Psychology]] — James Hillman on soul-making and archetypal imagination
 
+## Faith, Doubt & Silence (Literature)
+
+- [[the-brothers-karamazov|The Brothers Karamazov]] — Dostoevsky's polyphonic investigation of theodicy, faith, and active love
+- [[silence|Silence]] — Endō's novel of divine silence, apostasy, and the God who suffers with us
+- [[gilead|Gilead]] — Marilynne Robinson's Pulitzer-winning portrait of attention, grace, and the sacred in the ordinary
+
 ## Meaning Crisis & Contemporary Synthesis
 
 - [[awakening-from-the-meaning-crisis|Awakening from the Meaning Crisis]] — John Vervaeke's 50-episode lecture series on participatory knowing

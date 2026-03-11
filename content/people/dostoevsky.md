@@ -63,4 +63,8 @@ This is also why Dostoevsky's novels resist the [[concepts/the-between|between]]
 
 ---
 
-**See also:** [[people/martin-buber|Martin Buber]] · [[concepts/i-thou|I-Thou]] · [[concepts/meaning-crisis|Meaning Crisis]] · [[people/paul-tillich|Paul Tillich]] · [[people/marilynne-robinson|Marilynne Robinson]]
+- [[works/the-brothers-karamazov|The Brothers Karamazov]] — Full node for the novel: polyphonic form, the Rebellion, the Grand Inquisitor, Elder Zosima's active love, and the philosophical connections.
+
+---
+
+**See also:** [[people/martin-buber|Martin Buber]] · [[concepts/i-thou|I-Thou]] · [[concepts/meaning-crisis|Meaning Crisis]] · [[people/paul-tillich|Paul Tillich]] · [[people/marilynne-robinson|Marilynne Robinson]] · [[works/the-brothers-karamazov|The Brothers Karamazov]]
