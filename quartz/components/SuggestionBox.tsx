@@ -58,7 +58,6 @@ export default ((opts?: Options) => {
                   aria-required="true"
                 >
                   <option value="">Select a category…</option>
-                  <option value="arts">Arts</option>
                   <option value="concepts">Concepts</option>
                   <option value="people">People</option>
                   <option value="practices">Practices</option>
