@@ -37,7 +37,7 @@ Stephen Mitchell's translations are widely considered the finest in English — 
 
 - [[concepts/resonance|Resonance]] — Rilke's poetry is a sustained practice of attention-as-resonance; his things and angels speak.
 - [[concepts/imaginal|The Imaginal]] — Rilke's angels are imaginal figures; his *Weltinnenraum* is the imaginal space entered through genuine attention.
-- [[arts/index|The Arts]] — Rilke is the central figure in the Relational Frontier's engagement with poetry as a form of genuine knowing.
+- [[works/index|Works]] — Rilke is the central figure in the Relational Frontier's engagement with poetry as a form of genuine knowing.
 
 ## Quotes
 

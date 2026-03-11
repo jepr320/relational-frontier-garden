@@ -70,7 +70,7 @@ These six concepts form the conceptual spine of the garden. Begin anywhere.
 > [!example] Arts
 > Works of literature, film, music, and visual art that enact or illuminate relational depth. Art as a primary mode of knowing, not merely illustration.
 >
-> [[arts/index|→ Browse Arts]]
+> [[works/index|→ Browse Works]]
 
 ---
 

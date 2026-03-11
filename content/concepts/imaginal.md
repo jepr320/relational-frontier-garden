@@ -39,7 +39,7 @@ The [[traditions/romanticism|Romantic]] poets — Blake, Coleridge, Wordsworth �
 - [[traditions/imaginal-tradition|The Imaginal Tradition]] — The broader lineage of which Corbin's recovery is the most rigorous modern expression.
 - [[concepts/meaning-crisis|Meaning Crisis]] — Vervaeke's meaning crisis and Corbin's loss of the imaginal are diagnoses of the same condition from different angles.
 - [[traditions/existentialism|Existentialism]] — Corbin was a student of Heidegger; the imaginal can be read as a response to Heidegger's question of Being.
-- [[arts/index|The Arts]] — The arts are the primary contemporary site where the imaginal faculty is exercised; this is why aesthetic experience matters so much in this garden.
+- [[works/index|Works]] — The arts are the primary contemporary site where the imaginal faculty is exercised; this is why aesthetic experience matters so much in this garden.
 
 ## Quotes
 
