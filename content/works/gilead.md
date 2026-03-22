@@ -7,6 +7,7 @@ traditions: [christianity]
 concepts: [resonance, relevance-realization, participatory-knowing, i-thou, meaning-crisis]
 people: [marilynne-robinson, martin-buber, john-vervaeke, paul-tillich, hartmut-rosa, iain-mcgilchrist, wendell-berry, czeslaw-milosz, dostoevsky, shusaku-endo]
 related: [works/the-brothers-karamazov, works/silence, people/marilynne-robinson, concepts/resonance, concepts/relevance-realization, concepts/i-thou]
+description: Marilynne Robinson's Pulitzer Prize-winning 2004 novel — a dying minister's letter to his son exploring attention as theology, I-Thou encounter, and resonance in the sacred ordinary of everyday life.
 ---
 
 # Gilead

@@ -6,6 +6,7 @@ traditions: [poetry, german-literature]
 concepts: [resonance, imaginal, mundus-imaginalis, meaning-crisis, participatory-knowing, the-between, i-thou, thrownness]
 people: [rainer-maria-rilke, henry-corbin, hartmut-rosa, martin-heidegger, carl-jung, simone-weil, paul-tillich, gerard-manley-hopkins, andrei-tarkovsky]
 related: [people/rainer-maria-rilke, concepts/resonance, concepts/imaginal, concepts/mundus-imaginalis, concepts/the-between, concepts/meaning-crisis, concepts/participatory-knowing, people/henry-corbin, people/hartmut-rosa, people/martin-heidegger, people/carl-jung, people/simone-weil, people/paul-tillich]
+description: Rainer Maria Rilke's ten elegies — a sustained lyric meditation on human incompleteness, the imaginal realm, resonance, and the poet's task of transformation, written between 1912 and 1922.
 ---
 
 # Duino Elegies

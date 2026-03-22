@@ -6,6 +6,7 @@ traditions: [taoism, anarchism, science-fiction]
 concepts: [i-thou, the-between, resonance, alienation, relevance-realization, participatory-knowing]
 people: [ursula-le-guin, martin-buber, hartmut-rosa, john-vervaeke, iain-mcgilchrist, dostoevsky, simone-weil, wendell-berry]
 related: [people/ursula-le-guin, concepts/i-thou, concepts/the-between, concepts/resonance, concepts/alienation, concepts/relevance-realization, concepts/participatory-knowing, people/martin-buber, people/hartmut-rosa, people/john-vervaeke]
+description: Ursula K. Le Guin's 1974 science fiction novel — an ambiguous utopia comparing anarchism and capitalism through the lens of I-Thou encounter, resonance, and the structural conditions for genuine meeting.
 ---
 
 # The Dispossessed

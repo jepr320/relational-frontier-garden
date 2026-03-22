@@ -6,6 +6,7 @@ traditions: [existentialism, phenomenology]
 concepts: [i-thou, resonance, alienation, being-in-the-world, the-between, participatory-knowing]
 people: [wim-wenders, martin-buber, hartmut-rosa, iain-mcgilchrist, maurice-merleau-ponty, martin-heidegger, andrei-tarkovsky, bill-viola]
 related: [people/wim-wenders, concepts/i-thou, concepts/resonance, concepts/alienation, concepts/being-in-the-world, concepts/the-between, works/stalker, works/the-tree-of-life]
+description: Wim Wenders's 1987 philosophical film in which an angel chooses embodiment over observation — exploring I-Thou encounter, resonance, and what being-in-the-world makes possible in divided Berlin.
 ---
 
 # Wings of Desire

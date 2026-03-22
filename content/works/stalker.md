@@ -7,6 +7,7 @@ traditions: [orthodox-christianity, existentialism]
 concepts: [being-in-the-world, resonance, participatory-knowing, meaning-crisis, i-thou, the-between, the-daimonic]
 people: [andrei-tarkovsky, martin-buber, hartmut-rosa, iain-mcgilchrist, paul-tillich]
 related: [people/andrei-tarkovsky, concepts/being-in-the-world, concepts/resonance, concepts/participatory-knowing, concepts/meaning-crisis, works/wings-of-desire, works/the-tree-of-life]
+description: Andrei Tarkovsky's 1979 philosophical film — three men journey through the Zone, a space where ordinary certainty fails, as a meditation on participatory knowing, resonance, and what genuine encounter demands.
 ---
 
 # Stalker

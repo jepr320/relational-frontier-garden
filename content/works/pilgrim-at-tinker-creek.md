@@ -6,6 +6,7 @@ traditions: [american-literature, nature-writing, christian-mysticism]
 concepts: [participatory-knowing, resonance, relevance-realization, i-thou]
 people: [annie-dillard, iain-mcgilchrist, john-vervaeke, simone-weil, hartmut-rosa, gerard-manley-hopkins, martin-buber, paul-tillich, mary-oliver]
 related: [people/annie-dillard, concepts/participatory-knowing, concepts/resonance, concepts/relevance-realization, people/iain-mcgilchrist, people/john-vervaeke, people/simone-weil, people/hartmut-rosa, people/gerard-manley-hopkins, people/mary-oliver]
+description: Annie Dillard's Pulitzer Prize-winning 1974 work of literary nonfiction — a year of radical attention to the natural world as participatory knowing, exploring violence, beauty, and the possibility of genuine encounter with nature.
 ---
 
 # Pilgrim at Tinker Creek

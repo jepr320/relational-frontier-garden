@@ -6,6 +6,7 @@ traditions: [jazz]
 concepts: [participatory-knowing, i-thou, resonance, the-between]
 people: [keith-jarrett, martin-buber, john-vervaeke, iain-mcgilchrist, hartmut-rosa, john-coltrane, bill-evans]
 related: [people/keith-jarrett, concepts/participatory-knowing, concepts/i-thou, concepts/resonance, works/a-love-supreme, works/the-master-and-his-emissary]
+description: Keith Jarrett's 1975 solo piano improvisation at Cologne — a meditation on musical presence, participatory knowing, and I-Thou encounter in jazz, recorded live with a broken instrument under extraordinary constraint.
 ---
 
 # The Köln Concert

@@ -4,6 +4,7 @@ type: person
 traditions: [christianity]
 concepts: [resonance, relevance-realization, participatory-knowing, i-thou]
 related: [people/martin-buber, people/john-vervaeke, people/paul-tillich, people/iain-mcgilchrist, people/wendell-berry, people/czeslaw-milosz, concepts/resonance, concepts/relevance-realization, concepts/participatory-knowing]
+description: Marilynne Robinson — American novelist and essayist whose Gilead tetralogy explores attention as theology, resonance in ordinary life, and the I-Thou encounter available in the everyday sacred.
 ---
 
 # Marilynne Robinson

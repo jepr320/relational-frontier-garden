@@ -1,8 +1,16 @@
 ---
 title: Dekalog
+type: work
+director: krzysztof-kieslowski
+year: 1988
+traditions: [polish-cinema, philosophical-cinema]
+concepts: [the-between, meaning-crisis, i-thou, alienation, participatory-knowing]
+people: [krzysztof-kieslowski, martin-buber, emmanuel-levinas, ingmar-bergman]
+related: [people/krzysztof-kieslowski, concepts/the-between, concepts/meaning-crisis, concepts/i-thou, works/the-seventh-seal, works/wings-of-desire]
+description: Krzysztof Kieślowski's ten-film television masterpiece, each episode drawn from one Commandment — a sustained meditation on moral life, the ethics of genuine encounter, and the face of the other in late communist Poland.
 ---
 
-*Dekalog* is a series of ten films made for Polish television by [[people/krzysztof-kieslowski|Krzysztof Kieślowski]], each approximately one hour long and each taking its occasion from one of the Ten Commandments. All ten films are set in the same Warsaw housing estate, and their central concern is not religious law but the ethical life of ordinary people in a world where inherited moral frameworks have lost their authority. Stanley Kubrick, in his foreword to the published screenplay, wrote that it was "the only film masterpiece I could think of."
+*Dekalog* is a series of ten films made for Polish television by [[people/krzysztof-kieslowski|Krzysztof Kieślowski]], each approximately one hour long and each taking its occasion from one of the Ten Commandments. Widely regarded as one of the great achievements in world cinema, all ten films are set in the same Warsaw housing estate, and their central concern is not religious law but the ethical life of ordinary people in a world where inherited moral frameworks have lost their authority. Stanley Kubrick, in his foreword to the published screenplay, wrote that it was "the only film masterpiece I could think of."
 
 ## Setting and Structure
 
@@ -49,3 +57,5 @@ This sparseness is related to what Kieślowski described as his general approach
 The series connects equally to [[concepts/the-between]] — the space between self and other that belongs fully to neither, the zone in which genuine encounter either occurs or fails. Each episode stages a between: two people in a situation where something is at stake for both, where what the moment requires cannot be read from the commandment that frames it. The housing estate itself, with its corridors of managed distance, is a kind of architectural anti-between: space arranged to minimize the encounters it might, in different configuration, invite.
 
 [[people/martin-buber|Martin Buber]] provides another frame: the films move, episode by episode, between the I-It relation that the estate fosters — neighbors as fixtures in one another's managed environments — and the possibility, sometimes achieved and sometimes not, of I-Thou. What the series asks, without answering, is whether that movement can be sustained, whether genuine encounter can become more than a crisis-induced exception to the managed distances of modern life.
+
+The series belongs to a neighborhood of European philosophical cinema that takes the conditions of genuine encounter as its primary subject. [[works/wings-of-desire|Wings of Desire]] approaches the same problem from the opposite angle: where Kieślowski's characters are embedded in embodied life but structurally insulated from genuine contact, Wenders's angels have limitless access to human interiority and are constitutively unable to enter into relation. Both films treat the failure of genuine meeting as the defining condition of modern existence, and both refuse to offer easy remedies.

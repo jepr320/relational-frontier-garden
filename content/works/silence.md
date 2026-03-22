@@ -7,6 +7,7 @@ traditions: [christianity]
 concepts: [i-thou, meaning-crisis, the-between, participatory-knowing]
 people: [shusaku-endo, martin-buber, paul-tillich, john-vervaeke, dostoevsky, marilynne-robinson, christian-wiman]
 related: [works/the-brothers-karamazov, works/gilead, people/shusaku-endo, concepts/i-thou, concepts/meaning-crisis]
+description: Shūsaku Endō's 1966 masterwork of theological fiction — a Portuguese Jesuit in Edo-period Japan confronts divine silence, the meaning crisis from inside faith, and the hardest version of the I-Thou encounter.
 ---
 
 # Silence

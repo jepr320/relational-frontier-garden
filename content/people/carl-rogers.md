@@ -5,6 +5,7 @@ people: []
 traditions: [humanistic-psychology, person-centered-therapy]
 concepts: [unconditional-positive-regard, congruence, empathic-understanding, actualizing-tendency, relational-ground]
 related: [existential-psychology, phenomenology, relational-psychoanalysis]
+description: Carl Rogers (1902–1987), founder of person-centered therapy — his three core conditions of congruence, unconditional positive regard, and empathic understanding ground a relational philosophy of healing through genuine encounter.
 ---
 
 # Carl Rogers

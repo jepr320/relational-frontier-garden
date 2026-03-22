@@ -4,6 +4,7 @@ type: person
 traditions: [christianity]
 concepts: [i-thou, meaning-crisis, the-between, intersubjectivity, the-daimonic]
 related: [people/martin-buber, people/paul-tillich, people/john-vervaeke, people/ernest-becker, people/rollo-may, people/marilynne-robinson, people/paul-celan, concepts/i-thou, concepts/meaning-crisis, concepts/the-between]
+description: Fyodor Dostoevsky (1821–1881) — Russian novelist who invented the polyphonic form and staged the meaning crisis in fiction, illuminating I-Thou encounter, genuine otherness, and the courage to be through characters like Ivan and Alyosha Karamazov.
 ---
 
 # Fyodor Dostoevsky

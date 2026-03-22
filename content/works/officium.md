@@ -6,6 +6,7 @@ traditions: [sacred-music, jazz, early-music]
 concepts: [the-between, resonance, i-thou, intersubjectivity]
 people: [garbarek-hilliard, martin-buber, iain-mcgilchrist, hartmut-rosa, hildegard-von-bingen, arvo-part, hiroshi-sugimoto]
 related: [people/garbarek-hilliard, concepts/the-between, concepts/resonance, concepts/i-thou, works/the-master-and-his-emissary, works/resonance-a-sociology-of-our-relationship-to-the-world]
+description: Jan Garbarek and the Hilliard Ensemble's landmark 1994 ECM recording — medieval sacred polyphony meets contemporary improvisation in a monastery acoustic, materializing resonance and the between.
 ---
 
 # Officium

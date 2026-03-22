@@ -7,6 +7,7 @@ traditions: [existentialism, phenomenology, christianity]
 concepts: [being-in-the-world, resonance, participatory-knowing, meaning-crisis, i-thou, dasein, thrownness]
 people: [terrence-malick, martin-heidegger, martin-buber, hartmut-rosa, iain-mcgilchrist, john-vervaeke, annie-dillard, andrei-tarkovsky]
 related: [people/terrence-malick, concepts/being-in-the-world, concepts/resonance, concepts/meaning-crisis, works/stalker, works/wings-of-desire, works/pilgrim-at-tinker-creek]
+description: Terrence Malick's 2011 Palme d'Or-winning film — a philosophical meditation on grace, being-in-the-world, and the meaning crisis, moving between 1950s family grief and the scale of cosmic time.
 ---
 
 # The Tree of Life

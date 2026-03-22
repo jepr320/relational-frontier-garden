@@ -6,6 +6,7 @@ traditions: [jazz, spiritual-seeking]
 concepts: [i-thou, resonance, participatory-knowing, meaning-crisis, the-between]
 people: [john-coltrane, martin-buber, hartmut-rosa, john-vervaeke, paul-tillich, bill-evans, keith-jarrett, mark-rothko]
 related: [people/john-coltrane, concepts/i-thou, concepts/resonance, concepts/participatory-knowing, works/the-courage-to-be, works/resonance-a-sociology-of-our-relationship-to-the-world]
+description: John Coltrane's 1964 spiritual jazz masterwork — a four-movement suite of devotion, improvisation, and participatory knowing, examined through I-Thou encounter, resonance, and the meaning crisis.
 ---
 
 # A Love Supreme

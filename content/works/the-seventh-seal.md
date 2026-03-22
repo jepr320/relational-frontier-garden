@@ -1,8 +1,16 @@
 ---
 title: The Seventh Seal
+type: work
+director: ingmar-bergman
+year: 1957
+traditions: [swedish-cinema, philosophical-cinema, existentialism]
+concepts: [meaning-crisis, the-between, resonance, i-thou]
+people: [ingmar-bergman, paul-tillich, martin-buber]
+related: [people/ingmar-bergman, concepts/meaning-crisis, concepts/the-between, works/silence, works/the-brothers-karamazov, works/wings-of-desire, works/dekalog]
+description: Ingmar Bergman's 1957 existential film — a medieval knight challenges Death to a chess match while seeking one meaningful act, offering a defining cinematic meditation on divine silence, faith under pressure, and the meaning crisis.
 ---
 
-*The Seventh Seal* is a Swedish film directed by [[people/ingmar-bergman]], set in plague-ravaged medieval Sweden, in which a knight returning from the Crusades challenges Death to a game of chess to buy time to perform one meaningful deed before dying. The film is a sustained inquiry into the silence of God, faith under pressure, and the possibility of meaning in a world organized by death. It stands as Bergman's most iconic statement on the human condition and one of the most philosophically dense works in world cinema.
+*The Seventh Seal* (1957) is a Swedish film directed by [[people/ingmar-bergman|Ingmar Bergman]], set in plague-ravaged medieval Sweden, in which a knight returning from the Crusades challenges Death to a game of chess to buy time to perform one meaningful deed before dying. The film is a sustained inquiry into the silence of God, faith under pressure, and the possibility of meaning in a world organized by death. Widely considered one of the most philosophically rich works of European art cinema, it stands as Bergman's most iconic statement on the human condition.
 
 ## The Silence and the Chess Game
 

@@ -4,6 +4,7 @@ type: person
 traditions: [christianity]
 concepts: [i-thou, meaning-crisis, the-between, gnosis]
 related: [people/martin-buber, people/paul-tillich, people/john-vervaeke, people/dostoevsky, people/christian-wiman, people/marilynne-robinson, people/paul-celan, concepts/i-thou, concepts/meaning-crisis]
+description: Shūsaku Endō (1923–1996) — Japanese Catholic novelist whose fiction confronts divine silence, the meaning crisis from inside faith, and what genuine I-Thou encounter requires across radical cultural difference.
 ---
 
 # Shusaku Endo

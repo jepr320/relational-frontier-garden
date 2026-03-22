@@ -7,6 +7,7 @@ traditions: [christianity, existentialism]
 concepts: [i-thou, meaning-crisis, the-between, participatory-knowing, the-daimonic, intersubjectivity]
 people: [dostoevsky, martin-buber, paul-tillich, john-vervaeke, ernest-becker, rollo-may, marilynne-robinson, shusaku-endo]
 related: [works/silence, works/gilead, people/dostoevsky, concepts/i-thou, concepts/meaning-crisis, concepts/the-between]
+description: Dostoevsky's 1880 polyphonic masterwork — Ivan's rebellion, the Grand Inquisitor, and Alyosha's active love as the literary summit of the meaning crisis, I-Thou encounter, and participatory knowing.
 ---
 
 # The Brothers Karamazov
