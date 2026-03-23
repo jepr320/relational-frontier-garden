@@ -10,6 +10,8 @@ related: [people/ingmar-bergman, concepts/meaning-crisis, concepts/the-between, 
 description: Ingmar Bergman's 1957 existential film — a medieval knight challenges Death to a chess match while seeking one meaningful act, offering a defining cinematic meditation on divine silence, faith under pressure, and the meaning crisis.
 ---
 
+# The Seventh Seal
+
 *The Seventh Seal* (1957) is a Swedish film directed by [[people/ingmar-bergman|Ingmar Bergman]], set in plague-ravaged medieval Sweden, in which a knight returning from the Crusades challenges Death to a game of chess to buy time to perform one meaningful deed before dying. The film is a sustained inquiry into the silence of God, faith under pressure, and the possibility of meaning in a world organized by death. Widely considered one of the most philosophically rich works of European art cinema, it stands as Bergman's most iconic statement on the human condition.
 
 ## The Silence and the Chess Game
@@ -28,7 +30,7 @@ The film's deepest counterpoint to Block's torment is the family of traveling ac
 
 In the film's most celebrated scene, Block shares wild strawberries and milk with Jof and Mia in a summer meadow. He tells them he will remember this moment for the rest of his life. The scene carries no allegorical weight — it is simply a moment of genuine encounter, of shared presence, of life being good without needing to justify itself. Against the background of plague, theological despair, and the ongoing chess match, this ordinary afternoon becomes the film's quiet response to the question Block cannot stop asking.
 
-The encounter points toward what [[concepts/resonance]] describes as a quality of experience: the condition of being genuinely addressed by and genuinely responsive to the world. Block, caught in his searching, cannot achieve this. He is always testing, always trying to extract a verdict from the silence. Jof and Mia simply live, and their living opens something in him.
+The encounter points toward what [[concepts/resonance|resonance]] describes as a quality of experience: the condition of being genuinely addressed by and genuinely responsive to the world. Block, caught in his searching, cannot achieve this. He is always testing, always trying to extract a verdict from the silence. Jof and Mia simply live, and their living opens something in him.
 
 ## The Confessional and the Face of Death
 
@@ -44,9 +46,9 @@ Block's stated purpose is to perform "one meaningful deed" before dying. The fil
 
 The meaningful deed is not a theological victory, not a proof of God's existence, not even an escape from death. It is an act of love toward a family Block barely knows — an act that extends his care beyond his own survival into care for another's. The film suggests this is what meaning in a world organized by death looks like: not transcendence but gift, not answer but act.
 
-This conclusion connects the film to what [[concepts/the-between]] names as the space where something real can happen between persons — something neither could generate alone. Block cannot find God in solitude, in the silence of his own searching. The one meaningful thing he does, he does in relation — toward Jof and Mia, on their behalf, without expectation of recognition or return.
+This conclusion connects the film to what [[concepts/the-between|the between]] names as the space where something real can happen between persons — something neither could generate alone. Block cannot find God in solitude, in the silence of his own searching. The one meaningful thing he does, he does in relation — toward Jof and Mia, on their behalf, without expectation of recognition or return.
 
-The existential structure resonates with [[works/the-courage-to-be]], in which Paul Tillich argues that courage is the act of affirming existence in the face of non-being — not a triumphant overcoming of death but a willingness to act from within its shadow. Block cannot will himself to faith, but he can will himself to act, and it is this willingness, in the end, that matters.
+The existential structure resonates with [[works/the-courage-to-be|*The Courage to Be*]], in which [[people/paul-tillich|Paul Tillich]] argues that courage is the act of affirming existence in the face of non-being — not a triumphant overcoming of death but a willingness to act from within its shadow. Block cannot will himself to faith, but he can will himself to act, and it is this willingness, in the end, that matters.
 
 ## Visual Form and Sound
 
@@ -58,8 +60,8 @@ The film ends with a Danse Macabre — Death leading the film's characters over 
 
 ## Connections
 
-The film belongs to a lineage of works that engage the silence of God in formally sustained ways. [[works/silence]], Shusaku Endo's novel set among missionaries in Edo-period Japan, explores the same theological condition through a different cultural lens — God's failure to speak in the face of suffering, and the question of what faithfulness means when the silence does not break. [[works/the-brothers-karamazov]] approaches the problem through Ivan Karamazov's rebellion: a refusal to accept a God who permits the suffering of children, set against Alyosha's response, which is not argument but presence and love.
+The film belongs to a lineage of works that engage the silence of God in formally sustained ways. [[works/silence|*Silence*]], [[people/shusaku-endo|Shusaku Endo's]] novel set among missionaries in Edo-period Japan, explores the same theological condition through a different cultural lens — God's failure to speak in the face of suffering, and the question of what faithfulness means when the silence does not break. [[works/the-brothers-karamazov]] approaches the problem through Ivan Karamazov's rebellion: a refusal to accept a God who permits the suffering of children, set against Alyosha's response, which is not argument but presence and love.
 
-Within European philosophical cinema, the film pairs with [[works/wings-of-desire]], where angels observe human suffering without the capacity to intervene — witnesses to a world dense with meaning they cannot fully enter. Both films ask what it means to be present to suffering without being able to answer it.
+Within European philosophical cinema, the film pairs with [[works/wings-of-desire|*Wings of Desire*]], where angels observe human suffering without the capacity to intervene — witnesses to a world dense with meaning they cannot fully enter. Both films ask what it means to be present to suffering without being able to answer it.
 
-The film's engagement with the [[concepts/meaning-crisis]] — the experience of a world whose frameworks have collapsed under the weight of what they cannot explain — locates it in a recognizable modern problem even within its medieval setting. Block is a figure from the fourteenth century, but his condition is legible across centuries: he cannot locate stable ground, cannot find a framework adequate to what he has witnessed, and is left with the question of how to act in its absence. The film's answer — act toward others, in love, without resolution — does not close the question. It inhabits it.
+The film's engagement with the [[concepts/meaning-crisis|meaning crisis]] — the experience of a world whose frameworks have collapsed under the weight of what they cannot explain — locates it in a recognizable modern problem even within its medieval setting. Block is a figure from the fourteenth century, but his condition is legible across centuries: he cannot locate stable ground, cannot find a framework adequate to what he has witnessed, and is left with the question of how to act in its absence. The film's answer — act toward others, in love, without resolution — does not close the question. It inhabits it.

@@ -53,6 +53,7 @@ In his later work, Rogers moved from clinical therapy to encounter groups, cross
 - [[people/rollo-may|Rollo May]] — A fellow humanist who arrived at the centrality of genuine encounter from the existentialist tradition; the conversation between them sharpens what is distinctively relational in Rogers' framework.
 - [[people/jessica-benjamin|Jessica Benjamin]] — Benjamin's "mutual recognition" is the psychoanalytic counterpart to Rogers' core conditions: development requires being recognized by an other who is genuinely other, not a mirror. Rogers' unconditional positive regard is one mode of that recognition.
 - [[concepts/relational-ground|Relational Ground]] — Rogers' actualizing tendency is not individualistic in the popular sense; it finds its expression in and through relationship. His work is one of the clearest clinical demonstrations that relationship is not instrumental to growth — it is the ground of it.
+- [[practices/focusing|Focusing]] — Eugene Gendlin developed Focusing out of research conducted in Rogers' department at the University of Chicago; his discovery that therapeutic outcomes depended on the client's capacity for a specific quality of inward attention is the direct empirical heir of Rogers' core conditions
 
 ## Quotes
 
@@ -63,3 +64,5 @@ In his later work, Rogers moved from clinical therapy to encounter groups, cross
 > "The only person who is educated is the one who has learned how to learn and change." — *Freedom to Learn*
 
 > "In my early professional years I was asking the question: How can I treat, or cure, or change this person? Now I would phrase the question in this way: How can I provide a relationship which this person may use for their own personal growth?" — *On Becoming a Person*
+
+<!-- TODO: Rogers quotes are widely cited and attributed but need primary source verification — none of his works are in the Calibre library. -->

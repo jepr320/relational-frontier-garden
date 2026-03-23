@@ -22,7 +22,7 @@ The epistolary structure is itself a philosophical act. Ames writes to a son who
 
 It models the [[concepts/i-thou|I-Thou]] relation as gift without expectation of response. The address is genuine, but the exchange is asymmetrical and deferred. Ames cannot know whether his son will read this carefully, or at all, or whether it will mean anything to him. He writes anyway, with full attention. Buber writes that genuine address reaches toward the You not for return but from the fullness of presence:
 
-> "All real living is meeting." — Martin Buber, *I and Thou*
+> "All actual life is encounter." — Martin Buber, *I and Thou*
 
 By making there be no story to advance, Robinson's form allows the narrator to stop and look at anything — a candle flame, the quality of Sunday morning light, a memory from 1892. What stops Ames's attention becomes the novel's content. The form enacts its argument: attention is not a distraction from life; it is the practice through which life becomes itself.
 

@@ -53,7 +53,7 @@ This is the literary equivalent of [[people/paul-tillich|Tillich's]] concept of 
 
 - [[people/martin-buber|Martin Buber]] — Robinson's fiction as sustained enactment of I-Thou; the Eternal Thou encountered through ordinary life and ordinary attention; *Gilead*'s Ames as a figure of genuine I-Thou availability
 - [[people/john-vervaeke|John Vervaeke]] — *Gilead*'s transformative attention as the practice of relevance realization; *Absence of Mind* as parallel critique of reductionism; Robinson's fiction as participatory knowing in literary form
-- [[people/paul-tillich|Paul Tillich]] — The ground of being encountered in the ordinary sacrament; *Second Space* as Tillich's depth dimension rendered as fiction; the kairos structure of Robinson's narrative pace
+- [[people/paul-tillich|Paul Tillich]] — The ground of being encountered in the ordinary sacrament; the kairos structure of Robinson's narrative pace; Robinson's fiction as a sustained enactment of Tillich's depth dimension — the sacred disclosed not beyond but within the ordinary
 - [[people/iain-mcgilchrist|Iain McGilchrist]] — *Absence of Mind* as a parallel argument to McGilchrist's critique of left-hemisphere reductionism; the mode of attention Robinson cultivates in readers as right-hemisphere
 - [[concepts/relevance-realization|Relevance Realization]] — *Gilead* as a demonstration of what relevance realization looks like in a life fully and attentively lived
 - [[concepts/participatory-knowing|Participatory Knowing]] — Robinson's fiction produces participatory knowledge in the reader; one finishes *Gilead* knowing something that cannot be stated, because the knowing happened in the encounter
@@ -62,10 +62,4 @@ This is the literary equivalent of [[people/paul-tillich|Tillich's]] concept of 
 - [[people/wendell-berry|Wendell Berry]] — Both write the sacred-in-ordinary through particular places and communities; Berry's Port William novels are the closest fictional parallel to Robinson's Gilead
 - [[people/dostoevsky|Fyodor Dostoevsky]] — The most important nineteenth-century precedent for Robinson's project: both writers use fiction as sustained theological investigation, both refuse to resolve the encounter into a thesis, and both find the sacred not in dramatic revelation but in the quality of attention characters bring to what is in front of them
 
----
-
-- [[works/gilead|Gilead]] — Full node for the novel: the epistolary form as I-Thou, attention as theology, Jack Boughton and hard grace, and the Rosa/resonance connection.
-
----
-
-**See also:** [[people/martin-buber|Martin Buber]] · [[people/john-vervaeke|John Vervaeke]] · [[people/paul-tillich|Paul Tillich]] · [[concepts/resonance|Resonance]] · [[people/wendell-berry|Wendell Berry]] · [[people/czeslaw-milosz|Czesław Miłosz]] · [[works/gilead|Gilead]]
+- [[works/gilead|Gilead]] — Full node for the novel: the epistolary form as I-Thou, attention as theology, Jack Boughton and hard grace, and the Rosa/resonance connection

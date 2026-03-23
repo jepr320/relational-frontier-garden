@@ -56,10 +56,4 @@ Rodrigues in *Silence*, like Ivan Karamazov in [[people/dostoevsky|Dostoevsky's]
 - [[people/marilynne-robinson|Marilynne Robinson]] — Both write fiction as theological investigation; both are interested in what grace looks like when it cannot be distinguished from its absence
 - [[people/ingmar-bergman|Ingmar Bergman]] — The filmmaker whose theological films are the closest cinematic parallel to Endo's fiction: both center on the silence of God under maximum pressure; both refuse comfortable resolution
 
----
-
-- [[works/silence|Silence]] — Full node for the novel: the structure of divine silence, the fumi-e climax, Kichijiro, Ferreira, and the cultural encounter question.
-
----
-
-**See also:** [[people/martin-buber|Martin Buber]] · [[concepts/meaning-crisis|Meaning Crisis]] · [[people/paul-tillich|Paul Tillich]] · [[people/dostoevsky|Fyodor Dostoevsky]] · [[people/christian-wiman|Christian Wiman]] · [[works/silence|Silence]]
+- [[works/silence|Silence]] — Full node for the novel: the structure of divine silence, the fumi-e climax, Kichijiro, Ferreira, and the cultural encounter question
