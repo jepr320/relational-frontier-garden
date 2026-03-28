@@ -9,15 +9,42 @@ related: [practices/authentic-relating, practices/focusing, practices/dialectica
 
 # Circling
 
-Circling is an interpersonal meditation practice developed by Guy Sengstock in Boulder, Colorado in the early 2000s. A group of participants focuses sustained, curious attention on one person — not to analyze, advise, or improve them, but to genuinely encounter their present experience. The practice trains what is difficult to train otherwise: the capacity to meet another person without agenda.
+Circling is an interpersonal meditation practice that emerged from the collaboration of Guy Sengstock, Jerry Candelaria, and their community in the San Francisco Bay Area in the late 1990s. A group of participants focuses sustained, curious attention on one person — not to analyze, advise, or improve them, but to genuinely encounter their present experience. The practice trains what is difficult to train otherwise: the capacity to meet another person without agenda.
 
-The Circling Institute defines the practice as "a dynamic group process that is part art form, part skillful facilitation, and part relational yoga." Sengstock, its founder, put it simply: "Circling teaches us to get in a deep relationship with what is."
+The Circling Institute defines the practice as "a dynamic group process that is part art form, part skillful facilitation, and part relational yoga." Sengstock put it simply: "Circling teaches us to get in a deep relationship with what is."
 
-## Origins and Lineages
+## Origins
 
-Circling emerged from the intersection of Gestalt therapy, encounter groups, and the integral community centered around the Integral Center in Boulder (later renamed the Circling Institute). Three main lineages have developed:
+### Pre-History: "The Community" (1989–1997)
 
-- **The Circling Institute** (Boulder, CO) — the original school, grounded in integral theory, now led by multiple senior teachers
+The roots of Circling reach back to 1989, when Erwan Davon, Jerry Candelaria, and Scott Hannon became friends as teenagers taking courses at the Santa Clara, California Landmark Education center. By 1991 they had built a shared community of growth and exploration — informally called "The Community" — centered around personal growth workshops, encounter groups, and communication practices drawn from Landmark and More House.
+
+Around 1994, Chris "Damien" Jones introduced the group to rave culture. Late-night parties became spaces for something more than dancing: in the small hours, hearts open, the group would process relationships and explore the depths of each person present — often with everyone's attention focused on one person at a time. Erwan and Scott also independently hosted encounter groups, and the community developed a practice called the "What's So Spiral" — going around the circle saying only what related to present-moment experience.
+
+### The Birth at Burning Man (1998)
+
+At Burning Man in August 1998, a group including Guy Sengstock, Jerry Candelaria, Tom Wroble, and Chris "Damien" Jones sat down to work through a conflict that had emerged between two of them. What began as conflict resolution turned into something else entirely: twelve hours of sustained, curious, loving attention — unpeeling defenses, investigating the depths of each person in turn. In Guy's words, they had seen "through the Matrix of the interrelationships of our group of friends. We saw the essential nature of the people — what must be true about each for them to be the person they were."
+
+After that night, Jerry and Guy recognized they had created something with a calling. They began organizing groups of men for authentic processing, and by late 1998 had structured their first for-pay weekend course: half a day of holotropic breathwork to open participants up, followed by two and a half days of intensive Circling (what some now call "birthday Circling," with the group's full attention on one person for the duration). They called their course "The Arete Experience" and in 1999 incorporated as "The Arete Center for Human Excellence."
+
+### Influences and Precursors
+
+The early architects of Circling drew from multiple streams:
+
+- **Landmark Education / est / Werner Erhard** — the communication and authenticity framework that brought the founders together
+- **David Deida, Justin Sterling, and Vic Baranco / More House** — relationship, sexuality, and communication teachings
+- **Rave and Burning Man culture** — the sense of tribe, chosen family, and the altered-state processing that happened in those spaces
+- **The human potential movement** — Stanislav Grof's holotropic breathwork, Carl Rogers' encounter groups, Fritz Perls' Gestalt practices of presence
+- **Ken Wilber and integral theory** — which became increasingly influential as the practice matured
+- **Buddhist traditions** — particularly Tarthang Tulku's Nyingma "Time, Space, and Knowledge" lineage and Vipassana
+- **Western philosophy** — especially, for Guy, Martin Heidegger's phenomenology and A.H. Almaas's Diamond Heart / Ridhwan School teachings
+- **Authentic communication** — Marshall Rosenberg (NVC), Brad Blanton (Radical Honesty), Susan Campbell
+
+### Three Lineages
+
+As Circling spread, three main schools developed:
+
+- **The Circling Institute** (Boulder, CO) — the original school founded by Sengstock, grounded in integral theory, now led by multiple senior teachers
 - **Circling Europe** — co-founded by John Thompson, with a strong presence in Berlin; known for a more structured, principle-driven approach
 - **The Austin school** — associated with Marc Beneteau; sometimes called "surrender" Circling, emphasizing radical allowing over conceptual overlay
 
@@ -71,8 +98,11 @@ Circling operationalizes several philosophical positions that are otherwise diff
 
 ## Key Figures
 
-- **Guy Sengstock** — founder of the practice
-- **Marc Beneteau** — Austin school, early developer
+- **Guy Sengstock** — co-creator of the practice, founded the Arete Center and later the Circling Institute in Boulder
+- **Jerry Candelaria** — co-creator of Circling alongside Sengstock; brought the organizational and course production expertise from his Landmark background
+- **Erwan Davon** — pre-history figure whose encounter groups and weekend courses in the early 1990s laid groundwork for what became Circling
+- **Chris "Damien" Jones** — present at the 1998 Burning Man birth of Circling; served as production manager for early Arete courses
+- **Marc Beneteau** — Austin school, early developer; sometimes called "surrender" Circling
 - **John Thompson** — co-founder of Circling Europe
 - **Jordan Myska Allen** — teacher and writer on Circling and integral theory
 - **Decker Cunov** — Authentic World, community building across the AR/Circling world
