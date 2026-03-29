@@ -34,7 +34,7 @@ The early architects of Circling drew from multiple streams:
 - **Landmark Education / est / Werner Erhard** — the communication and authenticity framework that brought the founders together
 - **David Deida, Justin Sterling, and Vic Baranco / More House** — relationship, sexuality, and communication teachings
 - **Rave and Burning Man culture** — the sense of tribe, chosen family, and the altered-state processing that happened in those spaces
-- **The human potential movement** — Stanislav Grof's holotropic breathwork, Carl Rogers' encounter groups, Fritz Perls' Gestalt practices of presence
+- **The human potential movement** — Stanislav Grof's holotropic breathwork, [[people/carl-rogers|Carl Rogers']] encounter groups, Fritz Perls' Gestalt practices of presence
 - **Ken Wilber and integral theory** — which became increasingly influential as the practice matured
 - **Buddhist traditions** — particularly Tarthang Tulku's Nyingma "Time, Space, and Knowledge" lineage and Vipassana
 - **Western philosophy** — especially, for Guy, Martin Heidegger's phenomenology and A.H. Almaas's Diamond Heart / Ridhwan School teachings

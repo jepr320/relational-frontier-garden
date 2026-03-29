@@ -13,7 +13,7 @@ Fyodor Dostoevsky (1821–1881) was a Russian novelist whose work constitutes on
 
 ## The Polyphonic Novel
 
-The literary theorist Mikhail Bakhtin built his most important book, *Problems of Dostoevsky's Poetics* (1929), on a single observation: Dostoevsky invented a new kind of novel. In the "monological" novel, characters ultimately serve the author's thesis — they are vehicles for a meaning the author already controls. In Dostoevsky's "polyphonic" novel, each character carries an irreducible consciousness. Raskolnikov, Alyosha, Ivan, Myshkin — they are not instances of a type or illustrations of a position. They are genuinely other, even from each other, even from their creator.
+The literary theorist [[people/mikhail-bakhtin|Mikhail Bakhtin]] built his most important book, [[works/problems-of-dostoevskys-poetics|*Problems of Dostoevsky's Poetics*]] (1929), on a single observation: Dostoevsky invented a new kind of novel. In the "monological" novel, characters ultimately serve the author's thesis — they are vehicles for a meaning the author already controls. In Dostoevsky's [[concepts/polyphony|polyphonic]] novel, each character carries an irreducible consciousness. Raskolnikov, Alyosha, Ivan, Myshkin — they are not instances of a type or illustrations of a position. They are genuinely other, even from each other, even from their creator.
 
 This is [[people/martin-buber|Buber's]] [[concepts/i-thou|I-Thou]] distinction carried into the structure of narrative form. The monological novel treats characters as I-It: defined, positioned, serving a larger scheme. The polyphonic novel treats them as I-Thou: met, not used; encountered, not controlled. When Dostoevsky gives Ivan Karamazov the most powerful arguments against God — arguments that Dostoevsky himself found compelling — and then refuses to give those arguments a cheap refutation, he is doing something philosophically unusual: letting the other remain genuinely other.
 
@@ -53,6 +53,8 @@ This is also why Dostoevsky's novels resist the [[concepts/the-between|between]]
 
 ## Connections
 
+- [[people/mikhail-bakhtin|Mikhail Bakhtin]] — His *Problems of Dostoevsky's Poetics* is the most illuminating analysis of Dostoevsky's formal innovation; [[concepts/dialogism|dialogism]] and [[concepts/polyphony|polyphony]] as the defining terms for what Dostoevsky discovered
+- [[works/problems-of-dostoevskys-poetics|Problems of Dostoevsky's Poetics]] — Bakhtin's foundational study; introduced polyphony to literary theory and developed dialogism through close reading of the novels
 - [[people/martin-buber|Martin Buber]] — Dostoevsky's polyphonic novel as the literary enactment of I-Thou; Bakhtin's analysis of Dostoevsky is one of the clearest accounts of what Buber's dialogical principle looks like in practice
 - [[people/paul-tillich|Paul Tillich]] — Ivan Karamazov's "Rebellion" as the fullest literary statement of the meaning crisis that Tillich's courage to be responds to; Alyosha as a figure of the courage that transcends argument
 - [[people/john-vervaeke|John Vervaeke]] — Dostoevsky's characters living inside and through the meaning crisis; encounter rather than argument as the path through

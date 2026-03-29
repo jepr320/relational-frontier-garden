@@ -4,6 +4,7 @@ type: person
 traditions: [apophatic-theology, mysticism, neoplatonism]
 concepts: [via-negativa, gnosis, participatory-knowing, relational-ground, the-between, theophany, the-self]
 related: [hildegard-von-bingen, simone-weil, henry-corbin, paul-tillich, carl-jung, the-cloud-of-unknowing]
+description: Meister Eckhart (c. 1260–1328) was a German Dominican mystic and theologian — the most philosophically rigorous exponent of apophatic theology in the Western Christian tradition. His teaching on the ground of the soul (*Seelengrund*), detachment (*Abgeschiedenheit*), and the breakthrough to the Godhead beyond all names represents the via negativa pressed to its limit.
 ---
 
 # Meister Eckhart

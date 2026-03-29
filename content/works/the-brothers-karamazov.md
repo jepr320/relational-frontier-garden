@@ -18,7 +18,7 @@ The novel centers on three brothers — Dmitri (sensual, passionate), Ivan (inte
 
 ## The Polyphonic Form
 
-The literary theorist Mikhail Bakhtin, in *Problems of Dostoevsky's Poetics* (1929), argued that Dostoevsky invented the "polyphonic novel" — a form in which each character carries an irreducible, fully realized consciousness, and no single authorial perspective dominates. Ivan's atheism is not presented as a foil to be refuted; it is given the full force of its intelligence. Alyosha's faith is not triumphant; it is tested and sometimes uncertain. Even Smerdyakov's cynicism and Dmitri's passion receive genuine hearing.
+The literary theorist [[people/mikhail-bakhtin|Mikhail Bakhtin]], in [[works/problems-of-dostoevskys-poetics|*Problems of Dostoevsky's Poetics*]] (1929), argued that Dostoevsky invented the [[concepts/polyphony|polyphonic novel]] — a form in which each character carries an irreducible, fully realized consciousness, and no single authorial perspective dominates. Ivan's atheism is not presented as a foil to be refuted; it is given the full force of its intelligence. Alyosha's faith is not triumphant; it is tested and sometimes uncertain. Even Smerdyakov's cynicism and Dmitri's passion receive genuine hearing.
 
 This is the literary enactment of [[concepts/i-thou|I-Thou]]: characters met rather than used, encountered rather than instrumentalized. The polyphonic novel refuses the monological author's control — it is structurally an act of genuine attention to the other. Where the conventional novel treats characters as functions of a plot, the polyphonic novel insists on their irreducibility. The form is itself the argument.
 
@@ -79,6 +79,10 @@ The space between Ivan and Alyosha, between the Inquisitor and Christ, between D
 ## Connections
 
 - [[people/dostoevsky|Fyodor Dostoevsky]] — Author. The polyphonic novel as his central formal discovery.
+- [[people/mikhail-bakhtin|Mikhail Bakhtin]] — His *Problems of Dostoevsky's Poetics* provides the most illuminating analysis of the novel's form; polyphony and dialogism as the terms for what this novel achieves
+- [[works/problems-of-dostoevskys-poetics|Problems of Dostoevsky's Poetics]] — Bakhtin's foundational study; this novel is its primary evidence and central example
+- [[concepts/polyphony|Polyphony]] — The Brothers Karamazov is the summit of the polyphonic form; Ivan and Alyosha the paradigm case of unmerged, irreducible voices
+- [[concepts/dialogism|Dialogism]] — The novel as the fullest enactment of dialogic truth: the kind of truth that cannot be possessed by any single consciousness
 - [[concepts/i-thou|I-Thou]] — The polyphonic form enacts I-Thou; the Grand Inquisitor scene stages the I-It / I-Thou distinction; Zosima's active love is I-Thou as practice.
 - [[concepts/meaning-crisis|Meaning Crisis]] — Ivan's Rebellion is the literary avatar of the meaning crisis at its most uncompromising.
 - [[concepts/the-between|The Between]] — The space between Ivan and Alyosha, never resolved into a single position.

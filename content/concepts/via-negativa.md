@@ -6,6 +6,7 @@ people: [meister-eckhart, hildegard-von-bingen, simone-weil, henry-corbin, paul-
 works: [the-cloud-of-unknowing]
 related: [gnosis, theophany, participatory-knowing, the-between, relational-ground, the-self, intersubjectivity]
 practices: [centering-prayer, contemplative, lectio-divina]
+description: Via negativa ("the negative way") is a theological method and spiritual discipline that approaches God — or the ground of reality — through negation rather than affirmation. Where cataphatic theology says what God is, the via negativa proceeds by releasing every predicate that falls short of what it names, until the intellect reaches its limit and a different kind of encounter becomes possible.
 ---
 
 # Via Negativa

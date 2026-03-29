@@ -6,6 +6,7 @@ traditions: [apophatic-theology, mysticism, neoplatonism]
 people: [meister-eckhart, hildegard-von-bingen, simone-weil, henry-corbin]
 concepts: [via-negativa, gnosis, participatory-knowing, relational-ground, the-between, theophany]
 related: [practices/centering-prayer, practices/contemplative, practices/lectio-divina, concepts/intersubjectivity]
+description: The Cloud of Unknowing is an anonymous 14th-century work of Christian mysticism — the most practical English-language guide to apophatic contemplative practice. Its central teaching is that God cannot be reached through thought, only through love: the contemplative presses toward the divine presence with "a sharp dart of longing love," through the cloud of unknowing that no intellect can pierce.
 ---
 
 # The Cloud of Unknowing

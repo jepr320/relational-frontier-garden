@@ -5,6 +5,7 @@ people: [meister-eckhart, hildegard-von-bingen, simone-weil, henry-corbin, paul-
 concepts: [via-negativa, gnosis, theophany, participatory-knowing, relational-ground, the-between]
 works: [the-cloud-of-unknowing]
 related: [traditions/mysticism, traditions/neoplatonism, traditions/imaginal-tradition, practices/centering-prayer, practices/contemplative, practices/lectio-divina]
+description: Apophatic theology — also called negative theology — is the theological tradition that approaches God through negation rather than affirmation. It holds that God exceeds every human category, and that the via negativa is a discipline of progressive unknowing: stripping away all concepts and names until the intellect falls silent and a different kind of encounter becomes possible.
 ---
 
 # Apophatic Theology
