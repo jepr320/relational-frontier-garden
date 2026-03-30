@@ -4,7 +4,7 @@ type: tradition
 people: [hans-georg-gadamer, paul-ricoeur, martin-heidegger]
 traditions: [phenomenology, existentialism]
 concepts: [participatory-knowing, the-between, meaning-crisis, tawil, via-negativa]
-related: [fusion-of-horizons, hermeneutic-circle, schleiermacher, dilthey, understanding, dialogue]
+related: [fusion-of-horizons, hermeneutic-circle, schleiermacher, dilthey, understanding, dialogue, dialogism, polyphony]
 ---
 
 # Hermeneutics
@@ -39,7 +39,9 @@ Ricoeur brought hermeneutics into dialogue with structuralism, psychoanalysis, a
 
 **Dialogue** — Genuine understanding is modeled on conversation rather than interrogation or extraction. In a good conversation, questions arise that neither party had anticipated, and the conversation finds a direction that neither controls. The text, like another person, can surprise, question, and reorient the one who approaches it with genuine openness.
 
-## Connections to Participatory Knowing
+## Connections to Dialogism and Participatory Knowing
+
+[[people/mikhail-bakhtin|Mikhail Bakhtin's]] [[concepts/dialogism|dialogism]] and Gadamer's hermeneutics were developed independently but share a structural kinship. Both reject the monological model of understanding — a single consciousness extracting meaning from a passive object — and both insist that genuine understanding is an event that occurs *between* voices. Gadamer's fusion of horizons and Bakhtin's dialogic truth both name a process in which the interpreter is changed by what they encounter and in which the encounter produces meaning that neither party possessed in advance. Where Gadamer developed this through the phenomenology of reading and conversation, Bakhtin developed it through the analysis of the [[concepts/polyphony|polyphonic novel]] — yet both arrive at the recognition that understanding requires maintaining the genuine otherness of what is understood, rather than absorbing it into one's prior framework.
 
 Hermeneutics converges at multiple points with the philosophy of [[concepts/participatory-knowing|participatory knowing]]. Both insist that genuine understanding is not achieved by a detached subject manipulating an external object, but by a participant who is changed in the encounter. For Gadamer, the fusion of horizons is a form of participation: we know by belonging to what we seek to understand, and that belonging transforms us. The model is not the laboratory but the conversation — not control but exposure.
 
@@ -69,6 +71,8 @@ John Vervaeke's account of the [[concepts/meaning-crisis|meaning crisis]] connec
 - [[concepts/tawil|Tawil]] — Islamic hermeneutics as a parallel tradition of participatory interpretation, arriving independently at similar conclusions about the reader's role.
 - [[traditions/phenomenology|Phenomenology]] — Hermeneutics as phenomenology's linguistic and historical turn; Heidegger's radicalization of Husserlian phenomenology is the bridge between the two traditions.
 - [[traditions/existentialism|Existentialism]] — Heidegger's ontological hermeneutics grounds the existentialist analysis of authentic existence in the structure of understanding.
+- [[concepts/dialogism|Dialogism]] — Bakhtin's dialogism shares hermeneutics' rejection of monological understanding; both insist that genuine meaning arises between voices, not within a single consciousness.
+- [[people/mikhail-bakhtin|Mikhail Bakhtin]] — Developed dialogism independently of Gadamer but arrived at structurally parallel conclusions about the irreducibility of understanding to a single perspective.
 - [[concepts/meaning-crisis|Meaning Crisis]] — The modern loss of hermeneutic depth — understanding reduced to information retrieval — as a central dimension of the broader meaning crisis.
 
 ## Quotes

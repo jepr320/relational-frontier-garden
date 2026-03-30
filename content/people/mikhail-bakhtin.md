@@ -83,4 +83,5 @@ His response to the [[concepts/meaning-crisis|meaning crisis]] is implicit in hi
 - [[concepts/intersubjectivity|Intersubjectivity]] — Dialogic truth as intersubjective; Bakhtin's architectonic of the self anticipates the intersubjective turn in psychoanalysis
 - [[concepts/mutual-recognition|Mutual Recognition]] — Polyphony as the artistic form of mutual recognition: each consciousness retains its unity and open totality while being enriched through encounter
 - [[concepts/participatory-knowing|Participatory Knowing]] — Dialogic truth requires participation of multiple consciousnesses; knowing as event rather than possession
+- [[traditions/hermeneutics|Hermeneutics]] — Gadamer's philosophical hermeneutics developed independently but arrives at parallel conclusions about understanding as a dialogical event that transforms the interpreter
 - [[concepts/meaning-crisis|Meaning Crisis]] — Dialogism as a response to the monologization of modern thought; polyphony as artistic representation of truth that cannot be systematized

@@ -48,7 +48,7 @@ The parallel to Carl Jung's concept of [[concepts/individuation|individuation]] 
 
 [[people/rollo-may|Rollo May]] and the existential psychologists arrived at adjacent territory from yet another direction. For May, the deepest human question is not how to reduce anxiety or achieve adjustment but how to live authentically — how to choose one's own existence rather than defaulting to the unchosen life that security and convention offer. May's "will to meaning," like Rogers' actualizing tendency, presupposes an organism that has a direction worth being faithful to. The clinical pathologies they each described — May's daimonic, Rogers' conditions of worth — are variations on the same theme: what happens when the organism's genuine movement is blocked or suppressed.
 
-[[people/paul-tillich|Paul Tillich]]'s concept of the **courage to be** — the affirmation of one's own being in the face of the anxiety that attends genuine existence — resonates here as well. For Tillich, the refusal to be oneself is a form of non-being; the actualizing tendency, in this register, is the organism's participation in the ground of being itself, which is always self-affirming.
+[[people/paul-tillich|Paul Tillich]]'s concept of the **courage to be** — the affirmation of one's own being in the face of the anxiety that attends genuine existence — resonates here as well. Tillich wrote: "Courage is the self-affirmation of being in spite of the fact of nonbeing." For Tillich, the refusal to be oneself is a form of non-being; the actualizing tendency, in this register, is the organism's participation in the ground of being itself, which is always self-affirming.
 
 ## A Relational Claim
 
