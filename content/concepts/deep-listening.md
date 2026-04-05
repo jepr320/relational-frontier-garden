@@ -6,7 +6,7 @@ concepts: [silence-as-form, participatory-knowing, the-between, phenomenology]
 traditions: [sacred-minimalism]
 practices: [zazen, centering-prayer, contemplative, somatic-experiencing, contact-improvisation]
 related: [traditions/sacred-minimalism, concepts/deep-listening, people/john-cage, practices/contemplative]
-description: "Deep Listening is a lifelong practice developed by composer Pauline Oliveros that explores the difference between the involuntary nature of hearing and the conscious nature of listening. It cultivates heightened awareness of the sonic environment — both external and internal — and treats all sounds as equally worthy of attention, creating a form of contemplative practice through the medium of sound."
+description: "Deep Listening is a contemplative sound practice developed by composer Pauline Oliveros that cultivates heightened awareness of the sonic environment. This mindfulness practice transforms hearing into conscious listening, treating all sounds as equally worthy of attention and creating a form of meditation through sound."
 ---
 
 # Deep Listening

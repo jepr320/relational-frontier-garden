@@ -1,6 +1,7 @@
 ---
 title: Reverie
 type: concept
+description: "Reverie in Wilfred Bion's framework describes a receptive state of mind that allows one to receive another person's unprocessed emotional experience and transform it into thinkable form. This capacity for 'waking dreaming' functions as a container for projections and bridges psychoanalytic practice to contemplative traditions like zazen and centering prayer."
 people: [wilfred-bion, thomas-ogden]
 traditions: [object-relations-theory, relational-psychoanalysis]
 concepts: [containment, projective-identification, alpha-function]

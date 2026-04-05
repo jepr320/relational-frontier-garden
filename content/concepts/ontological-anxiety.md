@@ -1,6 +1,7 @@
 ---
 title: Ontological Anxiety
 type: concept
+description: "Ontological anxiety is Paul Tillich's term for the existential anxiety that belongs to finite existence itself, not to individual pathology. Unlike fear, it has no object but is the awareness of possible non-being. The appropriate response is not elimination but the courage to be — affirming one's existence in spite of the threat of non-being."
 traditions: [existentialism]
 people: [paul-tillich, martin-heidegger, ernest-becker, rollo-may]
 concepts: [being-toward-death, meaning-crisis, relational-ground, via-negativa]

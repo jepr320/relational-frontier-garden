@@ -1,7 +1,7 @@
 ---
 title: Hermeticism
-tags:
-  - tradition
+type: tradition
+description: "Hermeticism is a philosophical and religious tradition based on writings attributed to Hermes Trismegistus, combining Egyptian and Greek wisdom. The Corpus Hermeticum, translated by Marsilio Ficino in the Renaissance, contains teachings on spiritual transformation, the correspondence between microcosm and macrocosm, and direct experiential knowledge of divine reality."
 ---
 
 Hermeticism is a philosophical and religious tradition based on writings attributed to Hermes Trismegistus, a syncretic figure combining the Greek god Hermes with the Egyptian god Thoth. The movement originated in Alexandria during the first centuries CE, where it unified elements of Egyptian religion, Greek philosophy, and Gnostic thought. The core texts, known as the *Corpus Hermeticum*, were understood by their authors as containing primordial wisdom (*prisca theologia*) — divine knowledge revealed to humanity in the distant past and transmitted through a chain of sages.

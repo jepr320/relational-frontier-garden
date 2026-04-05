@@ -1,6 +1,7 @@
 ---
 title: Irvin Yalom
 type: person
+description: "Irvin Yalom (b. 1931) is an American existential psychiatrist whose work makes philosophical existentialism clinically usable. His landmark Existential Psychotherapy (1980) organizes therapeutic practice around four ultimate concerns: death, freedom, existential isolation, and meaninglessness. His novels and case studies have reached audiences far beyond the consulting room."
 people: [martin-heidegger, paul-tillich, ernest-becker, rollo-may, donald-winnicott]
 traditions: [existentialism, relational-psychoanalysis]
 concepts: [being-toward-death, ontological-anxiety, meaning-crisis, the-between, holding-environment]

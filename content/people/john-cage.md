@@ -6,7 +6,7 @@ concepts: [silence-as-form, deep-listening, via-negativa, participatory-knowing]
 traditions: [zen-buddhism, experimental-music]
 works: [silence]
 related: [people/pauline-oliveros, traditions/sacred-minimalism, practices/zazen, concepts/deep-listening]
-description: "John Cage (1912–1992) was an American composer, music theorist, and artist who revolutionized twentieth-century music through his embrace of silence, chance operations, and the erasure of boundaries between art and life. His work sits at the intersection of Zen Buddhism, experimental composition, and philosophical inquiry into the nature of sound, silence, and attention."
+description: "John Cage (1912–1992) was an American experimental composer and artist who revolutionized twentieth-century music through his embrace of silence, chance operations, and the erasure of boundaries between art and life. His most famous work, 4'33", redefined music by revealing silence as presence. His philosophy was shaped by Zen Buddhism and influenced generations of composers including Pauline Oliveros and Arvo Pärt."
 ---
 
 # John Cage

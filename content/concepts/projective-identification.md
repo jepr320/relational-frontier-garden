@@ -1,6 +1,7 @@
 ---
 title: Projective Identification
 type: concept
+description: "Projective identification is an unconscious mechanism of interpersonal communication introduced by Melanie Klein in 1946. Unlike simple projection, it involves an interpersonal dynamic where the projector induces in another person precisely the experience or role that has been projected. In Wilfred Bion's extension, it becomes the foundation of containment — the transformation of unbearable experience into thinkable form."
 people: [melanie-klein, wilfred-bion, thomas-ogden]
 traditions: [object-relations-theory, relational-psychoanalysis]
 concepts: [containment, the-third, intersubjectivity]

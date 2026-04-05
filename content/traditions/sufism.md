@@ -1,10 +1,10 @@
 ---
 title: Sufism
 type: tradition
+description: "Sufism is the mystical and ascetic dimension of Islam, oriented toward direct encounter with the divine through purification of the heart, remembrance, and spiritual guidance. Key concepts include fana (annihilation in God), ma'rifa (gnosis), and the path of love. Major figures include Ibn Arabi, Rumi, and Hafiz."
 people: [rumi, hafiz, henry-corbin]
 concepts: [via-negativa, participatory-knowing, mundus-imaginalis, theophany, gnosis]
 related: [mysticism, neoplatonism, apophatic-theology, imaginal-tradition, tawil]
-description: Sufism is the mystical and ascetic dimension of Islam, oriented toward direct, transformative encounter with the divine through purification of the heart, remembrance, and the guidance of a spiritual master.
 ---
 
 # Sufism

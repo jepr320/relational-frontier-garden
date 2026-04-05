@@ -1,6 +1,7 @@
 ---
 title: Secondary Imagination
 type: concept
+description: "The secondary imagination is the conscious, creative faculty by which we participate in making reality rather than merely representing it. First articulated by Samuel Taylor Coleridge in Biographia Literaria and developed by Owen Barfield, it is the power that dissolves and recreates, revealing deeper truths through participatory knowing."
 people: [samuel-taylor-coleridge, owen-barfield, william-blake]
 traditions: [romanticism]
 concepts: [participatory-knowing, imaginal, primary-imagination, fancy, active-imagination, meaning-crisis]

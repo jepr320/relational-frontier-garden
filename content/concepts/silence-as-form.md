@@ -7,7 +7,7 @@ traditions: [apophatic-theology, sacred-minimalism]
 works: [the-cloud-of-unknowing]
 practices: [zazen, centering-prayer, contemplative]
 related: [people/john-cage, traditions/sacred-minimalism, concepts/deep-listening, traditions/apophatic-theology]
-description: "Silence as form is the conceptual understanding of silence not as absence or emptiness but as a positive, shaping presence in art, spirituality, and human experience. Silence is not what comes between sounds but the ground from which sound emerges and the space that gives it meaning."
+description: "Silence as form is the conceptual understanding of silence not as absence but as a positive, shaping presence in art, spirituality, and human experience. This concept runs through apophatic theology, John Cage's experimental music, Arvo Pärt's sacred minimalism, and contemplative practices like zazen and centering prayer."
 ---
 
 # Silence as Form

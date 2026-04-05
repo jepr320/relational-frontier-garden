@@ -1,7 +1,7 @@
 ---
 title: Ars Memorativa
-tags:
-  - concept
+type: concept
+description: "The ars memorativa (art of memory) is a classical and Renaissance technique for organizing information through imagination and spatial visualization. Using memory palaces and vivid mental images, practitioners mentally traverse imagined architectural spaces to retrieve knowledge. In the Hermetic tradition, this became a practice of spiritual transformation connecting the soul to reality through the imaginal realm."
 ---
 
 The *ars memorativa* (art of memory) is a classical and Renaissance technique for organizing and recalling information through the disciplined use of imagination and spatial visualization. At its core, the art of memory involves constructing vivid mental images (*imagines agentes*) and placing them in imagined architectural spaces (memory palaces or *loci*). When information needs to be recalled, the practitioner mentally traverses the architectural space, encountering the images in order and retrieving their meanings.

@@ -1,6 +1,7 @@
 ---
 title: Object Relations Theory
 type: tradition
+description: "Object relations theory is a psychoanalytic tradition placing the infant's earliest relationships at the center of psychological development. Founded by Melanie Klein and developed by Donald Winnicott and Wilfred Bion, it argues that the psyche is structured by internalized patterns of relating rather than biological drives. Key concepts include projective identification, containment, and the holding environment."
 people: [melanie-klein, wilfred-bion, donald-winnicott, christopher-bollas, thomas-ogden]
 traditions: [relational-psychoanalysis]
 concepts: [containment, holding-environment, projective-identification, intersubjectivity, the-third]

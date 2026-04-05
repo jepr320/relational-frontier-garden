@@ -1,6 +1,7 @@
 ---
 title: Terror Management Theory
 type: concept
+description: "Terror Management Theory (TMT) is a social-psychological framework proposing that human behavior is motivated by the need to manage existential terror from awareness of mortality. Developed by Greenberg, Pyszczynski, and Solomon, it empirically tests Ernest Becker's thesis from The Denial of Death about cultural worldviews and self-esteem as anxiety buffers."
 traditions: [existentialism]
 people: [ernest-becker, rollo-may, paul-tillich]
 concepts: [being-toward-death, ontological-anxiety, meaning-crisis, participatory-knowing]

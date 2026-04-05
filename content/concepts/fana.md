@@ -1,11 +1,11 @@
 ---
 title: Fana
 type: concept
+description: "Fana (annihilation) is the central Sufi concept of the complete dissolution of the ego-self in union with God, always paired with baqa (subsistence in God). This mystical practice of self-emptying parallels the Christian via negativa but figures the path through love and longing rather than darkness."
 traditions: [sufism, mysticism]
 people: [rumi, ibn-arabi, henry-corbin]
 related: [via-negativa, participatory-knowing, apophatic-theology, ontological-anxiety, active-imagination]
 works: [the-cloud-of-unknowing]
-description: Fana (فناء — "annihilation," "passing away") is the Sufi concept of the complete dissolution of the ego-self in union with God, always paired with baqa (subsistence in God) as the state that follows.
 ---
 
 # Fana

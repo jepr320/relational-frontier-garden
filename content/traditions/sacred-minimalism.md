@@ -5,7 +5,7 @@ people: [arvo-part, john-tavener, henryk-gorecki, hildegard-von-bingen, alan-hov
 concepts: [tintinnabuli, silence-as-form, via-negativa, resonance, contemplative]
 works: [officium]
 related: [traditions/apophatic-theology, traditions/orthodox-christianity, practices/centering-prayer, practices/contemplative, practices/zazen, people/pauline-oliveros, people/john-cage]
-description: "Sacred minimalism — also called holy minimalism, mystic minimalism, or spiritual minimalism — is a late-twentieth-century style of contemporary classical music that fuses the repetitive, austere techniques of minimalism with deeply religious or mystical themes. It creates conditions for contemplation through radically simplified compositional materials, tonal or modal harmony, and an aesthetic that evokes medieval and Renaissance liturgical traditions."
+description: "Sacred minimalism — also called holy minimalism, mystic minimalism, or spiritual minimalism — is a late-twentieth-century style of contemporary classical music that fuses minimalist techniques with religious or mystical themes. Composers like Arvo Pärt, John Tavener, and Henryk Górecki create contemplative music through simplified materials, tonal harmony, and silence, evoking medieval and Renaissance liturgical traditions."
 ---
 
 # Sacred Minimalism
