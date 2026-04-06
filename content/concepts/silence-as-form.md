@@ -106,6 +106,4 @@ In contemplative practice, silence is not what is achieved but what is encounter
 - [[works/the-cloud-of-unknowing|The Cloud of Unknowing]] — The canonical guide to apophatic contemplative practice
 - [[concepts/resonance|Resonance]] — Silence as the ground from which resonance emerges
 
----
 
-**See also:** [[people/john-cage|John Cage]] · [[people/arvo-part|Arvo Pärt]] · [[concepts/via-negativa|Via Negativa]] · [[traditions/apophatic-theology|Apophatic Theology]] · [[practices/contemplative|Contemplative]]

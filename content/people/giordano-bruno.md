@@ -22,11 +22,11 @@ This vision was so radical that it was incomprehensible to most of Bruno's conte
 
 Bruno's understanding of the divine is deeply Hermetic and Neoplatonic. The divine is not a transcendent being who stands outside the universe and creates it from nothing but an immanent principle that animates all things from within. The universe is not a creation but an emanation — a necessary overflow of the divine abundance. Every thing participates in the divine, and every thing is a manifestation of the divine.
 
-This understanding of the divine has profound implications for relational ontology. If the divine is immanent, then every encounter is potentially a divine encounter. Every thing is a [[theophany]] — a manifestation of the divine. To encounter the world is to encounter the divine, and to love the world is to love the divine.
+This understanding of the divine has profound implications for relational ontology. If the divine is immanent, then every encounter is potentially a divine encounter. Every thing is a [[concepts/theophany|theophany]] — a manifestation of the divine. To encounter the world is to encounter the divine, and to love the world is to love the divine.
 
 ## The Art of Memory as Cosmic Practice
 
-Bruno's development of the [[ars-memorativa|art of memory]] is his most significant contribution to the [[imaginal-tradition|imaginal tradition]]. Drawing on the classical tradition of mnemonic techniques and on the Hermetic understanding of the cosmos as a living, ensouled reality, Bruno developed memory systems that were designed to internalize the structure of the cosmos and awaken the soul to its divine nature.
+Bruno's development of the [[concepts/ars-memorativa|art of memory]] is his most significant contribution to the [[traditions/imaginal-tradition|imaginal tradition]]. Drawing on the classical tradition of mnemonic techniques and on the Hermetic understanding of the cosmos as a living, ensouled reality, Bruno developed memory systems that were designed to internalize the structure of the cosmos and awaken the soul to its divine nature.
 
 Bruno's memory systems are described in two Latin works: *De Umbris Idearum* (On the Shadows of Ideas, 1582) and *Cantus Circaeus* (The Circean Song, 1582). These works describe complex memory theaters that use the zodiac, the planets, and the fixed stars as the framework for organizing knowledge. The practitioner constructs a mental image of the cosmos and places images of knowledge within this cosmic framework. To remember is to traverse the cosmos in the imagination, to encounter the images of knowledge as they are arranged in the celestial spheres.
 
@@ -36,13 +36,13 @@ But Bruno's memory systems are not merely mnemonic. They are ontological technol
 
 Bruno's understanding of imagination is deeply magical. The imagination is not a faculty of fantasy but a faculty of genuine knowledge — a mode of participation in the divine. The images that the imagination produces are not merely mental representations but real entities that exist in an intermediate realm between the material and the divine. To engage with these images is to engage with reality, and to transform the images is to transform reality.
 
-This understanding of imagination anticipates the imaginal tradition and the work of [[henry-corbin]]. The imaginal world is not a product of the individual psyche but a real realm that exists between the material and the divine. To enter the imaginal world is to encounter the divine as it is manifested in the realm of images. Bruno's memory theaters are the historical ancestor of [[active-imagination]], using the disciplined imagination as a mode of genuine encounter with reality.
+This understanding of imagination anticipates the imaginal tradition and the work of [[people/henry-corbin|Henry Corbin]]. The imaginal world is not a product of the individual psyche but a real realm that exists between the material and the divine. To enter the imaginal world is to encounter the divine as it is manifested in the realm of images. Bruno's memory theaters are the historical ancestor of [[concepts/active-imagination|active imagination]], using the disciplined imagination as a mode of genuine encounter with reality.
 
 ## Influence and Legacy
 
 Bruno's influence on subsequent thought has been profound, though often indirect. His vision of an infinite universe anticipated modern cosmology, and his execution has made him a symbol of the struggle for freedom of thought. But his significance for the imaginal tradition lies in his development of the art of memory and his understanding of the imagination as a mode of genuine knowledge.
 
-[[frances-yates|Frances Yates]]'s *Giordano Bruno and the Hermetic Tradition* (1964) is the definitive scholarly study of Bruno's thought and its historical significance. [[henry-corbin|Henry Corbin]]'s concept of the mundus imaginalis and his method of visionary recital draw on the same understanding of the imagination that Bruno expresses. [[carl-jung|Carl Jung]]'s understanding of the imagination as a faculty of genuine knowledge and his method of active imagination are deeply indebted to the Hermetic and magical tradition that Bruno represents.
+[[people/frances-yates|Frances Yates]]'s *Giordano Bruno and the Hermetic Tradition* (1964) is the definitive scholarly study of Bruno's thought and its historical significance. [[people/henry-corbin|Henry Corbin]]'s concept of the mundus imaginalis and his method of visionary recital draw on the same understanding of the imagination that Bruno expresses. [[people/carl-jung|Carl Jung]]'s understanding of the imagination as a faculty of genuine knowledge and his method of active imagination are deeply indebted to the Hermetic and magical tradition that Bruno represents.
 
 ## Key Works
 

@@ -33,7 +33,7 @@ Ficino's *De Amore* (Commentary on Plato's Symposium) is one of the most influen
 
 For Ficino, divine love is a cosmic force that draws all things back to their source. It is the same force that animates the cosmos, that draws the planets in their orbits, and that draws the human soul back to God. To love is to participate in this cosmic force, to align oneself with the fundamental movement of reality.
 
-Ficino's understanding of love has profound implications for relational ontology. Love is not merely an emotion or a psychological state but an ontological force that constitutes reality and draws all things into relationship. This is the same understanding of love that appears in [[neoplatonism]], in the [[imaginal-tradition|imaginal tradition]], and in the relational psychoanalytic tradition.
+Ficino's understanding of love has profound implications for relational ontology. Love is not merely an emotion or a psychological state but an ontological force that constitutes reality and draws all things into relationship. This is the same understanding of love that appears in [[traditions/neoplatonism|Neoplatonism]], in the [[traditions/imaginal-tradition|imaginal tradition]], and in the relational psychoanalytic tradition.
 
 ## The Three Books on Life
 
@@ -49,7 +49,7 @@ Ficino's understanding of the relationship between the celestial and the terrest
 
 Ficino's influence on the Renaissance and on subsequent Western thought cannot be overstated. His translations made the works of Plato and the Neoplatonists accessible to a European audience for the first time in centuries, and his syntheses of Neoplatonism, Hermeticism, and Christian theology provided an intellectual framework for the Renaissance revival of classical learning.
 
-Key figures influenced by Ficino include Pico della Mirandola, his student and collaborator; Michelangelo, the great Renaissance artist; Erasmus, the Dutch humanist; and John Dee, the English mathematician and Hermeticist. [[giordano-bruno]] was a direct heir of Ficino's tradition, radicalizing the Hermetic and Neoplatonic synthesis and developing it into a cosmic philosophy of infinite worlds.
+Key figures influenced by Ficino include Pico della Mirandola, his student and collaborator; Michelangelo, the great Renaissance artist; Erasmus, the Dutch humanist; and John Dee, the English mathematician and Hermeticist. [[people/giordano-bruno|Giordano Bruno]] was a direct heir of Ficino's tradition, radicalizing the Hermetic and Neoplatonic synthesis and developing it into a cosmic philosophy of infinite worlds.
 
 Ficino's understanding of love as a cosmic force, of the soul as immortal and divine, and of the human being as a microcosm of the cosmos continues to resonate with those seeking an alternative to the materialist worldview. His work on the *prisca theologia* anticipates the perennial philosophy of Aldous Huxley, Frithjof Schuon, and others.
 

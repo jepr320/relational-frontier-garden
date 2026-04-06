@@ -28,8 +28,6 @@ The classical Sufi teaching describes fana not as a single event but as a progre
 
 The tradition consistently holds that fana without baqa — annihilation without return — is not the goal of the path. The mystic who is merely dissolved has not completed the journey. The completion is the return to the world with the capacity to perceive divine self-disclosure in all things, to act from a center that does not belong to the ego.
 
-## Fana and the *Nafs*
-
 The *nafs* (self or ego) is not evil in Sufi anthropology but incomplete — a veil between the soul and God whose opacity is a function of attachment and ignorance rather than intrinsic corruption. The work of the path is purification, not destruction. The Sufi saying "die before you die" — attributed to both the Prophet and to [[people/rumi|Rumi]] — means: choose the dissolution consciously rather than wait for physical death to force it. Undergo fana as a spiritual practice rather than encounter it unprepared at the end of life.
 
 [[people/rumi|Rumi's]] imagery saturates the concept: the candle that burns itself up in the flame; the moth that is annihilated by the light it sought; the drop returning to the ocean. These images emphasize that fana is not loss but fulfillment — the particular finding its completion in the universal. The drop does not cease to be; it becomes more fully what it always was. And yet the images also honor the genuine terror of the threshold: the candle does go out, the moth does burn, the drop does disappear as a distinct form.

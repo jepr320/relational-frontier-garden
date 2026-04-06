@@ -112,6 +112,4 @@ Sacred minimalism provides a tradition home for the music neighborhood that curr
 - [[works/officium|Officium]] — Pärt's choral work as a major example of the tradition
 - [[works/the-koln-concert|The Köln Concert]] — Jarrett's improvisation as a parallel approach to sacred sound
 
----
 
-**See also:** [[people/arvo-part|Arvo Pärt]] · [[concepts/tintinnabuli|Tintinnabuli]] · [[concepts/silence-as-form|Silence as Form]] · [[traditions/apophatic-theology|Apophatic Theology]] · [[practices/centering-prayer|Centering Prayer]]

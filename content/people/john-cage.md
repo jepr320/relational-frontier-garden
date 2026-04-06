@@ -97,6 +97,4 @@ Cage occupies a pivotal position in the music wing of the garden. His work conne
 - [[works/the-koln-concert|The Köln Concert]] — Jarrett's improvisation as a parallel approach to surrender and emergence
 - [[concepts/phenomenology|Phenomenology]] — Cage's "listening to sounds in themselves" is phenomenological reduction
 
----
 
-**See also:** [[people/pauline-oliveros|Pauline Oliveros]] · [[concepts/silence-as-form|Silence as Form]] · [[people/arvo-part|Arvo Pärt]] · [[traditions/sacred-minimalism|Sacred Minimalism]] · [[practices/zazen|Zazen]]

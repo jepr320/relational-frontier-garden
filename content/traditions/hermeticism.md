@@ -10,7 +10,7 @@ Hermeticism is a philosophical and religious tradition based on writings attribu
 
 The *Corpus Hermeticum* was written in Greek between the 1st and 3rd centuries CE in Alexandria, a cosmopolitan center where Egyptian, Greek, Jewish, and early Christian thought converged. The texts are dialogues between Hermes Trismegistus and his disciples, covering cosmology, theology, psychology, and spiritual practice. Hermeticism influenced early Christian thought and Islamic philosophy, but the Greek texts were largely lost in Western Europe after the fall of Rome, surviving only in fragments and through the Latin *Asclepius*.
 
-The tradition's dramatic return occurred in the Renaissance when [[marsilio-ficino]] translated the *Corpus Hermeticum* from Greek into Latin in 1463 at the request of Cosimo de' Medici. Renaissance humanists believed they had recovered a wisdom tradition that predated and informed both Plato and Christianity. This belief in the *prisca theologia* became a central tenet of Renaissance thought and profoundly shaped the intellectual landscape of early modern Europe.
+The tradition's dramatic return occurred in the Renaissance when [[people/marsilio-ficino|Marsilio Ficino]] translated the *Corpus Hermeticum* from Greek into Latin in 1463 at the request of Cosimo de' Medici. Renaissance humanists believed they had recovered a wisdom tradition that predated and informed both Plato and Christianity. This belief in the *prisca theologia* became a central tenet of Renaissance thought and profoundly shaped the intellectual landscape of early modern Europe.
 
 ## Core Principles
 
@@ -26,7 +26,7 @@ The tradition's dramatic return occurred in the Renaissance when [[marsilio-fici
 
 ## Renaissance Revival
 
-Ficino's 1463 translation ignited a Hermetic revival that lasted two centuries. Key figures include Pico della Mirandola, who synthesized Hermeticism, Kabbalah, and Christian theology, and [[giordano-bruno]], who radicalized Hermetic thought by combining it with Copernican astronomy and developing the art of memory into a cosmic practice.
+Ficino's 1463 translation ignited a Hermetic revival that lasted two centuries. Key figures include Pico della Mirandola, who synthesized Hermeticism, Kabbalah, and Christian theology, and [[people/giordano-bruno|Giordano Bruno]], who radicalized Hermetic thought by combining it with Copernican astronomy and developing the art of memory into a cosmic practice.
 
 Isaac Casaubon's 1614 demonstration that the Hermetic texts were not ancient Egyptian wisdom but relatively late Greek compositions dealt a devastating blow to the Hermetic revival. The texts lost their authority as primordial wisdom, and Hermeticism declined as an intellectual force, though it continued to influence alchemy, magic, and esoteric traditions.
 
@@ -34,13 +34,13 @@ Frances Yates's scholarly work in the 1960s and 1970s recovered the historical s
 
 ## Philosophical Significance
 
-Hermeticism provides the historical and philosophical bridge between ancient [[neoplatonism]] and the [[imaginal-tradition|imaginal tradition]]. The Hermetic understanding of the cosmos as a living, ensouled reality — in which the human being participates through the power of imagination and spiritual ascent — is the direct ancestor of [[participatory-knowing]].
+Hermeticism provides the historical and philosophical bridge between ancient [[neoplatonism]] and the [[imaginal-tradition|imaginal tradition]]. The Hermetic understanding of the cosmos as a living, ensouled reality — in which the human being participates through the power of imagination and spiritual ascent — is the direct ancestor of [[concepts/participatory-knowing|participatory knowing]].
 
 The Hermetic principle of correspondence expresses a participatory ontology: the human being is not an isolated observer of a dead universe but a microcosm containing within itself the structure of the whole. To know oneself is to know the cosmos; to transform oneself is to participate in the transformation of reality. This is the same participatory structure identified in Neoplatonism and in the work of [[henry-corbin]] within the imaginal tradition.
 
-The Hermetic understanding of imagination as a faculty of genuine knowledge — not fantasy but a mode of participation in divine reality — is the direct ancestor of [[active-imagination]]. The *ars memorativa* is a Hermetic practice that works through the imaginal faculty, using disciplined visualization as a mode of genuine encounter with reality.
+The Hermetic understanding of imagination as a faculty of genuine knowledge — not fantasy but a mode of participation in divine reality — is the direct ancestor of [[concepts/active-imagination|active imagination]]. The *ars memorativa* is a Hermetic practice that works through the imaginal faculty, using disciplined visualization as a mode of genuine encounter with reality.
 
-## Key Texts
+## Key Works
 
 - *Corpus Hermeticum* (Greek, 1st–3rd centuries CE)
 - *Asclepius* (Latin translation)

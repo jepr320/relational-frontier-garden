@@ -6,7 +6,7 @@ description: "The ars memorativa (art of memory) is a classical and Renaissance 
 
 The *ars memorativa* (art of memory) is a classical and Renaissance technique for organizing and recalling information through the disciplined use of imagination and spatial visualization. At its core, the art of memory involves constructing vivid mental images (*imagines agentes*) and placing them in imagined architectural spaces (memory palaces or *loci*). When information needs to be recalled, the practitioner mentally traverses the architectural space, encountering the images in order and retrieving their meanings.
 
-But the art of memory was never merely a practical technique for storing information. In the classical and Renaissance traditions, it was understood as an expression of a worldview in which imagination was a genuine faculty of knowing — a mode of participation in reality, not a faculty of fantasy. The images in memory palaces were understood to be participatory: they connected the soul to reality through what [[henry-corbin|Henry Corbin]] would later call the imaginal realm.
+But the art of memory was never merely a practical technique for storing information. In the classical and Renaissance traditions, it was understood as an expression of a worldview in which imagination was a genuine faculty of knowing — a mode of participation in reality, not a faculty of fantasy. The images in memory palaces were understood to be participatory: they connected the soul to reality through what [[people/henry-corbin|Henry Corbin]] would later call the imaginal realm.
 
 ## Historical Development
 
@@ -27,15 +27,15 @@ Early Christian monks adapted the art of memory as a technique for meditation an
 
 ### Renaissance Transformation
 
-The Renaissance saw a dramatic transformation of the art of memory. Humanists like Petrarch and Pico della Mirandola revived the classical technique and began to experiment with more complex and cosmological memory systems. The Hermetic revival, ignited by [[marsilio-ficino]]'s translation of the *Corpus Hermeticum*, infused the art of memory with magical and cosmological significance.
+The Renaissance saw a dramatic transformation of the art of memory. Humanists like Petrarch and Pico della Mirandola revived the classical technique and began to experiment with more complex and cosmological memory systems. The Hermetic revival, ignited by [[people/marsilio-ficino|Marsilio Ficino]]'s translation of the *Corpus Hermeticum*, infused the art of memory with magical and cosmological significance.
 
-Key Renaissance figures include Julius Caesar Scaliger, who developed systematic memory techniques; Giulio Camillo, who designed the "Memory Theater," a complex mnemonic system based on Hermetic and Neoplatonic cosmology; and [[giordano-bruno]], who developed the most ambitious and cosmologically sophisticated memory systems in the tradition.
+Key Renaissance figures include Julius Caesar Scaliger, who developed systematic memory techniques; Giulio Camillo, who designed the "Memory Theater," a complex mnemonic system based on Hermetic and Neoplatonic cosmology; and [[people/giordano-bruno|Giordano Bruno]], who developed the most ambitious and cosmologically sophisticated memory systems in the tradition.
 
 In the Renaissance Hermetic tradition, the art of memory became a practice of spiritual transformation. The memory theater was not merely a tool for storing information but a way of internalizing the structure of the cosmos and awakening the soul to its divine nature.
 
 ### Modern Revival
 
-[[frances-yates|Frances Yates]]'s *The Art of Memory* (1966) revived scholarly and popular interest in the art of memory. Her work demonstrated that the classical and Renaissance memory techniques were not merely mnemonic tricks but expressions of a worldview in which imagination was understood as a real faculty of knowing.
+[[people/frances-yates|Frances Yates]]'s *The Art of Memory* (1966) revived scholarly and popular interest in the art of memory. Her work demonstrated that the classical and Renaissance memory techniques were not merely mnemonic tricks but expressions of a worldview in which imagination was understood as a real faculty of knowing.
 
 Contemporary memory athletes and artists have revived the classical techniques for practical purposes, but the deeper significance of the art of memory — as a mode of participation in reality and a practice of spiritual transformation — remains largely unexplored in contemporary culture.
 
@@ -53,11 +53,11 @@ Contemporary memory athletes and artists have revived the classical techniques f
 
 The art of memory is significant because it provides the historical and practical bridge between the classical understanding of imagination and the contemporary [[imaginal-tradition|imaginal tradition]]. The art of memory expresses a worldview in which imagination is a genuine faculty of knowing — a mode of participation in reality, not a faculty of fantasy.
 
-The *ars memorativa* is the practice ancestor of [[active-imagination]]. Both practices use the disciplined imagination as a mode of genuine encounter with reality. The difference is that the art of memory is more structured and systematic, while active imagination is more open-ended and dialogical. But both practices share the same ontological claim: the images that the imagination produces are not merely mental representations but real entities that exist in an intermediate realm between the material and the divine.
+The *ars memorativa* is the practice ancestor of [[concepts/active-imagination|active imagination]]. Both practices use the disciplined imagination as a mode of genuine encounter with reality. The difference is that the art of memory is more structured and systematic, while active imagination is more open-ended and dialogical. But both practices share the same ontological claim: the images that the imagination produces are not merely mental representations but real entities that exist in an intermediate realm between the material and the divine.
 
 The art of memory also provides a practical method for cultivating the imaginal faculty. To practice the art of memory is to train the imagination to produce vivid, memorable images and to traverse the imaginal realm with confidence and precision. This training has implications for all imaginal practices — for active imagination, for visionary recital, for dream work, for any practice that uses the imagination as a mode of genuine encounter with reality.
 
-The art of memory is fundamentally a [[participatory-knowing|participatory]] practice. The images in the memory palace are not merely mental representations but participatory connections to reality. To traverse the memory theater is to participate in the structure of the cosmos, to know the world from within rather than from without.
+The art of memory is fundamentally a [[concepts/participatory-knowing|participatory]] practice. The images in the memory palace are not merely mental representations but participatory connections to reality. To traverse the memory theater is to participate in the structure of the cosmos, to know the world from within rather than from without.
 
 ## Cross-Links
 

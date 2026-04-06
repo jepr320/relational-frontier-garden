@@ -118,6 +118,4 @@ Deep Listening extends the exploration of silence and attention that [[people/jo
 - [[practices/contact-improvisation|Contact Improvisation]] — Listening through touch and movement
 - [[concepts/meaning-crisis|Meaning Crisis]] — Deep Listening as response to attentional fragmentation
 
----
 
-**See also:** [[people/pauline-oliveros|Pauline Oliveros]] · [[concepts/silence-as-form|Silence as Form]] · [[people/john-cage|John Cage]] · [[traditions/sacred-minimalism|Sacred Minimalism]] · [[practices/contemplative|Contemplative]]
